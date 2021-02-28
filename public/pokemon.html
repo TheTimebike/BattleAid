@@ -80,6 +80,7 @@
         var types = data.types;
         var url = data.url;
         var stats = data.stats;
+        var moves = data.moves;
         var gender = data.gender;
         var typing_formatted = data.typing_formatted;
         var abilities = data.abilities;
@@ -98,9 +99,21 @@ const urlParams = new URLSearchParams(window.location.search);
 const pokemonID = urlParams.get('pokemon');
 
 $.getJSON(`./data/pokemon/${pokemonID}.json`, function(data) {
-    console.log(data);
-    readData(data.name, data.id, data.types, `./images/${data.id}.png`, data.base_stats, data.moves, data.gender_rate, data.types_nice, data.abilities, data.hidden_ability, data.form_name);
-    document.title = niceName(data.name)
+    var packaged_data = {
+        "english_name": data.name,
+        "id": data.id,
+        "types": data.types,
+        "url": `./images/${data.id}.png`,
+        "stats": data.base_stats,
+        "moves": data.moves,
+        "gender": data.gender_rate,
+        "types_nice": data.typing_formatted,
+        "abilities": data.abilities,
+        "hidden_ability": data.hidden_ability,
+        "form": data.form_name
+    }
+    readData(packaged_data);
+    document.title = niceName(packaged_data.name)
 });
 </script>
 <script src="/__/firebase/8.2.4/firebase-app.js"></script>

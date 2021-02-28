@@ -31,7 +31,7 @@
     <div class="leftcolumn wide">
         <div class="card">
             <h2>Search</h2>
-            <input id="search" type="text" placeholder="Bulbasaur" name="search" autocomplete="off" required>
+            <input id="search" type="text" placeholder="Bulbasaur" name="search" autocomplete="off" required autofocus>
             <button id="searchbtn">Search</button>
         </div>
     </div>
@@ -46,7 +46,7 @@
     $.getJSON(`./data/list.json`, function(data) {
         var searchbtn = document.querySelector("#searchbtn")
         searchbtn.addEventListener("click", (e) => {
-            window.location.href = `pokemon?pokemon=${data[search.value]}`
+            window.location.href = `pokemon?pokemon=${data[search.value.toLowerCase]}`
         });
 
         $("#search").autocomplete({

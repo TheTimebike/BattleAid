@@ -1,0 +1,14 @@
+{
+    "name": "Light That Burns the Sky",
+    "id": "723",
+    "desc": "This attack inflicts Attack or Sp. Atk damage\u2014whichever stat is higher for the user, Necrozma. This move ignores the target\u2019s Ability.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "200",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "416"
+}

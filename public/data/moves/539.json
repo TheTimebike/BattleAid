@@ -1,0 +1,14 @@
+{
+    "name": "Night Daze",
+    "id": "539",
+    "desc": "The user lets loose a pitch-black shock wave at itstarget. This may also lower the target\u2019s accuracy.",
+    "generation-introduced": "5",
+    "type": "Dark",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "74"
+}

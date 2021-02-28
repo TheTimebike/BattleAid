@@ -1,0 +1,14 @@
+{
+    "name": "Splash",
+    "id": "150",
+    "desc": "The user just flops and splashes around to no effectat all...",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "86"
+}

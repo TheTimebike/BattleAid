@@ -1,0 +1,14 @@
+{
+    "name": "Heal Order",
+    "id": "456",
+    "desc": "The user calls out its underlings to heal it. The userregains up to half of its max HP.",
+    "generation-introduced": "4",
+    "type": "Bug",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "33"
+}

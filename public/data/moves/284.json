@@ -1,0 +1,14 @@
+{
+    "name": "Eruption",
+    "id": "284",
+    "desc": "The user attacks opposing Pok\u00e9mon with explosivefury. The lower the user\u2019s HP, the lower themove\u2019s power.",
+    "generation-introduced": "3",
+    "type": "Fire",
+    "power": "150",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "191"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Odor Sleuth",
+    "id": "316",
+    "desc": "Enables a Ghost-type target to be hit by Normal-and Fighting-type attacks. This also enables anevasive target to be hit.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "114"
+}

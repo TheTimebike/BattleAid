@@ -1,0 +1,14 @@
+{
+    "name": "Mirror Coat",
+    "id": "243",
+    "desc": "A retaliation move that counters any special attack,inflicting double the damage taken.",
+    "generation-introduced": "2",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "-5",
+    "damage_class": "1",
+    "effect_id": "3",
+    "effect_chance": "145"
+}

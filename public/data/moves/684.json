@@ -1,0 +1,14 @@
+{
+    "name": "Smart Strike",
+    "id": "684",
+    "desc": "The user stabs the target with a sharp horn. Thisattack never misses.",
+    "generation-introduced": "7",
+    "type": "Steel",
+    "power": "70",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "18"
+}

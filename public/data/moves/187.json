@@ -1,0 +1,14 @@
+{
+    "name": "Belly Drum",
+    "id": "187",
+    "desc": "The user maximizes its Attack stat in exchange forHP equal to half its max HP.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "143"
+}

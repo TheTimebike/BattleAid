@@ -1,0 +1,14 @@
+{
+    "name": "Outrage",
+    "id": "200",
+    "desc": "The user rampages and attacks for two to threeturns. The user then becomes confused.",
+    "generation-introduced": "2",
+    "type": "Dragon",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "8",
+    "effect_id": "2",
+    "effect_chance": "28"
+}

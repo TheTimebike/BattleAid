@@ -1,0 +1,14 @@
+{
+    "name": "Attract",
+    "id": "213",
+    "desc": "If it is the opposite gender of the user, the targetbecomes infatuated and less likely to attack.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "121"
+}

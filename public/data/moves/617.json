@@ -1,0 +1,14 @@
+{
+    "name": "Light of Ruin",
+    "id": "617",
+    "desc": "Drawing power from the Eternal Flower, the userfires a powerful beam of light. This also damages theuser quite a lot.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "140",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "270"
+}

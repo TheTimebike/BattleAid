@@ -1,0 +1,1 @@
+{"name": "Battery", "id": "217", "generation-introduced": "7", "short-desc": "Ally Pokemon's moves have their power increased to 1.3%. ", "long-desc": "Ally Pokemon's moves have their power increased to 1.3%. ", "pokemonWithAbility": [{"name": "Charjabug", "id": "737", "types": {"7": {"id": "7", "name": "Bug"}, "13": {"id": "13", "name": "Electric"}}, "ha": false}]}

@@ -1,0 +1,14 @@
+{
+    "name": "Meteor Beam",
+    "id": "800",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Rock",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": ""
+}

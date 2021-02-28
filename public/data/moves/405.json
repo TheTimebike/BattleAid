@@ -1,0 +1,14 @@
+{
+    "name": "Bug Buzz",
+    "id": "405",
+    "desc": "The user generates a damaging sound wave byvibration. This may also lower the target\u2019sSp. Def stat.",
+    "generation-introduced": "4",
+    "type": "Bug",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "73"
+}

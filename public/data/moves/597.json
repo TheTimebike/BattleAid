@@ -1,0 +1,14 @@
+{
+    "name": "Aromatic Mist",
+    "id": "597",
+    "desc": "The user raises the Sp. Def stat of an ally Pok\u00e9monby using a mysterious aroma.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "3",
+    "effect_id": "1",
+    "effect_chance": "363"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Zap Cannon",
+    "id": "192",
+    "desc": "The user fires an electric blast like a cannon to inflictdamage and cause paralysis.",
+    "generation-introduced": "2",
+    "type": "Electric",
+    "power": "120",
+    "pp": "5",
+    "accuracy": "50%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "7"
+}

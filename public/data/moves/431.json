@@ -1,0 +1,14 @@
+{
+    "name": "Rock Climb",
+    "id": "431",
+    "desc": "The user attacks the target by smashing into it withincredible force. This may also confuse the target.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "90",
+    "pp": "20",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "77"
+}

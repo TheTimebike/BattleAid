@@ -1,0 +1,14 @@
+{
+    "name": "Mind Reader",
+    "id": "170",
+    "desc": "The user senses the target\u2019s movements with itsmind to ensure its next attack does not missthe target.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "95"
+}

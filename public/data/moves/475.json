@@ -1,0 +1,14 @@
+{
+    "name": "Autotomize",
+    "id": "475",
+    "desc": "The user sheds part of its body to make itself lighterand sharply raise its Speed stat.",
+    "generation-introduced": "5",
+    "type": "Steel",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "285"
+}

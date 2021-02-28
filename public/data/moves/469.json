@@ -1,0 +1,14 @@
+{
+    "name": "Wide Guard",
+    "id": "469",
+    "desc": "The user and its allies are protected fromwide-ranging attacks for one turn.",
+    "generation-introduced": "5",
+    "type": "Rock",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "3",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "279"
+}

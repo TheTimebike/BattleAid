@@ -1,0 +1,14 @@
+{
+    "name": "Bounce",
+    "id": "340",
+    "desc": "The user bounces up high, then drops on the targeton the second turn. This may also leave the targetwith paralysis.",
+    "generation-introduced": "3",
+    "type": "Flying",
+    "power": "85",
+    "pp": "5",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "264"
+}

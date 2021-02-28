@@ -1,0 +1,14 @@
+{
+    "name": "Topsy-Turvy",
+    "id": "576",
+    "desc": "All stat changes affecting the target turntopsy-turvy and become the opposite of whatthey were.",
+    "generation-introduced": "6",
+    "type": "Dark",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "348"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Vice Grip",
+    "id": "11",
+    "desc": "The target is gripped and squeezed from both sidesto inflict damage.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "55",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Surf",
+    "id": "57",
+    "desc": "The user attacks everything around it by swampingits surroundings with a giant wave.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "258"
+}

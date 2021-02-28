@@ -1,0 +1,14 @@
+{
+    "name": "Power-Up Punch",
+    "id": "612",
+    "desc": "Striking opponents over and over makes the user\u2019sfists harder. Hitting a target raises the Attack stat.",
+    "generation-introduced": "6",
+    "type": "Fighting",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "375"
+}

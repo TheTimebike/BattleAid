@@ -1,0 +1,14 @@
+{
+    "name": "Octazooka",
+    "id": "190",
+    "desc": "The user attacks by spraying ink in the target\u2019s faceor eyes. This may also lower the target\u2019s accuracy.",
+    "generation-introduced": "2",
+    "type": "Water",
+    "power": "65",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "74"
+}

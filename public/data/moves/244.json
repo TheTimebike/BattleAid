@@ -1,0 +1,14 @@
+{
+    "name": "Psych Up",
+    "id": "244",
+    "desc": "The user hypnotizes itself into copying any statchange made by the target.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "144"
+}

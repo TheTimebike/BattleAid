@@ -1,0 +1,14 @@
+{
+    "name": "Present",
+    "id": "217",
+    "desc": "The user attacks by giving the target a gift with ahidden trap. It restores HP sometimes, however.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "123"
+}

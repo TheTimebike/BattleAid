@@ -1,0 +1,14 @@
+{
+    "name": "Fusion Bolt",
+    "id": "559",
+    "desc": "The user throws down a giant lightning bolt. Thismove\u2019s power is increased when influenced by anenormous flame.",
+    "generation-introduced": "5",
+    "type": "Electric",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "337"
+}

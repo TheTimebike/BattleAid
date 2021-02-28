@@ -1,0 +1,14 @@
+{
+    "name": "Thunder Wave",
+    "id": "86",
+    "desc": "The user launches a weak jolt of electricity thatparalyzes the target.",
+    "generation-introduced": "1",
+    "type": "Electric",
+    "power": "",
+    "pp": "20",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "68"
+}

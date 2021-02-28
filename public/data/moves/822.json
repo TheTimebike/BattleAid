@@ -1,0 +1,14 @@
+{
+    "name": "Fiery Wrath",
+    "id": "822",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Dark",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": ""
+}

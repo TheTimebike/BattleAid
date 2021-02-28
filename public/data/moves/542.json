@@ -1,0 +1,14 @@
+{
+    "name": "Hurricane",
+    "id": "542",
+    "desc": "The user attacks by wrapping its opponent in afierce wind that flies up into the sky. This may alsoconfuse the target.",
+    "generation-introduced": "5",
+    "type": "Flying",
+    "power": "110",
+    "pp": "10",
+    "accuracy": "70%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "334"
+}

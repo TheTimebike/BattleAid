@@ -1,0 +1,14 @@
+{
+    "name": "Eerie Impulse",
+    "id": "598",
+    "desc": "The user\u2019s body generates an eerie impulse.Exposing the target to it harshly lowers the target\u2019sSp. Atk stat.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "62"
+}

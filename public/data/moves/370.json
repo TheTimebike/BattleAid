@@ -1,0 +1,14 @@
+{
+    "name": "Close Combat",
+    "id": "370",
+    "desc": "The user fights the target up close without guardingitself. This also lowers the user\u2019s Defense andSp. Def stats.",
+    "generation-introduced": "4",
+    "type": "Fighting",
+    "power": "120",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "230"
+}

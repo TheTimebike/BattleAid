@@ -1,0 +1,14 @@
+{
+    "name": "Buzzy Buzz",
+    "id": "734",
+    "desc": "",
+    "generation-introduced": "7",
+    "type": "Electric",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "372"
+}

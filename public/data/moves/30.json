@@ -1,0 +1,14 @@
+{
+    "name": "Horn Attack",
+    "id": "30",
+    "desc": "The target is jabbed with a sharply pointed horn toinflict damage.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "65",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

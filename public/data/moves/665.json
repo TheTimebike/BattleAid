@@ -1,0 +1,14 @@
+{
+    "name": "Ice Hammer",
+    "id": "665",
+    "desc": "The user swings and hits with its strong, heavy fist.It lowers the user\u2019s Speed, however.",
+    "generation-introduced": "7",
+    "type": "Ice",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "219"
+}

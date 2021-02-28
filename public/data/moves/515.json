@@ -1,0 +1,14 @@
+{
+    "name": "Final Gambit",
+    "id": "515",
+    "desc": "The user risks everything to attack its target. Theuser faints but does damage equal to its HP.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "321"
+}

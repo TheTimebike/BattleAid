@@ -1,0 +1,14 @@
+{
+    "name": "Attack Order",
+    "id": "454",
+    "desc": "The user calls out its underlings to pummel thetarget. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Bug",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

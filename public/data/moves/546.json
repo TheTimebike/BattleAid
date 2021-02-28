@@ -1,0 +1,14 @@
+{
+    "name": "Techno Blast",
+    "id": "546",
+    "desc": "The user fires a beam of light at its target. Themove\u2019s type changes depending on the Drive theuser holds.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "120",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "269"
+}

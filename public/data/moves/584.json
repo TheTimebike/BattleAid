@@ -1,0 +1,14 @@
+{
+    "name": "Fairy Wind",
+    "id": "584",
+    "desc": "The user stirs up a fairy wind and strikes the targetwith it.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

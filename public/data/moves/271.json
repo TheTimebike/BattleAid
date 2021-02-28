@@ -1,0 +1,14 @@
+{
+    "name": "Trick",
+    "id": "271",
+    "desc": "The user catches the target off guard and swaps itsheld item with its own.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "178"
+}

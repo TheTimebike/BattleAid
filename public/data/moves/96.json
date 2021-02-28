@@ -1,0 +1,14 @@
+{
+    "name": "Meditate",
+    "id": "96",
+    "desc": "The user meditates to awaken the power deepwithin its body and raise its Attack stat.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "11"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Petal Dance",
+    "id": "80",
+    "desc": "The user attacks the target by scattering petals fortwo to three turns. The user then becomes confused.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "8",
+    "effect_id": "3",
+    "effect_chance": "28"
+}

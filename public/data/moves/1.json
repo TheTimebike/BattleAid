@@ -1,0 +1,14 @@
+{
+    "name": "Pound",
+    "id": "1",
+    "desc": "The target is physically pounded with a long tail, aforeleg, or the like.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "40",
+    "pp": "35",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Arm Thrust",
+    "id": "292",
+    "desc": "The user lets loose a flurry of open-palmed armthrusts that hit two to five times in a row.",
+    "generation-introduced": "3",
+    "type": "Fighting",
+    "power": "15",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

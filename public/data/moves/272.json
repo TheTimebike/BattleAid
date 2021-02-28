@@ -1,0 +1,14 @@
+{
+    "name": "Role Play",
+    "id": "272",
+    "desc": "The user mimics the target completely, copying thetarget\u2019s natural Ability.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "179"
+}

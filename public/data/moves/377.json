@@ -1,0 +1,14 @@
+{
+    "name": "Heal Block",
+    "id": "377",
+    "desc": "For five turns, the user prevents the opposing teamfrom using any moves, Abilities, or held items thatrecover HP.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "237"
+}

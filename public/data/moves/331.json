@@ -1,0 +1,14 @@
+{
+    "name": "Bullet Seed",
+    "id": "331",
+    "desc": "The user forcefully shoots seeds at the target twoto five times in a row.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "25",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

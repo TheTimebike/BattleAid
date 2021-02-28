@@ -1,0 +1,14 @@
+{
+    "name": "Tailwind",
+    "id": "366",
+    "desc": "The user whips up a turbulent whirlwind that upsthe Speed stat of the user and its allies forfour turns.",
+    "generation-introduced": "4",
+    "type": "Flying",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "226"
+}

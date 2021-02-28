@@ -1,0 +1,14 @@
+{
+    "name": "Block",
+    "id": "335",
+    "desc": "The user blocks the target\u2019s way with arms spreadwide to prevent escape.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "107"
+}

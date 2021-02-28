@@ -1,0 +1,14 @@
+{
+    "name": "Minimize",
+    "id": "107",
+    "desc": "The user compresses its body to make itself looksmaller, which sharply raises its evasiveness.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "109"
+}

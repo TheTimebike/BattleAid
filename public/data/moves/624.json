@@ -1,0 +1,14 @@
+{
+    "name": "All-Out Pummeling",
+    "id": "624",
+    "desc": "The user rams an energy orb created by its Z-Powerinto the target with full force. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Fighting",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

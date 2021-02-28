@@ -1,0 +1,14 @@
+{
+    "name": "Take Down",
+    "id": "36",
+    "desc": "A reckless, full-body charge attack for slamming intothe target. This also damages the user a little.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "90",
+    "pp": "20",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "49"
+}

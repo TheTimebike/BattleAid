@@ -1,0 +1,14 @@
+{
+    "name": "Nature\u2019s Madness",
+    "id": "717",
+    "desc": "The user hits the target with the force of nature.It halves the target\u2019s HP.",
+    "generation-introduced": "7",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "41"
+}

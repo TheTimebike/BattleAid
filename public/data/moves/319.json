@@ -1,0 +1,14 @@
+{
+    "name": "Metal Sound",
+    "id": "319",
+    "desc": "A horrible sound like scraping metal harshly lowersthe target\u2019s Sp. Def stat.",
+    "generation-introduced": "3",
+    "type": "Steel",
+    "power": "",
+    "pp": "40",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "63"
+}

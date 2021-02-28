@@ -1,0 +1,14 @@
+{
+    "name": "Rock Slide",
+    "id": "157",
+    "desc": "Large boulders are hurled at the opposing Pok\u00e9monto inflict damage. This may also make the opposingPok\u00e9mon flinch.",
+    "generation-introduced": "1",
+    "type": "Rock",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

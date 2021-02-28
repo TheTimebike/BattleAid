@@ -1,0 +1,14 @@
+{
+    "name": "Sizzly Slide",
+    "id": "736",
+    "desc": "",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "421"
+}

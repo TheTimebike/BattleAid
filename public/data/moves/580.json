@@ -1,0 +1,14 @@
+{
+    "name": "Grassy Terrain",
+    "id": "580",
+    "desc": "The user turns the ground to grass for five turns.This restores the HP of Pok\u00e9mon on the ground alittle every turn and powers up Grass type-moves.",
+    "generation-introduced": "6",
+    "type": "Grass",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "352"
+}

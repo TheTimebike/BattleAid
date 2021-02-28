@@ -1,0 +1,14 @@
+{
+    "name": "Earthquake",
+    "id": "89",
+    "desc": "The user sets off an earthquake that strikes everyPok\u00e9mon around it.",
+    "generation-introduced": "1",
+    "type": "Ground",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "2",
+    "effect_chance": "148"
+}

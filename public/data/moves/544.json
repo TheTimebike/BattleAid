@@ -1,0 +1,14 @@
+{
+    "name": "Gear Grind",
+    "id": "544",
+    "desc": "The user attacks by throwing steel gears at itstarget twice.",
+    "generation-introduced": "5",
+    "type": "Steel",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "45"
+}

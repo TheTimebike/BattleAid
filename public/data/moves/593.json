@@ -1,0 +1,14 @@
+{
+    "name": "Hyperspace Hole",
+    "id": "593",
+    "desc": "Using a hyperspace hole, the user appears rightnext to the target and strikes. This also hits a targetusing a move such as Protect or Detect.",
+    "generation-introduced": "6",
+    "type": "Psychic",
+    "power": "80",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "360"
+}

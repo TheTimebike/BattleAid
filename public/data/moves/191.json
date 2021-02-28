@@ -1,0 +1,14 @@
+{
+    "name": "Spikes",
+    "id": "191",
+    "desc": "The user lays a trap of spikes at the opposingteam\u2019s feet. The trap hurts Pok\u00e9mon that switchinto battle.",
+    "generation-introduced": "2",
+    "type": "Ground",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "6",
+    "effect_id": "1",
+    "effect_chance": "113"
+}

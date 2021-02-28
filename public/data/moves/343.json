@@ -1,0 +1,14 @@
+{
+    "name": "Covet",
+    "id": "343",
+    "desc": "The user endearingly approaches the target, thensteals the target\u2019s held item.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "60",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "106"
+}

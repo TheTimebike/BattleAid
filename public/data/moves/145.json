@@ -1,0 +1,14 @@
+{
+    "name": "Bubble",
+    "id": "145",
+    "desc": "A spray of countless bubbles is jetted at theopposing Pok\u00e9mon. This may also lower theirSpeed stat.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "71"
+}

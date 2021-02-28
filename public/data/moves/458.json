@@ -1,0 +1,14 @@
+{
+    "name": "Double Hit",
+    "id": "458",
+    "desc": "The user slams the target with a long tail, vines, or atentacle. The target is hit twice in a row.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "35",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "45"
+}

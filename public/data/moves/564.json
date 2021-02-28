@@ -1,0 +1,14 @@
+{
+    "name": "Sticky Web",
+    "id": "564",
+    "desc": "The user weaves a sticky net around the opposingteam, which lowers their Speed stat upon switchinginto battle.",
+    "generation-introduced": "6",
+    "type": "Bug",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "6",
+    "effect_id": "1",
+    "effect_chance": "341"
+}

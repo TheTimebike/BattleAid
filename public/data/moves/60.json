@@ -1,0 +1,14 @@
+{
+    "name": "Psybeam",
+    "id": "60",
+    "desc": "The target is attacked with a peculiar ray. This mayalso leave the target confused.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "77"
+}

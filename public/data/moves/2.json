@@ -1,0 +1,14 @@
+{
+    "name": "Karate Chop",
+    "id": "2",
+    "desc": "The target is attacked with a sharp chop. Criticalhits land more easily.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "50",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

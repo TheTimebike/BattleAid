@@ -1,0 +1,14 @@
+{
+    "name": "Purify",
+    "id": "685",
+    "desc": "The user heals the target\u2019s status condition. If themove succeeds, it also restores the user\u2019s own HP.",
+    "generation-introduced": "7",
+    "type": "Poison",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "400"
+}

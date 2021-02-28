@@ -1,0 +1,1 @@
+{"name": "Receiver", "id": "222", "generation-introduced": "7", "short-desc": "When an ally faints, this Pokemon gains its Ability. ", "long-desc": "When an ally faints, this Pokemon gains its Ability. ", "pokemonWithAbility": [{"name": "Passimian", "id": "766", "types": {"2": {"id": "2", "name": "Fighting"}}, "ha": false}]}

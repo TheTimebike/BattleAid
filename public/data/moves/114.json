@@ -1,0 +1,14 @@
+{
+    "name": "Haze",
+    "id": "114",
+    "desc": "The user creates a haze that eliminates every statchange among all the Pok\u00e9mon engaged in battle.",
+    "generation-introduced": "1",
+    "type": "Ice",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "26"
+}

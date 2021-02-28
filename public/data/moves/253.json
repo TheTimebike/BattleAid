@@ -1,0 +1,14 @@
+{
+    "name": "Uproar",
+    "id": "253",
+    "desc": "The user attacks in an uproar for three turns.During that time, no Pok\u00e9mon can fall asleep.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "8",
+    "effect_id": "3",
+    "effect_chance": "160"
+}

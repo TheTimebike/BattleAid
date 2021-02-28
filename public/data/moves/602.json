@@ -1,0 +1,14 @@
+{
+    "name": "Magnetic Flux",
+    "id": "602",
+    "desc": "The user manipulates magnetic fields, which raisesthe Defense and Sp. Def stats of ally Pok\u00e9mon withthe Plus or Minus Ability.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "13",
+    "effect_id": "1",
+    "effect_chance": "367"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Electroweb",
+    "id": "527",
+    "desc": "The user attacks and captures opposing Pok\u00e9monusing an electric net. This lowers their Speed stat.",
+    "generation-introduced": "5",
+    "type": "Electric",
+    "power": "55",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "21"
+}

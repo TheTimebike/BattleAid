@@ -1,0 +1,14 @@
+{
+    "name": "Blizzard",
+    "id": "59",
+    "desc": "A howling blizzard is summoned to strike opposingPok\u00e9mon. This may also leave the opposingPok\u00e9mon frozen.",
+    "generation-introduced": "1",
+    "type": "Ice",
+    "power": "110",
+    "pp": "5",
+    "accuracy": "70%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "261"
+}

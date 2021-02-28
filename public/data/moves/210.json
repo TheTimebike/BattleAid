@@ -1,0 +1,14 @@
+{
+    "name": "Fury Cutter",
+    "id": "210",
+    "desc": "The target is slashed with scythes or claws. Thisattack becomes more powerful if it hitsin succession.",
+    "generation-introduced": "2",
+    "type": "Bug",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "120"
+}

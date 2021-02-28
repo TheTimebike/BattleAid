@@ -1,0 +1,14 @@
+{
+    "name": "Fire Spin",
+    "id": "83",
+    "desc": "The target becomes trapped within a fierce vortexof fire that rages for four to five turns.",
+    "generation-introduced": "1",
+    "type": "Fire",
+    "power": "35",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "43"
+}

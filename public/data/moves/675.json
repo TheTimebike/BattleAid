@@ -1,0 +1,14 @@
+{
+    "name": "Throat Chop",
+    "id": "675",
+    "desc": "The user attacks the target\u2019s throat, and theresultant suffering prevents the target from usingmoves that emit sound for two turns.",
+    "generation-introduced": "7",
+    "type": "Dark",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "393"
+}

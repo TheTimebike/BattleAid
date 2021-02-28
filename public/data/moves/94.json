@@ -1,0 +1,14 @@
+{
+    "name": "Psychic",
+    "id": "94",
+    "desc": "The target is hit by a strong telekinetic force.This may also lower the target\u2019s Sp. Def stat.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "73"
+}

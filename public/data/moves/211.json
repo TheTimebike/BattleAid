@@ -1,0 +1,14 @@
+{
+    "name": "Steel Wing",
+    "id": "211",
+    "desc": "The target is hit with wings of steel. This may alsoraise the user\u2019s Defense stat.",
+    "generation-introduced": "2",
+    "type": "Steel",
+    "power": "70",
+    "pp": "25",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "139"
+}

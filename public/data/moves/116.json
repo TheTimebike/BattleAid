@@ -1,0 +1,14 @@
+{
+    "name": "Focus Energy",
+    "id": "116",
+    "desc": "The user takes a deep breath and focuses so thatcritical hits land more easily.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "48"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Round",
+    "id": "496",
+    "desc": "The user attacks the target with a song. Others canjoin in the Round to increase the power ofthe attack.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "60",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "302"
+}

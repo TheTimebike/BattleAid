@@ -1,0 +1,14 @@
+{
+    "name": "Relic Song",
+    "id": "547",
+    "desc": "The user sings an ancient song and attacks byappealing to the hearts of the listening opposingPok\u00e9mon. This may also induce sleep.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "330"
+}

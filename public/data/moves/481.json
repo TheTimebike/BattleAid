@@ -1,0 +1,14 @@
+{
+    "name": "Flame Burst",
+    "id": "481",
+    "desc": "The user attacks the target with a bursting flame.The bursting flame damages Pok\u00e9mon next to thetarget as well.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "70",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "290"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Trump Card",
+    "id": "376",
+    "desc": "The fewer PP this move has, the greater its power.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "236"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Hone Claws",
+    "id": "468",
+    "desc": "The user sharpens its claws to boost its Attack statand accuracy.",
+    "generation-introduced": "5",
+    "type": "Dark",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "278"
+}

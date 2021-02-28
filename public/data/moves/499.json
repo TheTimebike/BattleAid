@@ -1,0 +1,14 @@
+{
+    "name": "Clear Smog",
+    "id": "499",
+    "desc": "The user attacks by throwing a clump of specialmud. All stat changes are returned to normal.",
+    "generation-introduced": "5",
+    "type": "Poison",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "305"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Curse",
+    "id": "174",
+    "desc": "A move that works differently for the Ghost typethan for all other types.",
+    "generation-introduced": "2",
+    "type": "Ghost",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "1",
+    "effect_id": "1",
+    "effect_chance": "110"
+}

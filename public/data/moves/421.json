@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Claw",
+    "id": "421",
+    "desc": "The user slashes with a sharp claw made fromshadows. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Ghost",
+    "power": "70",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

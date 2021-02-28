@@ -1,0 +1,14 @@
+{
+    "name": "Veevee Volley",
+    "id": "741",
+    "desc": "",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "122"
+}

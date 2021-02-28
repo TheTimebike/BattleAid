@@ -1,0 +1,14 @@
+{
+    "name": "Hold Hands",
+    "id": "607",
+    "desc": "The user and an ally hold hands. This makes themvery happy.",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "3",
+    "effect_id": "1",
+    "effect_chance": "371"
+}

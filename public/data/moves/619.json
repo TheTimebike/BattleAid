@@ -1,0 +1,14 @@
+{
+    "name": "Precipice Blades",
+    "id": "619",
+    "desc": "The user attacks opposing Pok\u00e9mon by manifestingthe power of the land in fearsome blades of stone.",
+    "generation-introduced": "6",
+    "type": "Ground",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

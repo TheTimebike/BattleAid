@@ -1,0 +1,14 @@
+{
+    "name": "Needle Arm",
+    "id": "302",
+    "desc": "The user attacks by wildly swinging its thorny arms.This may also make the target flinch.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "60",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

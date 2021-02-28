@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Sneak",
+    "id": "425",
+    "desc": "The user extends its shadow and attacks the targetfrom behind. This move always goes first.",
+    "generation-introduced": "4",
+    "type": "Ghost",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

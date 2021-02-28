@@ -1,0 +1,14 @@
+{
+    "name": "Sand Tomb",
+    "id": "328",
+    "desc": "The user traps the target inside a harshly ragingsandstorm for four to five turns.",
+    "generation-introduced": "3",
+    "type": "Ground",
+    "power": "35",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "43"
+}

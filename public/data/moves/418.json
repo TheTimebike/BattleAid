@@ -1,0 +1,14 @@
+{
+    "name": "Bullet Punch",
+    "id": "418",
+    "desc": "The user strikes the target with tough punches asfast as bullets. This move always goes first.",
+    "generation-introduced": "4",
+    "type": "Steel",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

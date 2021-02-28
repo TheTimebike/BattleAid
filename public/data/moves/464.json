@@ -1,0 +1,14 @@
+{
+    "name": "Dark Void",
+    "id": "464",
+    "desc": "Opposing Pok\u00e9mon are dragged into a world of totaldarkness that makes them sleep.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "",
+    "pp": "10",
+    "accuracy": "50%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "2"
+}

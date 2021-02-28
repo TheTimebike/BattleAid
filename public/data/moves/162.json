@@ -1,0 +1,14 @@
+{
+    "name": "Super Fang",
+    "id": "162",
+    "desc": "The user chomps hard on the target with its sharpfront fangs. This cuts the target\u2019s HP in half.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "41"
+}

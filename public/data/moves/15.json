@@ -1,0 +1,14 @@
+{
+    "name": "Cut",
+    "id": "15",
+    "desc": "The target is cut with a scythe or claw.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "50",
+    "pp": "30",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

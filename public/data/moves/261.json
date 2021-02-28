@@ -1,0 +1,14 @@
+{
+    "name": "Will-O-Wisp",
+    "id": "261",
+    "desc": "The user shoots a sinister, bluish-white flame at thetarget to inflict a burn.",
+    "generation-introduced": "3",
+    "type": "Fire",
+    "power": "",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "168"
+}

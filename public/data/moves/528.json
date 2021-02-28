@@ -1,0 +1,14 @@
+{
+    "name": "Wild Charge",
+    "id": "528",
+    "desc": "The user shrouds itself in electricity and smashesinto its target. This also damages the user a little.",
+    "generation-introduced": "5",
+    "type": "Electric",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "49"
+}

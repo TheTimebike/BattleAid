@@ -1,0 +1,14 @@
+{
+    "name": "Coil",
+    "id": "489",
+    "desc": "The user coils up and concentrates. This raises itsAttack and Defense stats as well as its accuracy.",
+    "generation-introduced": "5",
+    "type": "Poison",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "323"
+}

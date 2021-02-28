@@ -1,0 +1,14 @@
+{
+    "name": "Disarming Voice",
+    "id": "574",
+    "desc": "Letting out a charming cry, the user does emotionaldamage to opposing Pok\u00e9mon. This attacknever misses.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "40",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "381"
+}

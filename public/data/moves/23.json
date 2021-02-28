@@ -1,0 +1,14 @@
+{
+    "name": "Stomp",
+    "id": "23",
+    "desc": "The target is stomped with a big foot. This may alsomake the target flinch.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "151"
+}

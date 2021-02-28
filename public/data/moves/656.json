@@ -1,0 +1,14 @@
+{
+    "name": "Twinkle Tackle",
+    "id": "656",
+    "desc": "The user creates a very charming space using itsZ-Power and totally toys with the target. The powervaries, depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Fairy",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

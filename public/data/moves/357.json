@@ -1,0 +1,14 @@
+{
+    "name": "Miracle Eye",
+    "id": "357",
+    "desc": "Enables a Dark-type target to be hit byPsychic-type attacks. This also enables an evasivetarget to be hit.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "217"
+}

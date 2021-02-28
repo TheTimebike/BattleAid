@@ -1,0 +1,14 @@
+{
+    "name": "Bulk Up",
+    "id": "339",
+    "desc": "The user tenses its muscles to bulk up its body,raising both its Attack and Defense stats.",
+    "generation-introduced": "3",
+    "type": "Fighting",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "209"
+}

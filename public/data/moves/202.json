@@ -1,0 +1,14 @@
+{
+    "name": "Giga Drain",
+    "id": "202",
+    "desc": "A nutrient-draining attack. The user\u2019s HP is restoredby half the damage taken by the target.",
+    "generation-introduced": "2",
+    "type": "Grass",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "4"
+}

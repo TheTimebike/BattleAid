@@ -1,0 +1,14 @@
+{
+    "name": "Jump Kick",
+    "id": "26",
+    "desc": "The user jumps up high, then strikes with a kick.If the kick misses, the user hurts itself.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "46"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Agility",
+    "id": "97",
+    "desc": "The user relaxes and lightens its body to movefaster. This sharply raises the Speed stat.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "53"
+}

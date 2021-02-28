@@ -1,0 +1,14 @@
+{
+    "name": "Struggle Bug",
+    "id": "522",
+    "desc": "While resisting, the user attacks the opposingPok\u00e9mon. This lowers the Sp. Atk stat of those hit.",
+    "generation-introduced": "5",
+    "type": "Bug",
+    "power": "50",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "72"
+}

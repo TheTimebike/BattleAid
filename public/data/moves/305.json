@@ -1,0 +1,14 @@
+{
+    "name": "Poison Fang",
+    "id": "305",
+    "desc": "The user bites the target with toxic fangs. This mayalso leave the target badly poisoned.",
+    "generation-introduced": "3",
+    "type": "Poison",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "203"
+}

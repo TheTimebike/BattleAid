@@ -1,0 +1,14 @@
+{
+    "name": "Solar Blade",
+    "id": "669",
+    "desc": "In this two-turn attack, the user gathers light andfills a blade with the light\u2019s energy, attacking thetarget on the next turn.",
+    "generation-introduced": "7",
+    "type": "Grass",
+    "power": "125",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "152"
+}

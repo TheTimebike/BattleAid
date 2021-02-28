@@ -1,0 +1,14 @@
+{
+    "name": "Supersonic Skystrike",
+    "id": "626",
+    "desc": "The user soars up with its Z-Power and plummetstoward the target at full speed. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Flying",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

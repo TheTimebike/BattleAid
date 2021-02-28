@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Destiny Button</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link id="pagestyle" rel="stylesheet" href="./styledark.css">
+<link rel="stylesheet" href="./font/style.css">
+</head>
+
+<body>
+    <div class="textcontainer" style="width: 325px">
+        <p class="fancy-text-header">WHETHER WE WANTED IT OR NOT</p>
+        <hr class="fancy-text-hr-ends-top" style="float:left">
+        <hr class="fancy-text-hr-ends-top" style="float:right">
+        <hr class="fancy-text-hr">
+        <p class="fancy-text-content">WE STEPPED INTO A WAR WITH THE CABAL ON MARS</p>
+        <hr class="fancy-text-hr">
+        <hr class="fancy-text-hr-ends-bottom" style="float:left">
+        <hr class="fancy-text-hr-ends-bottom" style="float:right">
+    </div>
+
+    <div class="destiny-icon-container">
+        <div class="void destiny-icon disable-select clickable" onclick="flashWhite(event)">
+            <div class="ability-line animated"></div>
+            <div class="ability-line-slow animated"></div>
+            <img class="destiny" src="./iconography/GamblersDodge.PNG">
+        </div>
+        <div class="solar destiny-icon disable-select clickable" onclick="flashWhite(event)">
+            <div class="ability-line animated"></div>
+            <div class="ability-line-slow animated"></div>
+            <img class="destiny" src="./iconography/GamblersDodge.PNG">
+        </div>
+        <div class="arc destiny-icon disable-select clickable" onclick="flashWhite(event)">
+            <div class="ability-line animated"></div>
+            <div class="ability-line-slow animated"></div>
+            <img class="destiny" src="./iconography/GamblersDodge.PNG">
+        </div>
+        <div class="stasis destiny-icon disable-select clickable" onclick="flashWhite(event)">
+            <div class="ability-line animated"></div>
+            <div class="ability-line-slow animated"></div>
+            <img class="destiny" src="./iconography/GamblersDodge.PNG">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="column" style="padding: 10px;">
+            <div id="destiny-super-animation" class="destiny-super-charged-container">
+                <div id="super-left"></div>
+                <span class="disable-select">SUPER CHARGED</span>
+                <div id="super-right"></div>
+                <img src="./iconography/VoidwalkerCharged.png">
+            </div>
+        </div>
+    </div>
+
+    <div class="destiny-super-box-container">
+        <div class="destiny-super-box disable-select clickable" onclick="superFlashWhite(event)">
+            <img class="destiny" src="./iconography/Voidwalker.PNG">
+        </div>
+        
+        <div class="destiny-super-bar">
+            <div class="destiny-super-charging-bar animated"></div>
+            <div class="super-break percent-25"></div>
+            <div class="super-break percent-50"></div>
+            <div class="super-break percent-75"></div>
+
+            <div class="destiny-icon-container" style="padding-top: 17px; padding-left: 13px;justify-content: left">
+
+                <div class="void destiny-icon disable-select clickable" onclick="flashWhite(event)">
+                    <div class="ability-line animated"></div>
+                    <div class="ability-line-slow animated"></div>
+                    <img class="destiny" src="./iconography/VortexGrenade.PNG">
+                </div>
+                <div class="void destiny-icon disable-select clickable" onclick="flashWhite(event)">
+                    <div class="ability-line animated"></div>
+                    <div class="ability-line-slow animated"></div>
+                    <img class="destiny" src="./iconography/Devour.PNG">
+                </div>
+                <div class="void destiny-icon disable-select clickable" onclick="flashWhite(event)">
+                    <div class="ability-line animated"></div>
+                    <div class="ability-line-slow animated"></div>
+                    <img class="destiny" src="./iconography/HealingRift.PNG">
+                </div>
+
+                <div class="destiny-weapon-bar" style="justify-content: left">
+                    <div class="active destiny-weapon-tab primary disable-select clickable" onclick="swapWeapons(event)">
+                        <pre class="destiny"></pre>
+                        <div class="destiny-weapon-tab-ammo-break"></div>
+                        <span class="mag">12</span>
+                        <span class="reserves">110</span>
+                        <span class="total">122</span>
+                    </div>
+                    <div class="destiny-weapon-tab secondary disable-select clickable" onclick="swapWeapons(event)">
+                        <pre class="destiny"></pre>
+                        <img class="destiny-weapon-element" src="./iconography/Void.png">
+                        <div class="destiny-weapon-tab-ammo-break"></div>
+                        <span class="mag">3</span>
+                        <span class="reserves">14</span>
+                        <span class="total">17</span>
+                    </div>
+                    <div class="destiny-weapon-tab heavy disable-select clickable" onclick="swapWeapons(event)">
+                        <pre class="destiny"></pre>
+                        <img class="destiny-weapon-element" src="./iconography/Arc.png">
+                        <div class="destiny-weapon-tab-ammo-break"></div>
+                        <span class="mag">3</span>
+                        <span class="reserves">0</span>
+                        <span class="total">3</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="destiny-capture-zone-container">
+        <div class="destiny-capture-zone neutral captured-by-enemy clickable disable-select" onclick="captureZone(event)">
+            <svg preserveAspectRatio="none"><rect x=0 y=0 width=100% height=100% /></svg>
+            <span class="total">A</span>
+        </div>
+
+        <div class="destiny-capture-zone friendly captured-by-enemy clickable disable-select" onclick="captureZone(event)">
+            <svg  preserveAspectRatio="none"><rect x=0 y=0 width=100% height=100% /></svg>
+            <span class="total">B</span>
+        </div>
+
+        <div class="destiny-capture-zone enemy captured-by-friendly clickable disable-select" onclick="captureZone(event)">
+            <svg  preserveAspectRatio="none"><rect x=0 y=0 width=100% height=100% /></svg>
+            <span class="total">C</span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="column">
+            <div class="matchmaking-icon">
+                <div class="matchmaking-animated-border"></div>
+                <div class="matchmaking-animated-border-outer"></div>
+                <div class="circle-border" style="--p:12.5;">
+                </div>            
+                <svg class="matchmaking">
+                    <circle cx="50%" cy="50%" r="80" class="dashed">
+
+                    </circle>
+                    <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle">18</text>
+                    <line x1="65%" y1="20%" x2="35%" y2="75%" style="stroke: #414244;stroke-width:1"></line>
+                </svg>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="column">
+            <div class="card wrap destiny-button inner-box-shadow outline border clickable" onclick="swapSheet()">
+                <span class="disable-select">CHANGE THEME</span>
+            </div>
+        </div>
+    </div>
+
+    <div style="margin :100px;"></div>
+
+    <div class="row">
+        <div class="column">
+
+            <div class="card wrap destiny-button inner-box-shadow outline border clickable" onclick="openModal(event)">
+                <span class="disable-select">OPEN MODAL</span>
+            </div>
+
+            <div id="modal-content" class="destiny-menu-modal">
+                <div class="destiny-menu-modal-content">
+
+                    <div class="modal-button-container">
+                        <div class="card wrap destiny-button inner-box-shadow outline border clickable">
+                            <span class="disable-select">Open Director</span>
+                        </div>
+    
+                        <div class="card wrap destiny-button inner-box-shadow outline border clickable">
+                            <span class="disable-select">Open Character</span>
+                        </div>
+    
+                        <div class="card wrap destiny-button inner-box-shadow outline border clickable">
+                            <span class="disable-select">Open Settings</span>
+                        </div>
+    
+                        <div class="card wrap destiny-button inner-box-shadow outline border clickable">
+                            <span class="disable-select">Change Character</span>
+                        </div>
+    
+                        <div class="card wrap destiny-button inner-box-shadow outline border clickable">
+                            <span class="disable-select">Exit To Desktop</span>
+                        </div>
+                    </div>
+
+                    <div class="modal-text disable-select">
+                        <span>GAME OPTIONS</span>
+                        <br>
+                        <p>Select an option</p>
+                        <br>
+                        <p>Shortcut this menu during gameplay by pressing ESC</p>
+                    </div>
+
+                    <div class="exit-button clickable disable-select" onclick="closeModal(event)">
+                        <pre class="destiny"></pre>
+                        <span>Dismiss</span>
+                    </div>
+                    
+
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div style="margin :1000px;"></div>
+
+</body>
+
+<script src= "./jquery-3.5.1.js"> </script>
+<script>
+
+document.getElementById("super-left").classList.add("destiny-super-charged-box-left");
+document.getElementById("super-right").classList.add("destiny-super-charged-box-right");
+
+function openModal(e) {
+    document.getElementById("modal-content").style.display = "block";
+}
+
+function closeModal(e) {
+    document.getElementById("modal-content").style.display = "none";
+}
+
+setInterval(function(){
+    doStuff()
+    doSuperStuff()
+}, 100);
+
+function swapDirections(e) {
+    var barSegment = e.target;
+    barSegment.classList.toggle("reversed");
+}
+
+function captureZone(e) {
+    var flag = e.target.closest(".destiny-capture-zone");
+    flag.classList.toggle("animated");
+    flag.classList.remove("captured");
+
+    setTimeout(function(){
+        flag.classList.add("captured");
+        if (flag.classList.contains("friendly") || flag.classList.contains("enemy")) {
+            flag.classList.toggle("friendly");
+            flag.classList.toggle("enemy");
+            flag.classList.toggle("captured-by-friendly");
+            flag.classList.toggle("captured-by-enemy");
+        } else if (flag.classList.contains("neutral") && flag.classList.contains("captured-by-enemy")) {
+            flag.classList.toggle("enemy");
+            flag.classList.toggle("neutral");
+            flag.classList.toggle("captured-by-friendly");
+            flag.classList.toggle("captured-by-enemy");
+        } else if (flag.classList.contains("neutral") && flag.classList.contains("captured-by-friendly")) {
+            flag.classList.toggle("friendly");
+            flag.classList.toggle("neutral");
+            flag.classList.toggle("captured-by-friendly");
+            flag.classList.toggle("captured-by-enemy");
+        }
+        flag.classList.toggle("animated");
+    }, (!flag.classList.contains("friendly") ? 6000 : 7500));
+}
+
+function swapWeapons(e) {
+    var tab = e.target.closest(".destiny-weapon-tab");
+    var activeTab = document.querySelector(".destiny-weapon-tab.active")
+
+    activeTab.classList.toggle("active");
+    tab.classList.toggle("active");
+
+    tab.classList.add("swapfrom");
+    setInterval(function() {
+        tab.classList.remove("swapfrom");
+    }, 1000)
+
+    activeTab.classList.add("swapto");
+    setInterval(function() {
+        activeTab.classList.remove("swapto");
+    }, 1000)
+}
+
+function doStuff() {
+    var elems = document.querySelectorAll(".ability-line");
+    for (elem = 0; elem < elems.length; ++elem) {
+        if (elems[elem].getBoundingClientRect().bottom < elems[elem].nextElementSibling.getBoundingClientRect().bottom ) {
+            elems[elem].style.visibility = "hidden";
+        } else {
+            elems[elem].style.visibility = "visible";
+        }
+        var epsilon = 1
+        if (elems[elem].parentElement.offsetHeight-2 - parseFloat(window.getComputedStyle(elems[elem].nextElementSibling).bottom.slice(0, -2)) < epsilon) {
+            if (!elems[elem].parentElement.classList.contains(`colour`)) {
+
+                var icon = elems[elem].parentElement
+                icon.classList.add(`colour`)
+
+                icon.classList.add("finishedcharging");
+
+                elems[elem].classList.remove("animated");
+                elems[elem].nextElementSibling.classList.remove("animated");
+            }
+        }
+    }
+}
+
+function doSuperStuff() {
+    var elems = document.querySelectorAll(".destiny-super-charging-bar");
+    for (elem = 0; elem < elems.length; ++elem) {
+        if (elems[elem].getBoundingClientRect().right < elems[elem].parentElement.getBoundingClientRect().right ) {
+            elems[elem].style.visibility = "visible";
+        } else {
+            elems[elem].style.visibility = "hidden";
+        }
+        var epsilon = 1
+        if (elems[elem].parentElement.getBoundingClientRect().right == elems[elem].getBoundingClientRect().right) {
+            var icon = elems[elem].parentElement.parentElement
+            icon.classList.add("finishedcharging");
+            document.getElementById("destiny-super-animation").classList.toggle("animated");
+        }
+    }
+}
+
+
+function flashWhite(e) {
+    var icon = e.target.closest(".destiny-icon")
+    if (!(icon.classList.contains(`colour`) || icon.classList.contains("click") || icon.classList.contains("wrongclick") || icon.classList.contains("finishedcharging")) ) {
+
+        icon.classList.add("wrongclick");
+        setInterval(function() {
+            icon.classList.remove("wrongclick");
+        }, 1000)
+
+    }
+    if (!(icon.classList.contains("clicked") || icon.classList.contains("wrongclick"))) {
+
+        icon.classList.remove("finishedcharging");
+
+        icon.classList.add("clicked");
+        setInterval(function() {
+            icon.classList.remove("clicked");
+        }, 1000)
+
+        icon.classList.remove(`colour`);
+        icon.childNodes[1].classList.add("animated");
+        icon.childNodes[3].classList.add("animated");
+
+    }
+}
+
+function superFlashWhite(e) {
+    var icon = e.target.closest(".destiny-super-box")
+    var iconContainer = e.target.closest(".destiny-super-box-container")
+    if (!(icon.classList.contains("click") || icon.classList.contains("wrongclick") || iconContainer.classList.contains("finishedcharging")) ) {
+
+        icon.classList.add("wrongclick");
+        setInterval(function() {
+            icon.classList.remove("wrongclick");
+        }, 1000)
+
+    }
+    if (!(icon.classList.contains("clicked") || icon.classList.contains("wrongclick"))) {
+
+        iconContainer.classList.remove("finishedcharging");
+
+        icon.classList.add("clicked");
+        setInterval(function() {
+            icon.classList.remove("clicked");
+        }, 1000)
+    }
+}
+
+var sheet = "styledark"
+
+function swapSheet() {
+    if (sheet === "styledark") {
+        sheet = "stylelight"
+    } else {
+        sheet = "styledark"
+    }
+    document.getElementById("pagestyle").setAttribute("href", `./${sheet}.css`);
+}
+</script>
+</html>

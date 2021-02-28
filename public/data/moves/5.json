@@ -1,0 +1,14 @@
+{
+    "name": "Mega Punch",
+    "id": "5",
+    "desc": "The target is slugged by a punch thrown withmuscle-packed power.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

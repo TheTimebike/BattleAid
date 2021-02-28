@@ -1,0 +1,14 @@
+{
+    "name": "Diamond Storm",
+    "id": "591",
+    "desc": "The user whips up a storm of diamonds to damageopposing Pok\u00e9mon. This may also sharply raise theuser\u2019s Defense stat.",
+    "generation-introduced": "6",
+    "type": "Rock",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "359"
+}

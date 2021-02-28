@@ -1,0 +1,14 @@
+{
+    "name": "Sheer Cold",
+    "id": "329",
+    "desc": "The target faints instantly. It\u2019s less likely to hit thetarget if it\u2019s used by Pok\u00e9mon other than Ice types.",
+    "generation-introduced": "3",
+    "type": "Ice",
+    "power": "",
+    "pp": "5",
+    "accuracy": "30%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "39"
+}

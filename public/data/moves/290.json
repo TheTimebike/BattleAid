@@ -1,0 +1,14 @@
+{
+    "name": "Secret Power",
+    "id": "290",
+    "desc": "The additional effects of this attack depend uponwhere it was used.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "198"
+}

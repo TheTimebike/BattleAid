@@ -1,0 +1,14 @@
+{
+    "name": "Catastropika",
+    "id": "658",
+    "desc": "The user, Pikachu, surrounds itself with themaximum amount of electricity using its Z-Powerand pounces on its target with full force.",
+    "generation-introduced": "7",
+    "type": "Electric",
+    "power": "210",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

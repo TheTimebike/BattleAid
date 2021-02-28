@@ -1,0 +1,14 @@
+{
+    "name": "Substitute",
+    "id": "164",
+    "desc": "The user makes a copy of itself using some of its HP.The copy serves as the user\u2019s decoy.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "80"
+}

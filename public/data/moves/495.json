@@ -1,0 +1,14 @@
+{
+    "name": "After You",
+    "id": "495",
+    "desc": "The user helps the target and makes it use its moveright after the user.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "301"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Rollout",
+    "id": "205",
+    "desc": "The user continually rolls into the target over fiveturns. It becomes more powerful each time it hits.",
+    "generation-introduced": "2",
+    "type": "Rock",
+    "power": "30",
+    "pp": "20",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "118"
+}

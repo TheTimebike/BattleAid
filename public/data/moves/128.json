@@ -1,0 +1,14 @@
+{
+    "name": "Clamp",
+    "id": "128",
+    "desc": "The target is clamped and squeezed by the user\u2019svery thick and sturdy shell for four to five turns.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "35",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "43"
+}

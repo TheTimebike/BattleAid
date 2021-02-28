@@ -1,0 +1,14 @@
+{
+    "name": "Night Slash",
+    "id": "400",
+    "desc": "The user slashes the target the instant anopportunity arises. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "70",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

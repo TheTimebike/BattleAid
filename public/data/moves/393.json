@@ -1,0 +1,14 @@
+{
+    "name": "Magnet Rise",
+    "id": "393",
+    "desc": "The user levitates using electrically generatedmagnetism for five turns.",
+    "generation-introduced": "4",
+    "type": "Electric",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "253"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Crafty Shield",
+    "id": "578",
+    "desc": "The user protects itself and its allies from statusmoves with a mysterious power. This does not stopmoves that do damage.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "3",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "350"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Memento",
+    "id": "262",
+    "desc": "The user faints when using this move. In return, thisharshly lowers the target\u2019s Attack and Sp. Atk stats.",
+    "generation-introduced": "3",
+    "type": "Dark",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "169"
+}

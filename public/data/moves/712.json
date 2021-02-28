@@ -1,0 +1,14 @@
+{
+    "name": "Spectral Thief",
+    "id": "712",
+    "desc": "The user hides in the target\u2019s shadow, stealsthe target\u2019s stat boosts, and then attacks.",
+    "generation-introduced": "7",
+    "type": "Ghost",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "410"
+}

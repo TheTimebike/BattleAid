@@ -1,0 +1,14 @@
+{
+    "name": "Water Gun",
+    "id": "55",
+    "desc": "The target is blasted with a forceful shot of water.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "40",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

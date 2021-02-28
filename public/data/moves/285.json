@@ -1,0 +1,14 @@
+{
+    "name": "Skill Swap",
+    "id": "285",
+    "desc": "The user employs its psychic power to exchangeAbilities with the target.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "192"
+}

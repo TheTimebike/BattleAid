@@ -1,0 +1,14 @@
+{
+    "name": "Ice Burn",
+    "id": "554",
+    "desc": "On the second turn, an ultracold, freezing windsurrounds the target. This may leave the target witha burn.",
+    "generation-introduced": "5",
+    "type": "Ice",
+    "power": "140",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "333"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Accelerock",
+    "id": "709",
+    "desc": "The user smashes into the target at high speed.This move always goes first.",
+    "generation-introduced": "7",
+    "type": "Rock",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

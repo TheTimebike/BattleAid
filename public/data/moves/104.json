@@ -1,0 +1,14 @@
+{
+    "name": "Double Team",
+    "id": "104",
+    "desc": "By moving rapidly, the user makes illusory copies ofitself to raise its evasiveness.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "17"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Aurora Beam",
+    "id": "62",
+    "desc": "The target is hit with a rainbow-colored beam.This may also lower the target\u2019s Attack stat.",
+    "generation-introduced": "1",
+    "type": "Ice",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "69"
+}

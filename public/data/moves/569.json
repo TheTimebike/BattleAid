@@ -1,0 +1,14 @@
+{
+    "name": "Ion Deluge",
+    "id": "569",
+    "desc": "The user disperses electrically charged particles,which changes Normal-type moves toElectric-type moves.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "",
+    "pp": "25",
+    "accuracy": "--%",
+    "priority": "1",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "345"
+}

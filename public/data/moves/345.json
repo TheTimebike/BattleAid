@@ -1,0 +1,14 @@
+{
+    "name": "Magical Leaf",
+    "id": "345",
+    "desc": "The user scatters curious leaves that chase thetarget. This attack never misses.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "18"
+}

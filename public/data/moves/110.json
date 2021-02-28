@@ -1,0 +1,14 @@
+{
+    "name": "Withdraw",
+    "id": "110",
+    "desc": "The user withdraws its body into its hard shell,raising its Defense stat.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "12"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Doom Desire",
+    "id": "353",
+    "desc": "Two turns after this move is used, a concentratedbundle of light blasts the target.",
+    "generation-introduced": "3",
+    "type": "Steel",
+    "power": "140",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "149"
+}

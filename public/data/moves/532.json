@@ -1,0 +1,14 @@
+{
+    "name": "Horn Leech",
+    "id": "532",
+    "desc": "The user drains the target\u2019s energy with its horns.The user\u2019s HP is restored by half the damage takenby the target.",
+    "generation-introduced": "5",
+    "type": "Grass",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "4"
+}

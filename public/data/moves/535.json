@@ -1,0 +1,14 @@
+{
+    "name": "Heat Crash",
+    "id": "535",
+    "desc": "The user slams its target with its flame-coveredbody. The more the user outweighs the target, thegreater the move\u2019s power.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "292"
+}

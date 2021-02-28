@@ -1,0 +1,14 @@
+{
+    "name": "Meteor Mash",
+    "id": "309",
+    "desc": "The target is hit with a hard punch fired like ameteor. This may also raise the user\u2019s Attack stat.",
+    "generation-introduced": "3",
+    "type": "Steel",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "140"
+}

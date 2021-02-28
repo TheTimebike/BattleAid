@@ -1,0 +1,14 @@
+{
+    "name": "Overheat",
+    "id": "315",
+    "desc": "The user attacks the target at full power. Theattack\u2019s recoil harshly lowers the user\u2019s Sp. Atk stat.",
+    "generation-introduced": "3",
+    "type": "Fire",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "205"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Focus Punch",
+    "id": "264",
+    "desc": "The user focuses its mind before launching a punch.This move fails if the user is hit before it is used.",
+    "generation-introduced": "3",
+    "type": "Fighting",
+    "power": "150",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "-3",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "171"
+}

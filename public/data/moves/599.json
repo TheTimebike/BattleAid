@@ -1,0 +1,14 @@
+{
+    "name": "Venom Drench",
+    "id": "599",
+    "desc": "Opposing Pok\u00e9mon are drenched in an oddpoisonous liquid. This lowers the Attack, Sp. Atk, andSpeed stats of a poisoned target.",
+    "generation-introduced": "6",
+    "type": "Poison",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "364"
+}

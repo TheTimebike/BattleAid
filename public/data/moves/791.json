@@ -1,0 +1,14 @@
+{
+    "name": "Life Dew",
+    "id": "791",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Water",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": ""
+}

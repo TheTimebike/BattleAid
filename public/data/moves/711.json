@@ -1,0 +1,14 @@
+{
+    "name": "Prismatic Laser",
+    "id": "711",
+    "desc": "The user shoots powerful lasers using the power ofa prism. The user can\u2019t move on the next turn.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "160",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "81"
+}

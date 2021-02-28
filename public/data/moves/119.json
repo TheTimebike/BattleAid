@@ -1,0 +1,14 @@
+{
+    "name": "Mirror Move",
+    "id": "119",
+    "desc": "The user counters the target by mimicking thetarget\u2019s last move.",
+    "generation-introduced": "1",
+    "type": "Flying",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "10"
+}

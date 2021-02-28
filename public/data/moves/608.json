@@ -1,0 +1,14 @@
+{
+    "name": "Baby-Doll Eyes",
+    "id": "608",
+    "desc": "The user stares at the target with its baby-dolleyes, which lowers its Attack stat. This move alwaysgoes first.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "365"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Defog",
+    "id": "432",
+    "desc": "A strong wind blows away the target\u2019s barriers suchas Reflect or Light Screen. This also lowers thetarget\u2019s evasiveness.",
+    "generation-introduced": "4",
+    "type": "Flying",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "259"
+}

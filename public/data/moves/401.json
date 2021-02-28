@@ -1,0 +1,14 @@
+{
+    "name": "Aqua Tail",
+    "id": "401",
+    "desc": "The user attacks by swinging its tail as if it were avicious wave in a raging storm.",
+    "generation-introduced": "4",
+    "type": "Water",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

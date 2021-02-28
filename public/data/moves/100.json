@@ -1,0 +1,14 @@
+{
+    "name": "Teleport",
+    "id": "100",
+    "desc": "Use it to flee from any wild Pok\u00e9mon.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "154"
+}

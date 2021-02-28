@@ -1,0 +1,14 @@
+{
+    "name": "Spite",
+    "id": "180",
+    "desc": "The user unleashes its grudge on the move last usedby the target by cutting 4 PP from it.",
+    "generation-introduced": "2",
+    "type": "Ghost",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "101"
+}

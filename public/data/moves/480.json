@@ -1,0 +1,14 @@
+{
+    "name": "Storm Throw",
+    "id": "480",
+    "desc": "The user strikes the target with a fierce blow. Thisattack always results in a critical hit.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "289"
+}

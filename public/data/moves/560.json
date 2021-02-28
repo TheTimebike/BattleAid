@@ -1,0 +1,14 @@
+{
+    "name": "Flying Press",
+    "id": "560",
+    "desc": "The user dives down onto the target from the sky.This move is Fighting and Flying type simultaneously.",
+    "generation-introduced": "6",
+    "type": "Fighting",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "338"
+}

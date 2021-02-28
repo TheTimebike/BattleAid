@@ -1,0 +1,14 @@
+{
+    "name": "Morning Sun",
+    "id": "234",
+    "desc": "The user restores its own HP. The amount of HPregained varies with the weather.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "133"
+}

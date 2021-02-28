@@ -1,0 +1,14 @@
+{
+    "name": "King\u2019s Shield",
+    "id": "588",
+    "desc": "The user takes a defensive stance while it protectsitself from damage. It also harshly lowers the Attackstat of any attacker who makes direct contact.",
+    "generation-introduced": "6",
+    "type": "Steel",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "4",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "356"
+}

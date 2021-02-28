@@ -1,0 +1,14 @@
+{
+    "name": "Floral Healing",
+    "id": "666",
+    "desc": "The user restores the target\u2019s HP by up to half of itsmax HP. It restores more HP when the terrainis grass.",
+    "generation-introduced": "7",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "387"
+}

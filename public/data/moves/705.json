@@ -1,0 +1,14 @@
+{
+    "name": "Fleur Cannon",
+    "id": "705",
+    "desc": "The user unleashes a strong beam. The attack\u2019srecoil harshly lowers the user\u2019s Sp. Atk stat.",
+    "generation-introduced": "7",
+    "type": "Fairy",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "205"
+}

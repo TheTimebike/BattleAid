@@ -1,0 +1,14 @@
+{
+    "name": "Beat Up",
+    "id": "251",
+    "desc": "The user gets all party Pok\u00e9mon to attack the target.The more party Pok\u00e9mon, the greater the numberof attacks.",
+    "generation-introduced": "2",
+    "type": "Dark",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "155"
+}

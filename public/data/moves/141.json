@@ -1,0 +1,14 @@
+{
+    "name": "Leech Life",
+    "id": "141",
+    "desc": "The user drains the target\u2019s blood. The user\u2019s HP isrestored by half the damage taken by the target.",
+    "generation-introduced": "1",
+    "type": "Bug",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "4"
+}

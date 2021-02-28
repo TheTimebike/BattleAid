@@ -1,0 +1,14 @@
+{
+    "name": "Spider Web",
+    "id": "169",
+    "desc": "The user ensnares the target with thin, gooey silkso it can\u2019t flee from battle.",
+    "generation-introduced": "2",
+    "type": "Bug",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "107"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sleep Talk",
+    "id": "214",
+    "desc": "While it is asleep, the user randomly uses one of themoves it knows.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "98"
+}

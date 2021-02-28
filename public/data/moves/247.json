@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Ball",
+    "id": "247",
+    "desc": "The user hurls a shadowy blob at the target.This may also lower the target\u2019s Sp. Def stat.",
+    "generation-introduced": "2",
+    "type": "Ghost",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "73"
+}

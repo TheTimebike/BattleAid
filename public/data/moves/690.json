@@ -1,0 +1,14 @@
+{
+    "name": "Beak Blast",
+    "id": "690",
+    "desc": "The user first heats up its beak, and then it attacksthe target. Making direct contact with the Pok\u00e9monwhile it\u2019s heating up its beak results in a burn.",
+    "generation-introduced": "7",
+    "type": "Flying",
+    "power": "100",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "-3",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "404"
+}

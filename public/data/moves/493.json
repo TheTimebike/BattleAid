@@ -1,0 +1,14 @@
+{
+    "name": "Simple Beam",
+    "id": "493",
+    "desc": "The user\u2019s mysterious psychic wave changes thetarget\u2019s Ability to Simple.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "299"
+}

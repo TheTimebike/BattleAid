@@ -1,0 +1,14 @@
+{
+    "name": "Gigavolt Havoc",
+    "id": "646",
+    "desc": "The user hits the target with a powerful electriccurrent collected by its Z-Power. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Electric",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

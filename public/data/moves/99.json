@@ -1,0 +1,14 @@
+{
+    "name": "Rage",
+    "id": "99",
+    "desc": "As long as this move is in use, the power of rageraises the Attack stat each time the user is hitin battle.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "20",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "82"
+}

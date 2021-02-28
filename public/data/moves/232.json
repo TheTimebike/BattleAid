@@ -1,0 +1,14 @@
+{
+    "name": "Metal Claw",
+    "id": "232",
+    "desc": "The target is raked with steel claws. This may alsoraise the user\u2019s Attack stat.",
+    "generation-introduced": "2",
+    "type": "Steel",
+    "power": "50",
+    "pp": "35",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "140"
+}

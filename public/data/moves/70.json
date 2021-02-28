@@ -1,0 +1,14 @@
+{
+    "name": "Strength",
+    "id": "70",
+    "desc": "The target is slugged with a punch thrown atmaximum power.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Zing Zap",
+    "id": "716",
+    "desc": "A strong electric blast crashes down on the target,giving it an electric shock. This may also make thetarget flinch.",
+    "generation-introduced": "7",
+    "type": "Electric",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

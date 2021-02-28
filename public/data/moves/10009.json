@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Rave",
+    "id": "10009",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "70",
+    "pp": "",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "6",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

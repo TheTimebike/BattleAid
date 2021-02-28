@@ -1,0 +1,14 @@
+{
+    "name": "Fake Tears",
+    "id": "313",
+    "desc": "The user feigns crying to fluster the target, harshlylowering its Sp. Def stat.",
+    "generation-introduced": "3",
+    "type": "Dark",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "63"
+}

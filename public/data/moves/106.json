@@ -1,0 +1,14 @@
+{
+    "name": "Harden",
+    "id": "106",
+    "desc": "The user stiffens all the muscles in its body to raiseits Defense stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "12"
+}

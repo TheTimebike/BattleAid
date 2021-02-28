@@ -1,0 +1,14 @@
+{
+    "name": "Acid Spray",
+    "id": "491",
+    "desc": "The user spits fluid that works to melt the target.This harshly lowers the target\u2019s Sp. Def stat.",
+    "generation-introduced": "5",
+    "type": "Poison",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "297"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Facade",
+    "id": "263",
+    "desc": "This attack move doubles its power if the user ispoisoned, burned, or paralyzed.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "170"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Blast",
+    "id": "10002",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "80",
+    "pp": "",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

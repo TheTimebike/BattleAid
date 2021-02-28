@@ -1,0 +1,14 @@
+{
+    "name": "Circle Throw",
+    "id": "509",
+    "desc": "The target is thrown, and a different Pok\u00e9mon isdragged out. In the wild, this ends a battle againsta single Pok\u00e9mon.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "-6",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "314"
+}

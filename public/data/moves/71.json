@@ -1,0 +1,14 @@
+{
+    "name": "Absorb",
+    "id": "71",
+    "desc": "A nutrient-draining attack. The user\u2019s HP is restoredby half the damage taken by the target.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "20",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "4"
+}

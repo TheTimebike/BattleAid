@@ -1,0 +1,14 @@
+{
+    "name": "Drill Peck",
+    "id": "65",
+    "desc": "A corkscrewing attack with a sharp beak acting asa drill.",
+    "generation-introduced": "1",
+    "type": "Flying",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

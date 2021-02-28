@@ -1,0 +1,14 @@
+{
+    "name": "Brick Break",
+    "id": "280",
+    "desc": "The user attacks with a swift chop. It can also breakbarriers, such as Light Screen and Reflect.",
+    "generation-introduced": "3",
+    "type": "Fighting",
+    "power": "75",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "187"
+}

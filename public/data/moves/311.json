@@ -1,0 +1,14 @@
+{
+    "name": "Weather Ball",
+    "id": "311",
+    "desc": "This attack move varies in power and typedepending on the weather.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "50",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "204"
+}

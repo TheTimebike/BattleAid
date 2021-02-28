@@ -1,0 +1,14 @@
+{
+    "name": "Cotton Spore",
+    "id": "178",
+    "desc": "The user releases cotton-like spores that cling tothe opposing Pok\u00e9mon, which harshly lowers theirSpeed stat.",
+    "generation-introduced": "2",
+    "type": "Grass",
+    "power": "",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "61"
+}

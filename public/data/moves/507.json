@@ -1,0 +1,14 @@
+{
+    "name": "Sky Drop",
+    "id": "507",
+    "desc": "The user takes the target into the sky, then drops itduring the next turn. The target cannot attack whilein the sky.",
+    "generation-introduced": "5",
+    "type": "Flying",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "312"
+}

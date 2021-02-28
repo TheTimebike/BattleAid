@@ -1,0 +1,14 @@
+{
+    "name": "Dragon Pulse",
+    "id": "406",
+    "desc": "The target is attacked with a shock wave generatedby the user\u2019s gaping mouth.",
+    "generation-introduced": "4",
+    "type": "Dragon",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

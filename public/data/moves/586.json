@@ -1,0 +1,14 @@
+{
+    "name": "Boomburst",
+    "id": "586",
+    "desc": "The user attacks everything around it with thedestructive power of a terrible, explosive sound.",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "140",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "379"
+}

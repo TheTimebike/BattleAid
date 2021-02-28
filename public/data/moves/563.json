@@ -1,0 +1,14 @@
+{
+    "name": "Rototiller",
+    "id": "563",
+    "desc": "Tilling the soil, the user makes it easier for plants togrow. This raises the Attack and Sp. Atk stats ofGrass-type Pok\u00e9mon.",
+    "generation-introduced": "6",
+    "type": "Ground",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "14",
+    "effect_id": "1",
+    "effect_chance": "340"
+}

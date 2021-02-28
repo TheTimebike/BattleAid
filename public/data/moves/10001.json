@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Rush",
+    "id": "10001",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "55",
+    "pp": "",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "10001"
+}

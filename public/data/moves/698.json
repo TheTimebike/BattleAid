@@ -1,0 +1,14 @@
+{
+    "name": "Guardian of Alola",
+    "id": "698",
+    "desc": "The user, the Land Spirit Pok\u00e9mon, obtains Alola\u2019senergy using its Z-Power and attacks the target withfull force. This reduces the target\u2019s HP greatly.",
+    "generation-introduced": "7",
+    "type": "Fairy",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "413"
+}

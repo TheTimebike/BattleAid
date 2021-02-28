@@ -1,0 +1,14 @@
+{
+    "name": "Reflect",
+    "id": "115",
+    "desc": "A wondrous wall of light is put up to reduce damagefrom physical attacks for five turns.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "66"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Acrobatics",
+    "id": "512",
+    "desc": "The user nimbly strikes the target. If the user is notholding an item, this attack inflicts massive damage.",
+    "generation-introduced": "5",
+    "type": "Flying",
+    "power": "55",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "318"
+}

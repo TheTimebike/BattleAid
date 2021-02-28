@@ -1,0 +1,14 @@
+{
+    "name": "Tackle",
+    "id": "33",
+    "desc": "A physical attack in which the user charges andslams into the target with its whole body.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "40",
+    "pp": "35",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

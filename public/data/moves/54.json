@@ -1,0 +1,14 @@
+{
+    "name": "Mist",
+    "id": "54",
+    "desc": "The user cloaks itself and its allies in a white mistthat prevents any of their stats from being loweredfor five turns.",
+    "generation-introduced": "1",
+    "type": "Ice",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "47"
+}

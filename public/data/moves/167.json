@@ -1,0 +1,14 @@
+{
+    "name": "Triple Kick",
+    "id": "167",
+    "desc": "A consecutive three-kick attack that becomes morepowerful with each successful hit.",
+    "generation-introduced": "2",
+    "type": "Fighting",
+    "power": "10",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "105"
+}

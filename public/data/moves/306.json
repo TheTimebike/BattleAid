@@ -1,0 +1,14 @@
+{
+    "name": "Crush Claw",
+    "id": "306",
+    "desc": "The user slashes the target with hard and sharpclaws. This may also lower the target\u2019s Defense stat.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

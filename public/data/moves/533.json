@@ -1,0 +1,14 @@
+{
+    "name": "Sacred Sword",
+    "id": "533",
+    "desc": "The user attacks by slicing with a long horn. Thetarget\u2019s stat changes don\u2019t affect thisattack\u2019s damage.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "304"
+}

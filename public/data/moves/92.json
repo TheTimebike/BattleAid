@@ -1,0 +1,14 @@
+{
+    "name": "Toxic",
+    "id": "92",
+    "desc": "A move that leaves the target badly poisoned.Its poison damage worsens every turn.",
+    "generation-introduced": "1",
+    "type": "Poison",
+    "power": "",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "34"
+}

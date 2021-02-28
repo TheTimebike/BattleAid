@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Bone",
+    "id": "708",
+    "desc": "The user attacks by beating the target with abone that contains a spirit. This may also lowerthe target\u2019s Defense stat.",
+    "generation-introduced": "7",
+    "type": "Ghost",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

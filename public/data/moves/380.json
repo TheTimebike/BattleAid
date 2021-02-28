@@ -1,0 +1,14 @@
+{
+    "name": "Gastro Acid",
+    "id": "380",
+    "desc": "The user hurls up its stomach acids on the target.The fluid eliminates the effect of the target\u2019s Ability.",
+    "generation-introduced": "4",
+    "type": "Poison",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "240"
+}

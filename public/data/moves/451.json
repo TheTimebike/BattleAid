@@ -1,0 +1,14 @@
+{
+    "name": "Charge Beam",
+    "id": "451",
+    "desc": "The user attacks with an electric charge. The usermay use any remaining electricity to raise itsSp. Atk stat.",
+    "generation-introduced": "4",
+    "type": "Electric",
+    "power": "50",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "277"
+}

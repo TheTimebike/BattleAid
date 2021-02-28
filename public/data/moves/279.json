@@ -1,0 +1,14 @@
+{
+    "name": "Revenge",
+    "id": "279",
+    "desc": "This attack move\u2019s power is doubled if the user hasbeen hurt by the opponent in the same turn.",
+    "generation-introduced": "3",
+    "type": "Fighting",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "-4",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "186"
+}

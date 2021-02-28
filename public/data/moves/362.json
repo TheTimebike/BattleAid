@@ -1,0 +1,14 @@
+{
+    "name": "Brine",
+    "id": "362",
+    "desc": "If the target\u2019s HP is half or less, this attack will hitwith double the power.",
+    "generation-introduced": "4",
+    "type": "Water",
+    "power": "65",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "222"
+}

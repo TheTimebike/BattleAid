@@ -1,0 +1,14 @@
+{
+    "name": "Psycho Cut",
+    "id": "427",
+    "desc": "The user tears at the target with blades formed bypsychic power. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

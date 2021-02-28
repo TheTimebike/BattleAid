@@ -1,0 +1,14 @@
+{
+    "name": "Comet Punch",
+    "id": "4",
+    "desc": "The target is hit with a flurry of punches that striketwo to five times in a row.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "18",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

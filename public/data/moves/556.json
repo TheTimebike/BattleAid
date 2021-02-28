@@ -1,0 +1,14 @@
+{
+    "name": "Icicle Crash",
+    "id": "556",
+    "desc": "The user attacks by harshly dropping large iciclesonto the target. This may also make the target flinch.",
+    "generation-introduced": "5",
+    "type": "Ice",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

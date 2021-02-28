@@ -1,0 +1,14 @@
+{
+    "name": "Secret Sword",
+    "id": "548",
+    "desc": "The user cuts with its long horn. The odd powercontained in the horn does physical damage tothe target.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "283"
+}

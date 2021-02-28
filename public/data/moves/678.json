@@ -1,0 +1,14 @@
+{
+    "name": "Psychic Terrain",
+    "id": "678",
+    "desc": "This protects Pok\u00e9mon on the ground from prioritymoves and powers up Psychic-type moves forfive turns.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "395"
+}

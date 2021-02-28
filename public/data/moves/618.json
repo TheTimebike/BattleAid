@@ -1,0 +1,14 @@
+{
+    "name": "Origin Pulse",
+    "id": "618",
+    "desc": "The user attacks opposing Pok\u00e9mon with countlessbeams of light that glow a deep and brilliant blue.",
+    "generation-introduced": "6",
+    "type": "Water",
+    "power": "110",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

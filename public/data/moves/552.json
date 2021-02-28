@@ -1,0 +1,14 @@
+{
+    "name": "Fiery Dance",
+    "id": "552",
+    "desc": "Cloaked in flames, the user dances and flaps itswings. This may also raise the user\u2019s Sp. Atk stat.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "277"
+}

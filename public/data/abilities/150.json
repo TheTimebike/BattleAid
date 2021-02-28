@@ -1,0 +1,1 @@
+{"name": "Imposter", "id": "150", "generation-introduced": "5", "short-desc": "Transforms upon entering battle. ", "long-desc": "This Pokemon transforms into a random opponent upon entering battle.  This effect is identical to the move . ", "pokemonWithAbility": [{"name": "Ditto", "id": "132", "types": {"1": {"id": "1", "name": "Normal"}}, "ha": true}]}

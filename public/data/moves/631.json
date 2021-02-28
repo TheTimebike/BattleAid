@@ -1,0 +1,14 @@
+{
+    "name": "Tectonic Rage",
+    "id": "631",
+    "desc": "Dummy Data",
+    "generation-introduced": "7",
+    "type": "Ground",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

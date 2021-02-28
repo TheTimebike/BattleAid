@@ -1,0 +1,14 @@
+{
+    "name": "Misty Terrain",
+    "id": "581",
+    "desc": "This protects Pok\u00e9mon on the ground from statusconditions and halves damage from Dragon-typemoves for five turns.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "353"
+}

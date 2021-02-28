@@ -1,0 +1,14 @@
+{
+    "name": "Shell Smash",
+    "id": "504",
+    "desc": "The user breaks its shell, which lowers Defense andSp. Def stats but sharply raises its Attack, Sp. Atk,and Speed stats.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "309"
+}

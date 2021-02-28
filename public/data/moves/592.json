@@ -1,0 +1,14 @@
+{
+    "name": "Steam Eruption",
+    "id": "592",
+    "desc": "The user immerses the target in superheated steam.This may also leave the target with a burn.",
+    "generation-introduced": "6",
+    "type": "Water",
+    "power": "110",
+    "pp": "5",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "5"
+}

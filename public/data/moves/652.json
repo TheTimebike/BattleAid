@@ -1,0 +1,14 @@
+{
+    "name": "Devastating Drake",
+    "id": "652",
+    "desc": "The user materializes its aura using its Z-Power andattacks the target with full force. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Dragon",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

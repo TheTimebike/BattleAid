@@ -1,0 +1,14 @@
+{
+    "name": "Dizzy Punch",
+    "id": "146",
+    "desc": "The target is hit with rhythmically launchedpunches. This may also leave the target confused.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "70",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "77"
+}

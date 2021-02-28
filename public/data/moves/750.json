@@ -1,0 +1,14 @@
+{
+    "name": "Magic Powder",
+    "id": "750",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": ""
+}

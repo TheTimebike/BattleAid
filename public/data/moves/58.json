@@ -1,0 +1,14 @@
+{
+    "name": "Ice Beam",
+    "id": "58",
+    "desc": "The target is struck with an icy-cold beam of energy.This may also leave the target frozen.",
+    "generation-introduced": "1",
+    "type": "Ice",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "6"
+}

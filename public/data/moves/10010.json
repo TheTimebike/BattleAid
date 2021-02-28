@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Storm",
+    "id": "10010",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "95",
+    "pp": "",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "6",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

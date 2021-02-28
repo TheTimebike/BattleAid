@@ -1,0 +1,14 @@
+{
+    "name": "Feint Attack",
+    "id": "185",
+    "desc": "The user approaches the target disarmingly, thenthrows a sucker punch. This attack never misses.",
+    "generation-introduced": "2",
+    "type": "Dark",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "18"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Psyshock",
+    "id": "473",
+    "desc": "The user materializes an odd psychic wave to attackthe target. This attack does physical damage.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "283"
+}

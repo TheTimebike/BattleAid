@@ -1,0 +1,14 @@
+{
+    "name": "Crush Grip",
+    "id": "462",
+    "desc": "The target is crushed with great force. The more HPthe target has left, the greater this move\u2019s power.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "238"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Double Slap",
+    "id": "3",
+    "desc": "The target is slapped repeatedly, back and forth,two to five times in a row.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "15",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

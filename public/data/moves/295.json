@@ -1,0 +1,14 @@
+{
+    "name": "Luster Purge",
+    "id": "295",
+    "desc": "The user lets loose a damaging burst of light. Thismay also lower the target\u2019s Sp. Def stat.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "70",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "73"
+}

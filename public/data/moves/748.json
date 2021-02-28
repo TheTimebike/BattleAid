@@ -1,0 +1,14 @@
+{
+    "name": "No Retreat",
+    "id": "748",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Fighting",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": ""
+}

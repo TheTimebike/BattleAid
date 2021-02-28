@@ -1,0 +1,14 @@
+{
+    "name": "Power Whip",
+    "id": "438",
+    "desc": "The user violently whirls its vines, tentacles, or the like to harshly lash the target.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Fling",
+    "id": "374",
+    "desc": "The user flings its held item at the target to attack.This move\u2019s power and effects depend on the item.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "234"
+}

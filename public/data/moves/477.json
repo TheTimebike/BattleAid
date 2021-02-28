@@ -1,0 +1,14 @@
+{
+    "name": "Telekinesis",
+    "id": "477",
+    "desc": "The user makes the target float with its psychicpower. The target is easier to hit for three turns.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "286"
+}

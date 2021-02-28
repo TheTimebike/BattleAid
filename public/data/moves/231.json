@@ -1,0 +1,14 @@
+{
+    "name": "Iron Tail",
+    "id": "231",
+    "desc": "The target is slammed with a steel-hard tail.This may also lower the target\u2019s Defense stat.",
+    "generation-introduced": "2",
+    "type": "Steel",
+    "power": "100",
+    "pp": "15",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

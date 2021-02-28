@@ -1,0 +1,14 @@
+{
+    "name": "Solar Beam",
+    "id": "76",
+    "desc": "In this two-turn attack, the user gathers light, thenblasts a bundled beam on the next turn.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "152"
+}

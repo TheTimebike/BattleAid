@@ -1,0 +1,14 @@
+{
+    "name": "Bide",
+    "id": "117",
+    "desc": "The user endures attacks for two turns, then strikesback to cause double the damage taken.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "1",
+    "damage_class": "7",
+    "effect_id": "2",
+    "effect_chance": "27"
+}

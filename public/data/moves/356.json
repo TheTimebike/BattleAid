@@ -1,0 +1,14 @@
+{
+    "name": "Gravity",
+    "id": "356",
+    "desc": "Enables Flying-type Pok\u00e9mon or Pok\u00e9mon with theLevitate Ability to be hit by Ground-type moves.Flying moves can\u2019t be used.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "216"
+}

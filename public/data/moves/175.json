@@ -1,0 +1,14 @@
+{
+    "name": "Flail",
+    "id": "175",
+    "desc": "The user flails about aimlessly to attack. The less HPthe user has, the greater the move\u2019s power.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "100"
+}

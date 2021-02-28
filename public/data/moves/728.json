@@ -1,0 +1,14 @@
+{
+    "name": "Clangorous Soulblaze",
+    "id": "728",
+    "desc": "After obtaining Z-Power, the user, Kommo-o,attacks the opposing Pok\u00e9mon with full force. Thismove boosts the user\u2019s stats.",
+    "generation-introduced": "7",
+    "type": "Dragon",
+    "power": "185",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "419"
+}

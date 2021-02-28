@@ -1,0 +1,14 @@
+{
+    "name": "Refresh",
+    "id": "287",
+    "desc": "The user rests to cure itself of poisoning, a burn,or paralysis.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "194"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sleep Powder",
+    "id": "79",
+    "desc": "The user scatters a big cloud of sleep-inducing dustaround the target.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "",
+    "pp": "15",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "2"
+}

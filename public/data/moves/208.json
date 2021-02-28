@@ -1,0 +1,14 @@
+{
+    "name": "Milk Drink",
+    "id": "208",
+    "desc": "The user restores its own HP by up to half of itsmax HP.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "33"
+}

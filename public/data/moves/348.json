@@ -1,0 +1,14 @@
+{
+    "name": "Leaf Blade",
+    "id": "348",
+    "desc": "The user handles a sharp leaf like a sword andattacks by cutting its target. Critical hits landmore easily.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

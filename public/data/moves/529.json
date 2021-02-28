@@ -1,0 +1,14 @@
+{
+    "name": "Drill Run",
+    "id": "529",
+    "desc": "The user crashes into its target while rotating itsbody like a drill. Critical hits land more easily.",
+    "generation-introduced": "5",
+    "type": "Ground",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

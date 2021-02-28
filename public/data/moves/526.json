@@ -1,0 +1,14 @@
+{
+    "name": "Work Up",
+    "id": "526",
+    "desc": "The user is roused, and its Attack and Sp. Atkstats increase.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "328"
+}

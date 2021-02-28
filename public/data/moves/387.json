@@ -1,0 +1,14 @@
+{
+    "name": "Last Resort",
+    "id": "387",
+    "desc": "This move can be used only after the user has usedall the other moves it knows in the battle.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "140",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "247"
+}

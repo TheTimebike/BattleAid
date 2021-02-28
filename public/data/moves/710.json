@@ -1,0 +1,14 @@
+{
+    "name": "Liquidation",
+    "id": "710",
+    "desc": "The user slams into the target using a full-forceblast of water. This may also lower the target\u2019sDefense stat.",
+    "generation-introduced": "7",
+    "type": "Water",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

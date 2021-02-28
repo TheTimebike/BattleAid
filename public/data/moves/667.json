@@ -1,0 +1,14 @@
+{
+    "name": "High Horsepower",
+    "id": "667",
+    "desc": "The user fiercely attacks the target using itsentire body.",
+    "generation-introduced": "7",
+    "type": "Ground",
+    "power": "95",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

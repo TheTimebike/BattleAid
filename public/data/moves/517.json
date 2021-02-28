@@ -1,0 +1,14 @@
+{
+    "name": "Inferno",
+    "id": "517",
+    "desc": "The user attacks by engulfing the target in anintense fire. This leaves the target with a burn.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "50%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "5"
+}

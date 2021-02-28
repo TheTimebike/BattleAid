@@ -1,0 +1,14 @@
+{
+    "name": "Coaching",
+    "id": "811",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Fighting",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "15",
+    "effect_id": "1",
+    "effect_chance": ""
+}

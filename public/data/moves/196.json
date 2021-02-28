@@ -1,0 +1,14 @@
+{
+    "name": "Icy Wind",
+    "id": "196",
+    "desc": "The user attacks with a gust of chilled air. This alsolowers the opposing Pok\u00e9mon\u2019s Speed stats.",
+    "generation-introduced": "2",
+    "type": "Ice",
+    "power": "55",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "71"
+}

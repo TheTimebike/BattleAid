@@ -1,0 +1,14 @@
+{
+    "name": "Speed Swap",
+    "id": "683",
+    "desc": "The user exchanges Speed stats with the target.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "399"
+}

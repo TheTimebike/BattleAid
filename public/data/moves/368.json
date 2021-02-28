@@ -1,0 +1,14 @@
+{
+    "name": "Metal Burst",
+    "id": "368",
+    "desc": "The user retaliates with much greater force againstthe opponent that last inflicted damage on it.",
+    "generation-introduced": "4",
+    "type": "Steel",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "1",
+    "effect_id": "2",
+    "effect_chance": "228"
+}

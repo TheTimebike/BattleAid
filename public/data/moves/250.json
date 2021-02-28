@@ -1,0 +1,14 @@
+{
+    "name": "Whirlpool",
+    "id": "250",
+    "desc": "The user traps the target in a violent swirlingwhirlpool for four to five turns.",
+    "generation-introduced": "2",
+    "type": "Water",
+    "power": "35",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "262"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Knock Off",
+    "id": "282",
+    "desc": "The user slaps down the target\u2019s held item, and thatitem can\u2019t be used in that battle. The move doesmore damage if the target has a held item.",
+    "generation-introduced": "3",
+    "type": "Dark",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "189"
+}

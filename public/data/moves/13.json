@@ -1,0 +1,14 @@
+{
+    "name": "Razor Wind",
+    "id": "13",
+    "desc": "In this two-turn attack, blades of wind hit opposingPok\u00e9mon on the second turn. Critical hits landmore easily.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "40"
+}

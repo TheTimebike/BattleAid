@@ -1,0 +1,14 @@
+{
+    "name": "Quick Guard",
+    "id": "501",
+    "desc": "The user protects itself and its allies frompriority moves.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "3",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "307"
+}

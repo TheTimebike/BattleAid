@@ -1,0 +1,14 @@
+{
+    "name": "Aqua Ring",
+    "id": "392",
+    "desc": "The user envelops itself in a veil made of water.It regains some HP every turn.",
+    "generation-introduced": "4",
+    "type": "Water",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "252"
+}

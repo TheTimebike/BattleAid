@@ -1,0 +1,14 @@
+{
+    "name": "Thousand Arrows",
+    "id": "614",
+    "desc": "This move also hits opposing Pok\u00e9mon that are inthe air. Those Pok\u00e9mon are knocked down tothe ground.",
+    "generation-introduced": "6",
+    "type": "Ground",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "373"
+}

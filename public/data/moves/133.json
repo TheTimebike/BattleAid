@@ -1,0 +1,14 @@
+{
+    "name": "Amnesia",
+    "id": "133",
+    "desc": "The user temporarily empties its mind to forget itsconcerns. This sharply raises the user\u2019s Sp. Def stat.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "55"
+}

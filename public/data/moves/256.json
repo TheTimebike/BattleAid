@@ -1,0 +1,14 @@
+{
+    "name": "Swallow",
+    "id": "256",
+    "desc": "The power stored using the move Stockpile isabsorbed by the user to heal its HP. Storing morepower heals more HP.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "163"
+}

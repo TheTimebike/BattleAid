@@ -1,0 +1,14 @@
+{
+    "name": "Snore",
+    "id": "173",
+    "desc": "This attack can be used only if the user is asleep.The harsh noise may also make the target flinch.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "93"
+}

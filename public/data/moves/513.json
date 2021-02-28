@@ -1,0 +1,14 @@
+{
+    "name": "Reflect Type",
+    "id": "513",
+    "desc": "The user reflects the target\u2019s type, making it thesame type as the target.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "319"
+}

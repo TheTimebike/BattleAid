@@ -1,0 +1,14 @@
+{
+    "name": "Submission",
+    "id": "66",
+    "desc": "The user grabs the target and recklessly dives forthe ground. This also damages the user a little.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "80%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "49"
+}

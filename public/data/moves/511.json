@@ -1,0 +1,14 @@
+{
+    "name": "Quash",
+    "id": "511",
+    "desc": "The user suppresses the target and makes its movego last.",
+    "generation-introduced": "5",
+    "type": "Dark",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "316"
+}

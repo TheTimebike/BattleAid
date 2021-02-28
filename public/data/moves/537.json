@@ -1,0 +1,14 @@
+{
+    "name": "Steamroller",
+    "id": "537",
+    "desc": "The user crushes its target by rolling over the targetwith its rolled-up body. This may also make thetarget flinch.",
+    "generation-introduced": "5",
+    "type": "Bug",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "151"
+}

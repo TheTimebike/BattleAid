@@ -1,0 +1,14 @@
+{
+    "name": "Infestation",
+    "id": "611",
+    "desc": "The target is infested and attacked for four to fiveturns. The target can\u2019t flee during this time.",
+    "generation-introduced": "6",
+    "type": "Bug",
+    "power": "20",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "43"
+}

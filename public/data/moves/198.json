@@ -1,0 +1,14 @@
+{
+    "name": "Bone Rush",
+    "id": "198",
+    "desc": "The user strikes the target with a hard bone two tofive times in a row.",
+    "generation-introduced": "2",
+    "type": "Ground",
+    "power": "25",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

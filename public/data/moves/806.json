@@ -1,0 +1,14 @@
+{
+    "name": "Skitter Smack",
+    "id": "806",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Bug",
+    "power": "70",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

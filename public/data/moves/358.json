@@ -1,0 +1,14 @@
+{
+    "name": "Wake-Up Slap",
+    "id": "358",
+    "desc": "This attack inflicts big damage on a sleeping target.This also wakes the target up, however.",
+    "generation-introduced": "4",
+    "type": "Fighting",
+    "power": "70",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "218"
+}

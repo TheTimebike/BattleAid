@@ -1,0 +1,14 @@
+{
+    "name": "Clangorous Soul",
+    "id": "775",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Dragon",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": ""
+}

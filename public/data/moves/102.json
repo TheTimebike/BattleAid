@@ -1,0 +1,14 @@
+{
+    "name": "Mimic",
+    "id": "102",
+    "desc": "The user copies the target\u2019s last move. The movecan be used during battle until the Pok\u00e9mon isswitched out.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "83"
+}

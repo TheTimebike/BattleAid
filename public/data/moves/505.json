@@ -1,0 +1,14 @@
+{
+    "name": "Heal Pulse",
+    "id": "505",
+    "desc": "The user emits a healing pulse that restores thetarget\u2019s HP by up to half of its max HP.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "310"
+}

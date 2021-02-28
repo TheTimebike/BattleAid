@@ -1,0 +1,14 @@
+{
+    "name": "Moonblast",
+    "id": "585",
+    "desc": "Borrowing the power of the moon, the user attacksthe target. This may also lower the target\u2019sSp. Atk stat.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "95",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "72"
+}

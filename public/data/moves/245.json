@@ -1,0 +1,14 @@
+{
+    "name": "Extreme Speed",
+    "id": "245",
+    "desc": "The user charges the target at blinding speed.This move always goes first.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "80",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "2",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

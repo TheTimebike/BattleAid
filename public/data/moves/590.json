@@ -1,0 +1,14 @@
+{
+    "name": "Confide",
+    "id": "590",
+    "desc": "The user tells the target a secret, and the targetloses its ability to concentrate. This lowersthe target\u2019s Sp. Atk stat.",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "358"
+}

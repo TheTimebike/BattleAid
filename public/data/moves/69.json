@@ -1,0 +1,14 @@
+{
+    "name": "Seismic Toss",
+    "id": "69",
+    "desc": "The target is thrown using the power of gravity.It inflicts damage equal to the user\u2019s level.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "88"
+}

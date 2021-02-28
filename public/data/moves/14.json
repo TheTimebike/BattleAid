@@ -1,0 +1,14 @@
+{
+    "name": "Swords Dance",
+    "id": "14",
+    "desc": "A frenetic dance to uplift the fighting spirit.This sharply raises the user\u2019s Attack stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "51"
+}

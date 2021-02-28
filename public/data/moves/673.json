@@ -1,0 +1,14 @@
+{
+    "name": "Laser Focus",
+    "id": "673",
+    "desc": "The user concentrates intensely. The attack on thenext turn always results in a critical hit.",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "391"
+}

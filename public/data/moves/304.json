@@ -1,0 +1,14 @@
+{
+    "name": "Hyper Voice",
+    "id": "304",
+    "desc": "The user lets loose a horribly echoing shout withthe power to inflict damage.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

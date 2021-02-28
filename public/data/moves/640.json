@@ -1,0 +1,14 @@
+{
+    "name": "Inferno Overdrive",
+    "id": "640",
+    "desc": "The user breathes a stream of intense fire towardthe target with the full force of its Z-Power.The power varies depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Fire",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

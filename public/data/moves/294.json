@@ -1,0 +1,14 @@
+{
+    "name": "Tail Glow",
+    "id": "294",
+    "desc": "The user stares at flashing lights to focus its mind,drastically raising its Sp. Atk stat.",
+    "generation-introduced": "3",
+    "type": "Bug",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "322"
+}

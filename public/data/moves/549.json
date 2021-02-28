@@ -1,0 +1,14 @@
+{
+    "name": "Glaciate",
+    "id": "549",
+    "desc": "The user attacks by blowing freezing cold air atopposing Pok\u00e9mon. This lowers their Speed stat.",
+    "generation-introduced": "5",
+    "type": "Ice",
+    "power": "65",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "331"
+}

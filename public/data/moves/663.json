@@ -1,0 +1,14 @@
+{
+    "name": "Darkest Lariat",
+    "id": "663",
+    "desc": "The user swings both arms and hits the target.The target\u2019s stat changes don\u2019t affect thisattack\u2019s damage.",
+    "generation-introduced": "7",
+    "type": "Dark",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "304"
+}

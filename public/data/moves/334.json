@@ -1,0 +1,14 @@
+{
+    "name": "Iron Defense",
+    "id": "334",
+    "desc": "The user hardens its body\u2019s surface like iron,sharply raising its Defense stat.",
+    "generation-introduced": "3",
+    "type": "Steel",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "52"
+}

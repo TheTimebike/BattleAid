@@ -1,0 +1,14 @@
+{
+    "name": "Rolling Kick",
+    "id": "27",
+    "desc": "The user lashes out with a quick, spinning kick.This may also make the target flinch.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "60",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

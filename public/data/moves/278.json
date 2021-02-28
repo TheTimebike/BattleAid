@@ -1,0 +1,14 @@
+{
+    "name": "Recycle",
+    "id": "278",
+    "desc": "The user recycles a held item that has been used inbattle so it can be used again.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "185"
+}

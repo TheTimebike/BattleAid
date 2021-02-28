@@ -1,0 +1,14 @@
+{
+    "name": "Poltergeist",
+    "id": "809",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Ghost",
+    "power": "110",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

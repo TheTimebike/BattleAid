@@ -1,0 +1,14 @@
+{
+    "name": "Silver Wind",
+    "id": "318",
+    "desc": "The target is attacked with powdery scales blownby the wind. This may also raise all the user\u2019s stats.",
+    "generation-introduced": "3",
+    "type": "Bug",
+    "power": "60",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "141"
+}

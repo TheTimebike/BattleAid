@@ -1,0 +1,14 @@
+{
+    "name": "Zippy Zap",
+    "id": "729",
+    "desc": "",
+    "generation-introduced": "7",
+    "type": "Electric",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "2",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "289"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Rock Polish",
+    "id": "397",
+    "desc": "The user polishes its body to reduce drag.This can sharply raise the Speed stat.",
+    "generation-introduced": "4",
+    "type": "Rock",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "53"
+}

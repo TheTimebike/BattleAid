@@ -1,0 +1,14 @@
+{
+    "name": "Feint",
+    "id": "364",
+    "desc": "This attack hits a target using a move such asProtect or Detect.This also lifts the effects of those moves.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "30",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "2",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "224"
+}

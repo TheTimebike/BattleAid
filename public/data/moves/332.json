@@ -1,0 +1,14 @@
+{
+    "name": "Aerial Ace",
+    "id": "332",
+    "desc": "The user confounds the target with speed, thenslashes. This attack never misses.",
+    "generation-introduced": "3",
+    "type": "Flying",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "18"
+}

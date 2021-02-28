@@ -1,0 +1,14 @@
+{
+    "name": "Dragon Ascent",
+    "id": "620",
+    "desc": "After soaring upward, the user attacks its target bydropping out of the sky at high speeds. But it lowersits own Defense and Sp. Def stats in the process.",
+    "generation-introduced": "6",
+    "type": "Flying",
+    "power": "120",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "230"
+}

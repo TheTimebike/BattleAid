@@ -1,0 +1,14 @@
+{
+    "name": "Searing Sunraze Smash",
+    "id": "724",
+    "desc": "After obtaining Z-Power, the user, Solgaleo,attacks the target with full force. This move canignore the effect of the target\u2019s Ability.",
+    "generation-introduced": "7",
+    "type": "Steel",
+    "power": "200",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "411"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Baneful Bunker",
+    "id": "661",
+    "desc": "In addition to protecting the user from attacks, thismove also poisons any attacker that makesdirect contact.",
+    "generation-introduced": "7",
+    "type": "Poison",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "4",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "384"
+}

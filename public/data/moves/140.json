@@ -1,0 +1,14 @@
+{
+    "name": "Barrage",
+    "id": "140",
+    "desc": "Round objects are hurled at the target to strike twoto five times in a row.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "15",
+    "pp": "20",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Stone Edge",
+    "id": "444",
+    "desc": "The user stabs the target from below withsharpened stones. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Rock",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "80%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

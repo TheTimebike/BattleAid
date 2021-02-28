@@ -1,0 +1,14 @@
+{
+    "name": "Pika Papow",
+    "id": "732",
+    "desc": "",
+    "generation-introduced": "7",
+    "type": "Electric",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "122"
+}

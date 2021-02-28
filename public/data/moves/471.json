@@ -1,0 +1,14 @@
+{
+    "name": "Power Split",
+    "id": "471",
+    "desc": "The user employs its psychic power to average itsAttack and Sp. Atk stats with those of the target.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "281"
+}

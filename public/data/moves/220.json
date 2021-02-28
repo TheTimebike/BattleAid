@@ -1,0 +1,14 @@
+{
+    "name": "Pain Split",
+    "id": "220",
+    "desc": "The user adds its HP to the target\u2019s HP, then equallyshares the combined HP with the target.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "92"
+}

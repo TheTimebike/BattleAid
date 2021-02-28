@@ -1,0 +1,14 @@
+{
+    "name": "Endeavor",
+    "id": "283",
+    "desc": "This attack move cuts down the target\u2019s HP to equalthe user\u2019s HP.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "190"
+}

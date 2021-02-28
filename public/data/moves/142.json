@@ -1,0 +1,14 @@
+{
+    "name": "Lovely Kiss",
+    "id": "142",
+    "desc": "With a scary face, the user tries to force a kiss onthe target. If it succeeds, the target falls asleep.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "2"
+}

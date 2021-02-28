@@ -1,0 +1,14 @@
+{
+    "name": "Megahorn",
+    "id": "224",
+    "desc": "Using its tough and impressive horn, the user ramsinto the target with no letup.",
+    "generation-introduced": "2",
+    "type": "Bug",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

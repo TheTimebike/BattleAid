@@ -1,0 +1,14 @@
+{
+    "name": "Magnet Bomb",
+    "id": "443",
+    "desc": "The user launches steel bombs that stick to thetarget. This attack never misses.",
+    "generation-introduced": "4",
+    "type": "Steel",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "18"
+}

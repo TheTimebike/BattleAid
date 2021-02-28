@@ -1,0 +1,14 @@
+{
+    "name": "Grassy Glide",
+    "id": "803",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Grass",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

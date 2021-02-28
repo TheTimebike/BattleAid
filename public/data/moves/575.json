@@ -1,0 +1,14 @@
+{
+    "name": "Parting Shot",
+    "id": "575",
+    "desc": "With a parting threat, the user lowers the target\u2019sAttack and Sp. Atk stats. Then it switches with aparty Pok\u00e9mon.",
+    "generation-introduced": "6",
+    "type": "Dark",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "347"
+}

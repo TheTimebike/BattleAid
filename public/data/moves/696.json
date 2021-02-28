@@ -1,0 +1,14 @@
+{
+    "name": "Malicious Moonsault",
+    "id": "696",
+    "desc": "The user, Incineroar, strengthens its body usingits Z-Power and crashes into the target withfull force.",
+    "generation-introduced": "7",
+    "type": "Dark",
+    "power": "180",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

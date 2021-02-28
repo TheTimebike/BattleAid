@@ -1,0 +1,14 @@
+{
+    "name": "Rage Powder",
+    "id": "476",
+    "desc": "The user scatters a cloud of irritating powder todraw attention to itself. Opponents aim only atthe user.",
+    "generation-introduced": "5",
+    "type": "Bug",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "2",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "173"
+}

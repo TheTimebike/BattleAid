@@ -1,0 +1,14 @@
+{
+    "name": "Synchronoise",
+    "id": "485",
+    "desc": "Using an odd shock wave, the user inflicts damageon any Pok\u00e9mon of the same type in the areaaround it.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "293"
+}

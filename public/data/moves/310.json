@@ -1,0 +1,14 @@
+{
+    "name": "Astonish",
+    "id": "310",
+    "desc": "The user attacks the target while shouting in astartling fashion. This may also make thetarget flinch.",
+    "generation-introduced": "3",
+    "type": "Ghost",
+    "power": "30",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

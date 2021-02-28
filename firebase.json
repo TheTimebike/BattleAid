@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "timeswebsite",
+    "public": "public",
+    "cleanUrls": true
+  }
+}

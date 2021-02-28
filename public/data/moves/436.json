@@ -1,0 +1,14 @@
+{
+    "name": "Lava Plume",
+    "id": "436",
+    "desc": "The user torches everything around it in an infernoof scarlet flames. This may also leave those it hitswith a burn.",
+    "generation-introduced": "4",
+    "type": "Fire",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "5"
+}

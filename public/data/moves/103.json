@@ -1,0 +1,14 @@
+{
+    "name": "Screech",
+    "id": "103",
+    "desc": "An earsplitting screech harshly lowers the target\u2019sDefense stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "60"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Black Hole Eclipse",
+    "id": "654",
+    "desc": "The user gathers dark energy using its Z-Powerand sucks the target into it. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Dark",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

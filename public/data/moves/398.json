@@ -1,0 +1,14 @@
+{
+    "name": "Poison Jab",
+    "id": "398",
+    "desc": "The target is stabbed with a tentacle or arm steepedin poison. This may also poison the target.",
+    "generation-introduced": "4",
+    "type": "Poison",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "3"
+}

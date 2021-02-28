@@ -1,0 +1,14 @@
+{
+    "name": "Thunder Shock",
+    "id": "84",
+    "desc": "A jolt of electricity crashes down on the target toinflict damage. This may also leave the targetwith paralysis.",
+    "generation-introduced": "1",
+    "type": "Electric",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "7"
+}

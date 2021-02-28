@@ -1,0 +1,14 @@
+{
+    "name": "Rock Wrecker",
+    "id": "439",
+    "desc": "The user launches a huge boulder at the target toattack. The user can\u2019t move on the next turn.",
+    "generation-introduced": "4",
+    "type": "Rock",
+    "power": "150",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "81"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Electric Terrain",
+    "id": "604",
+    "desc": "The user electrifies the ground for five turns,powering up Electric-type moves. Pok\u00e9mon on theground no longer fall asleep.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "369"
+}

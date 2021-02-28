@@ -1,0 +1,14 @@
+{
+    "name": "Incinerate",
+    "id": "510",
+    "desc": "The user attacks opposing Pok\u00e9mon with fire.If a Pok\u00e9mon is holding a certain item, such as aBerry, the item becomes burned up and unusable.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "60",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "315"
+}

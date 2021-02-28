@@ -1,0 +1,14 @@
+{
+    "name": "Encore",
+    "id": "227",
+    "desc": "The user compels the target to keep using the moveit encored for three turns.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "91"
+}

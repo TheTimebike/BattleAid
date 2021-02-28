@@ -1,0 +1,14 @@
+{
+    "name": "Head Smash",
+    "id": "457",
+    "desc": "The user attacks the target with a hazardous,full-power headbutt. This also damages theuser terribly.",
+    "generation-introduced": "4",
+    "type": "Rock",
+    "power": "150",
+    "pp": "5",
+    "accuracy": "80%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "270"
+}

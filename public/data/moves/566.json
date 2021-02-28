@@ -1,0 +1,14 @@
+{
+    "name": "Phantom Force",
+    "id": "566",
+    "desc": "The user vanishes somewhere, then strikes thetarget on the next turn. This move hits even if thetarget protects itself.",
+    "generation-introduced": "6",
+    "type": "Ghost",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "273"
+}

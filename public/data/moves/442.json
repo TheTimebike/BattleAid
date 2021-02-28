@@ -1,0 +1,14 @@
+{
+    "name": "Iron Head",
+    "id": "442",
+    "desc": "The user slams the target with its steel-hard head.This may also make the target flinch.",
+    "generation-introduced": "4",
+    "type": "Steel",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Court Change",
+    "id": "756",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "14",
+    "effect_id": "1",
+    "effect_chance": ""
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ingrain",
+    "id": "275",
+    "desc": "The user lays roots that restore its HP on every turn.Because it\u2019s rooted, it can\u2019t switch out.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "182"
+}

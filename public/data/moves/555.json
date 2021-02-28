@@ -1,0 +1,14 @@
+{
+    "name": "Snarl",
+    "id": "555",
+    "desc": "The user yells as if it\u2019s ranting about something,which lowers the Sp. Atk stat of opposing Pok\u00e9mon.",
+    "generation-introduced": "5",
+    "type": "Dark",
+    "power": "55",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "72"
+}

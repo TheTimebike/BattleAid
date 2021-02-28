@@ -1,0 +1,14 @@
+{
+    "name": "Nature Power",
+    "id": "267",
+    "desc": "This attack makes use of nature\u2019s power. Itseffects vary depending on the user\u2019s environment.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "174"
+}

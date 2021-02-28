@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Shed",
+    "id": "10017",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "",
+    "pp": "",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "10005"
+}

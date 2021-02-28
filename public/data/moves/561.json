@@ -1,0 +1,14 @@
+{
+    "name": "Mat Block",
+    "id": "561",
+    "desc": "Using a pulled-up mat as a shield, the user protectsitself and its allies from damaging moves. This doesnot stop status moves.",
+    "generation-introduced": "6",
+    "type": "Fighting",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "377"
+}

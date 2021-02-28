@@ -1,0 +1,14 @@
+{
+    "name": "Flare Blitz",
+    "id": "394",
+    "desc": "The user cloaks itself in fire and charges the target.This also damages the user quite a lot. This attackmay leave the target with a burn.",
+    "generation-introduced": "4",
+    "type": "Fire",
+    "power": "120",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "254"
+}

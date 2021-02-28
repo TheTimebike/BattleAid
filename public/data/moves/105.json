@@ -1,0 +1,14 @@
+{
+    "name": "Recover",
+    "id": "105",
+    "desc": "Restoring its own cells, the user restores its own HPby half of its max HP.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "33"
+}

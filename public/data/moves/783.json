@@ -1,0 +1,14 @@
+{
+    "name": "Aura Wheel",
+    "id": "783",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Electric",
+    "power": "110",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Pluck",
+    "id": "365",
+    "desc": "The user pecks the target. If the target is holding aBerry, the user eats it and gains its effect.",
+    "generation-introduced": "4",
+    "type": "Flying",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "225"
+}

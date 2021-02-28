@@ -1,0 +1,14 @@
+{
+    "name": "Copycat",
+    "id": "383",
+    "desc": "The user mimics the move used immediately beforeit. The move fails if no other move has beenused yet.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "243"
+}

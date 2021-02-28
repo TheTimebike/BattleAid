@@ -1,0 +1,14 @@
+{
+    "name": "Slack Off",
+    "id": "303",
+    "desc": "The user slacks off, restoring its own HP by up tohalf of its max HP.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "33"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Fairy Lock",
+    "id": "587",
+    "desc": "By locking down the battlefield, the user keeps allPok\u00e9mon from fleeing during the next turn.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "355"
+}

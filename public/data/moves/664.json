@@ -1,0 +1,14 @@
+{
+    "name": "Sparkling Aria",
+    "id": "664",
+    "desc": "The user bursts into song, emitting many bubbles.Any Pok\u00e9mon suffering from a burn will be healedby the touch of these bubbles.",
+    "generation-introduced": "7",
+    "type": "Water",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "386"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Pay Day",
+    "id": "6",
+    "desc": "Numerous coins are hurled at the target to inflictdamage. Money is earned after the battle.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "35"
+}

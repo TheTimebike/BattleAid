@@ -1,0 +1,14 @@
+{
+    "name": "Anchor Shot",
+    "id": "677",
+    "desc": "The user entangles the target with its anchor chainwhile attacking. The target becomes unable to flee.",
+    "generation-introduced": "7",
+    "type": "Steel",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "385"
+}

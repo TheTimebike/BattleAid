@@ -1,0 +1,14 @@
+{
+    "name": "Sand Attack",
+    "id": "28",
+    "desc": "Sand is hurled in the target\u2019s face, reducing thetarget\u2019s accuracy.",
+    "generation-introduced": "1",
+    "type": "Ground",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "24"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Transform",
+    "id": "144",
+    "desc": "The user transforms into a copy of the target rightdown to having the same move set.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "58"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Magic Coat",
+    "id": "277",
+    "desc": "A barrier reflects back to the target moves likeLeech Seed and moves that damage status.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "4",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "184"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Fissure",
+    "id": "90",
+    "desc": "The user opens up a fissure in the ground and dropsthe target in. The target faints instantly if thisattack hits.",
+    "generation-introduced": "1",
+    "type": "Ground",
+    "power": "",
+    "pp": "5",
+    "accuracy": "30%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "39"
+}

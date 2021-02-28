@@ -1,0 +1,14 @@
+{
+    "name": "Heat Wave",
+    "id": "257",
+    "desc": "The user attacks by exhaling hot breath on theopposing Pok\u00e9mon. This may also leave thosePok\u00e9mon with a burn.",
+    "generation-introduced": "3",
+    "type": "Fire",
+    "power": "95",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "5"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Confusion",
+    "id": "93",
+    "desc": "The target is hit by a weak telekinetic force.This may also confuse the target.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "50",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "77"
+}

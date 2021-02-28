@@ -1,0 +1,14 @@
+{
+    "name": "Natural Gift",
+    "id": "363",
+    "desc": "The user draws power to attack by using its heldBerry. The Berry determines the move\u2019s typeand power.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "223"
+}

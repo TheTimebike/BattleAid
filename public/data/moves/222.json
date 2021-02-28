@@ -1,0 +1,14 @@
+{
+    "name": "Magnitude",
+    "id": "222",
+    "desc": "The user attacks everything around it with aground-shaking quake. Its power varies.",
+    "generation-introduced": "2",
+    "type": "Ground",
+    "power": "",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "2",
+    "effect_chance": "127"
+}

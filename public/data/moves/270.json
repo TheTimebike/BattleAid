@@ -1,0 +1,14 @@
+{
+    "name": "Helping Hand",
+    "id": "270",
+    "desc": "The user assists an ally by boosting the power ofthat ally\u2019s attack.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "5",
+    "damage_class": "3",
+    "effect_id": "1",
+    "effect_chance": "177"
+}

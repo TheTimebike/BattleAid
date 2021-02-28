@@ -1,0 +1,14 @@
+{
+    "name": "Headbutt",
+    "id": "29",
+    "desc": "The user sticks out its head and attacks by chargingstraight into the target. This may also make thetarget flinch.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "70",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

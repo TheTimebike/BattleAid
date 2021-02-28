@@ -1,0 +1,14 @@
+{
+    "name": "Assurance",
+    "id": "372",
+    "desc": "If the target has already taken some damage in thesame turn, this attack\u2019s power is doubled.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "232"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Dig",
+    "id": "91",
+    "desc": "The user burrows, then attacks on the next turn.",
+    "generation-introduced": "1",
+    "type": "Ground",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "257"
+}

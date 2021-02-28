@@ -1,0 +1,14 @@
+{
+    "name": "Cross Poison",
+    "id": "440",
+    "desc": "A slashing attack with a poisonous blade that mayalso poison the target. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Poison",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "210"
+}

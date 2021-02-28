@@ -1,0 +1,14 @@
+{
+    "name": "Trick Room",
+    "id": "433",
+    "desc": "The user creates a bizarre area in which slowerPok\u00e9mon get to move first for five turns.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "-7",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "260"
+}

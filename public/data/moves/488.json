@@ -1,0 +1,14 @@
+{
+    "name": "Flame Charge",
+    "id": "488",
+    "desc": "Cloaking itself in flame, the user attacks. Then,building up more power, the user raises itsSpeed stat.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "50",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "296"
+}

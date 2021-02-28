@@ -1,0 +1,14 @@
+{
+    "name": "Conversion 2",
+    "id": "176",
+    "desc": "The user changes its type to make itself resistant tothe type of the attack the opponent used last.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "94"
+}

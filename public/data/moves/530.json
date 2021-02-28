@@ -1,0 +1,14 @@
+{
+    "name": "Dual Chop",
+    "id": "530",
+    "desc": "The user attacks its target by hitting it with brutalstrikes. The target is hit twice in a row.",
+    "generation-introduced": "5",
+    "type": "Dragon",
+    "power": "40",
+    "pp": "15",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "45"
+}

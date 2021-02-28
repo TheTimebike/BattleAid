@@ -1,0 +1,14 @@
+{
+    "name": "Waterfall",
+    "id": "127",
+    "desc": "The user charges at the target and may makeit flinch.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

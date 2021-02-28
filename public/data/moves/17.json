@@ -1,0 +1,14 @@
+{
+    "name": "Wing Attack",
+    "id": "17",
+    "desc": "The target is struck with large, imposing wingsspread wide to inflict damage.",
+    "generation-introduced": "1",
+    "type": "Flying",
+    "power": "60",
+    "pp": "35",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

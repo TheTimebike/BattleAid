@@ -1,0 +1,14 @@
+{
+    "name": "Twineedle",
+    "id": "41",
+    "desc": "The user damages the target twice in successionby jabbing it with two spikes. This may also poisonthe target.",
+    "generation-introduced": "1",
+    "type": "Bug",
+    "power": "25",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "78"
+}

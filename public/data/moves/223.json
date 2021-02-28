@@ -1,0 +1,14 @@
+{
+    "name": "Dynamic Punch",
+    "id": "223",
+    "desc": "The user punches the target with full, concentratedpower. This confuses the target if it hits.",
+    "generation-introduced": "2",
+    "type": "Fighting",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "50%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "77"
+}

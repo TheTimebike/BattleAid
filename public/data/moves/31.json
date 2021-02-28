@@ -1,0 +1,14 @@
+{
+    "name": "Fury Attack",
+    "id": "31",
+    "desc": "The target is jabbed repeatedly with a horn or beaktwo to five times in a row.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "15",
+    "pp": "20",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

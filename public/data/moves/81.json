@@ -1,0 +1,14 @@
+{
+    "name": "String Shot",
+    "id": "81",
+    "desc": "The opposing Pok\u00e9mon are bound with silk blownfrom the user\u2019s mouth that harshly lowers theSpeed stat.",
+    "generation-introduced": "1",
+    "type": "Bug",
+    "power": "",
+    "pp": "40",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "61"
+}

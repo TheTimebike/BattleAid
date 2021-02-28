@@ -1,0 +1,14 @@
+{
+    "name": "Feather Dance",
+    "id": "297",
+    "desc": "The user covers the target\u2019s body with a mass ofdown that harshly lowers its Attack stat.",
+    "generation-introduced": "3",
+    "type": "Flying",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "59"
+}

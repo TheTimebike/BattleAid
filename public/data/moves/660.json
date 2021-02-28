@@ -1,0 +1,14 @@
+{
+    "name": "First Impression",
+    "id": "660",
+    "desc": "Although this move has great power, it only worksthe first turn the user is in battle.",
+    "generation-introduced": "7",
+    "type": "Bug",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "2",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "383"
+}

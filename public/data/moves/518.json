@@ -1,0 +1,14 @@
+{
+    "name": "Water Pledge",
+    "id": "518",
+    "desc": "A column of water strikes the target. When combinedwith its fire equivalent, its power increases and arainbow appears.",
+    "generation-introduced": "5",
+    "type": "Water",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "325"
+}

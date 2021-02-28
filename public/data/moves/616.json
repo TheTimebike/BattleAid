@@ -1,0 +1,14 @@
+{
+    "name": "Land\u2019s Wrath",
+    "id": "616",
+    "desc": "The user gathers the energy of the land and focusesthat power on opposing Pok\u00e9mon to damage them.",
+    "generation-introduced": "6",
+    "type": "Ground",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

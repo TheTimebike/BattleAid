@@ -1,0 +1,14 @@
+{
+    "name": "Glare",
+    "id": "137",
+    "desc": "The user intimidates the target with the pattern onits belly to cause paralysis.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "68"
+}

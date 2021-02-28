@@ -1,0 +1,14 @@
+{
+    "name": "Roost",
+    "id": "355",
+    "desc": "The user lands and rests its body. It restores theuser\u2019s HP by up to half of its max HP.",
+    "generation-introduced": "4",
+    "type": "Flying",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "215"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Avalanche",
+    "id": "419",
+    "desc": "The power of this attack move is doubled if the userhas been hurt by the target in the same turn.",
+    "generation-introduced": "4",
+    "type": "Ice",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "-4",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "186"
+}

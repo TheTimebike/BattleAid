@@ -1,0 +1,14 @@
+{
+    "name": "Echoed Voice",
+    "id": "497",
+    "desc": "The user attacks the target with an echoing voice.If this move is used every turn, its poweris increased.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "40",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "303"
+}

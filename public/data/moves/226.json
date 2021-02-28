@@ -1,0 +1,14 @@
+{
+    "name": "Baton Pass",
+    "id": "226",
+    "desc": "The user switches places with a party Pok\u00e9mon inwaiting and passes along any stat changes.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "128"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Blast Burn",
+    "id": "307",
+    "desc": "The target is razed by a fiery explosion. The usercan\u2019t move on the next turn.",
+    "generation-introduced": "3",
+    "type": "Fire",
+    "power": "150",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "81"
+}

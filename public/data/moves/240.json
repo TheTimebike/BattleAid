@@ -1,0 +1,14 @@
+{
+    "name": "Rain Dance",
+    "id": "240",
+    "desc": "The user summons a heavy rain that falls for fiveturns, powering up Water-type moves. It lowersthe power of Fire-type moves.",
+    "generation-introduced": "2",
+    "type": "Water",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "137"
+}

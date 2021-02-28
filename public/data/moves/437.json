@@ -1,0 +1,14 @@
+{
+    "name": "Leaf Storm",
+    "id": "437",
+    "desc": "The user whips up a storm of leaves around thetarget. The attack\u2019s recoil harshly lowers the user\u2019sSp. Atk stat.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "205"
+}

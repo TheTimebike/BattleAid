@@ -1,0 +1,14 @@
+{
+    "name": "Spirit Break",
+    "id": "789",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Fairy",
+    "power": "75",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

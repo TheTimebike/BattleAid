@@ -1,0 +1,14 @@
+{
+    "name": "Water Pulse",
+    "id": "352",
+    "desc": "The user attacks the target with a pulsing blast ofwater. This may also confuse the target.",
+    "generation-introduced": "3",
+    "type": "Water",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "77"
+}

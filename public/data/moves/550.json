@@ -1,0 +1,14 @@
+{
+    "name": "Bolt Strike",
+    "id": "550",
+    "desc": "The user surrounds itself with a great amount ofelectricity and charges its target. This may alsoleave the target with paralysis.",
+    "generation-introduced": "5",
+    "type": "Electric",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "7"
+}

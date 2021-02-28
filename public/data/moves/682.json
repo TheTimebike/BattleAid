@@ -1,0 +1,14 @@
+{
+    "name": "Burn Up",
+    "id": "682",
+    "desc": "To inflict massive damage, the user burns itself out.After using this move, the user will no longer beFire type.",
+    "generation-introduced": "7",
+    "type": "Fire",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "398"
+}

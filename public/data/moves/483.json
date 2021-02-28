@@ -1,0 +1,14 @@
+{
+    "name": "Quiver Dance",
+    "id": "483",
+    "desc": "The user lightly performs a beautiful, mystic dance.This boosts the user\u2019s Sp. Atk, Sp. Def, andSpeed stats.",
+    "generation-introduced": "5",
+    "type": "Bug",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "291"
+}

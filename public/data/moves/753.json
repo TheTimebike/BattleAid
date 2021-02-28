@@ -1,0 +1,14 @@
+{
+    "name": "Octolock",
+    "id": "753",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Fighting",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": ""
+}

@@ -1,0 +1,1 @@
+{"name": "Fairy Aura", "id": "187", "generation-introduced": "6", "short-desc": "Strengthens fairy moves to 1.33% their power for all friendly and opposing Pokemon. ", "long-desc": "Strengthens fairy moves for all friendly and opposing Pokemon. ", "pokemonWithAbility": [{"name": "Xerneas", "id": "716-1", "types": {"18": {"id": "18", "name": "Fairy"}}, "ha": false}]}

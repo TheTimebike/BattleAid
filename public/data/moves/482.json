@@ -1,0 +1,14 @@
+{
+    "name": "Sludge Wave",
+    "id": "482",
+    "desc": "The user strikes everything around it by swampingthe area with a giant sludge wave. This may alsopoison those hit.",
+    "generation-introduced": "5",
+    "type": "Poison",
+    "power": "95",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "3"
+}

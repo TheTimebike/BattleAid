@@ -1,0 +1,14 @@
+{
+    "name": "Skull Bash",
+    "id": "130",
+    "desc": "The user tucks in its head to raise its Defensestat on the first turn, then rams the target on thenext turn.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "130",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "146"
+}

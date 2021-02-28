@@ -1,0 +1,14 @@
+{
+    "name": "Constrict",
+    "id": "132",
+    "desc": "The target is attacked with long, creeping tentacles,vines, or the like. This may also lower the target\u2019s Speed stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "10",
+    "pp": "35",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "71"
+}

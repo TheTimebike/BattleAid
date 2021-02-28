@@ -1,0 +1,14 @@
+{
+    "name": "Decorate",
+    "id": "777",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Fairy",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": ""
+}

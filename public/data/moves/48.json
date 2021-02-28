@@ -1,0 +1,14 @@
+{
+    "name": "Supersonic",
+    "id": "48",
+    "desc": "The user generates odd sound waves from its bodythat confuse the target.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "55%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "50"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ally Switch",
+    "id": "502",
+    "desc": "The user teleports using a strange power andswitches places with one of its allies.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "2",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "308"
+}

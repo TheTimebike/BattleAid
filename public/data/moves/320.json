@@ -1,0 +1,14 @@
+{
+    "name": "Grass Whistle",
+    "id": "320",
+    "desc": "The user plays a pleasant melody that lulls thetarget into a deep sleep.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "",
+    "pp": "15",
+    "accuracy": "55%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "2"
+}

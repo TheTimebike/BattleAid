@@ -1,0 +1,14 @@
+{
+    "name": "Grudge",
+    "id": "288",
+    "desc": "If the user faints, the user\u2019s grudge fully depletesthe PP of the opponent\u2019s move that knocked it out.",
+    "generation-introduced": "3",
+    "type": "Ghost",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "195"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mean Look",
+    "id": "212",
+    "desc": "The user pins the target with a dark, arresting look.The target becomes unable to flee.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "107"
+}

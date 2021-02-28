@@ -1,0 +1,14 @@
+{
+    "name": "Mirror Shot",
+    "id": "429",
+    "desc": "The user lets loose a flash of energy at the targetfrom its polished body. This may also lower thetarget\u2019s accuracy.",
+    "generation-introduced": "4",
+    "type": "Steel",
+    "power": "65",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "74"
+}

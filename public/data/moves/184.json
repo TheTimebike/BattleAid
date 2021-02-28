@@ -1,0 +1,14 @@
+{
+    "name": "Scary Face",
+    "id": "184",
+    "desc": "The user frightens the target with a scary face toharshly lower its Speed stat.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "61"
+}

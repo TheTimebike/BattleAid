@@ -1,0 +1,14 @@
+{
+    "name": "Imprison",
+    "id": "286",
+    "desc": "If opposing Pok\u00e9mon know any move also known bythe user, they are prevented from using it.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "193"
+}

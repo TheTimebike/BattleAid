@@ -1,0 +1,14 @@
+{
+    "name": "Sketch",
+    "id": "166",
+    "desc": "It enables the user to permanently learn the movelast used by the target. Once used,Sketch disappears.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "96"
+}

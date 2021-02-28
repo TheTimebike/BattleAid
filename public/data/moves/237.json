@@ -1,0 +1,14 @@
+{
+    "name": "Hidden Power",
+    "id": "237",
+    "desc": "A unique attack that varies in type depending on thePok\u00e9mon using it.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "60",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "136"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Captivate",
+    "id": "445",
+    "desc": "If any opposing Pok\u00e9mon is the opposite gender ofthe user, it is charmed, which harshly lowers itsSp. Atk stat.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "266"
+}

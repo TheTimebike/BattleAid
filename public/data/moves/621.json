@@ -1,0 +1,14 @@
+{
+    "name": "Hyperspace Fury",
+    "id": "621",
+    "desc": "Using its many arms, the user unleashes a barrage ofattacks that ignore the effects of moves like Protectand Detect. But the user\u2019s Defense stat falls.",
+    "generation-introduced": "6",
+    "type": "Dark",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "360"
+}

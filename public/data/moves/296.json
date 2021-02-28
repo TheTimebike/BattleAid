@@ -1,0 +1,14 @@
+{
+    "name": "Mist Ball",
+    "id": "296",
+    "desc": "A mist-like flurry of down envelops and damages thetarget. This may also lower the target\u2019s Sp. Atk stat.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "70",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "72"
+}

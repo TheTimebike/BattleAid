@@ -1,0 +1,14 @@
+{
+    "name": "Bestow",
+    "id": "516",
+    "desc": "The user passes its held item to the target when thetarget isn\u2019t holding an item.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "324"
+}

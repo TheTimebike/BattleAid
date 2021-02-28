@@ -1,0 +1,14 @@
+{
+    "name": "Floaty Fall",
+    "id": "731",
+    "desc": "",
+    "generation-introduced": "7",
+    "type": "Flying",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Magma Storm",
+    "id": "463",
+    "desc": "The target becomes trapped within a maelstrom offire that rages for four to five turns.",
+    "generation-introduced": "4",
+    "type": "Fire",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "43"
+}

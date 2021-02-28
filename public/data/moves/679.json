@@ -1,0 +1,14 @@
+{
+    "name": "Lunge",
+    "id": "679",
+    "desc": "The user makes a lunge at the target, attacking withfull force. This also lowers the target\u2019s Attack stat.",
+    "generation-introduced": "7",
+    "type": "Bug",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "396"
+}

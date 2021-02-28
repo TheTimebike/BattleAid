@@ -1,0 +1,14 @@
+{
+    "name": "Head Charge",
+    "id": "543",
+    "desc": "The user charges its head into its target, using itspowerful guard hair. This also damages the usera little.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "120",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "49"
+}

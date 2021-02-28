@@ -1,0 +1,14 @@
+{
+    "name": "Grass Knot",
+    "id": "447",
+    "desc": "The user snares the target with grass and trips it.The heavier the target, the greater themove\u2019s power.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "197"
+}

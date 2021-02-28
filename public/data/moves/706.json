@@ -1,0 +1,14 @@
+{
+    "name": "Psychic Fangs",
+    "id": "706",
+    "desc": "The user bites the target with its psychiccapabilities. This can also destroy Light Screenand Reflect.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "85",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "187"
+}

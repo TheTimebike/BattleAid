@@ -1,0 +1,14 @@
+{
+    "name": "Swift",
+    "id": "129",
+    "desc": "Star-shaped rays are shot at the opposing Pok\u00e9mon.This attack never misses.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "18"
+}

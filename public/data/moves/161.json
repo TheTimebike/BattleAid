@@ -1,0 +1,14 @@
+{
+    "name": "Tri Attack",
+    "id": "161",
+    "desc": "The user strikes with a simultaneous three-beamattack. May also burn, freeze, or paralyze the target.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "37"
+}

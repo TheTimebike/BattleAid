@@ -1,0 +1,14 @@
+{
+    "name": "Rising Voltage",
+    "id": "804",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Electric",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": ""
+}

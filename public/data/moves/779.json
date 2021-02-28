@@ -1,0 +1,14 @@
+{
+    "name": "Snap Trap",
+    "id": "779",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Grass",
+    "power": "35",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

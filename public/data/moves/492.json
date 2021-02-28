@@ -1,0 +1,14 @@
+{
+    "name": "Foul Play",
+    "id": "492",
+    "desc": "The user turns the target\u2019s power against it. Thehigher the target\u2019s Attack stat, the greater themove\u2019s power.",
+    "generation-introduced": "5",
+    "type": "Dark",
+    "power": "95",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "298"
+}

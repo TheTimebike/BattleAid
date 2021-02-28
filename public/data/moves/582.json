@@ -1,0 +1,14 @@
+{
+    "name": "Electrify",
+    "id": "582",
+    "desc": "If the target is electrified before it uses a moveduring that turn, the target\u2019s move becomesElectric type.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "354"
+}

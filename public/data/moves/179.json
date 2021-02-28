@@ -1,0 +1,14 @@
+{
+    "name": "Reversal",
+    "id": "179",
+    "desc": "An all-out attack that becomes more powerful theless HP the user has.",
+    "generation-introduced": "2",
+    "type": "Fighting",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "100"
+}

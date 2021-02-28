@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Punch",
+    "id": "325",
+    "desc": "The user throws a punch from the shadows. Thisattack never misses.",
+    "generation-introduced": "3",
+    "type": "Ghost",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "18"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "X-Scissor",
+    "id": "404",
+    "desc": "The user slashes at the target by crossing itsscythes or claws as if they were a pair of scissors.",
+    "generation-introduced": "4",
+    "type": "Bug",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

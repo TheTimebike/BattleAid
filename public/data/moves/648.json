@@ -1,0 +1,14 @@
+{
+    "name": "Shattered Psyche",
+    "id": "648",
+    "desc": "The user controls the target with its Z-Power andhurts the target with full force. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Spacial Rend",
+    "id": "460",
+    "desc": "The user tears the target along with the spacearound it. Critical hits land more easily.",
+    "generation-introduced": "4",
+    "type": "Dragon",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "44"
+}

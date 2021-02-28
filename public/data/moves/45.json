@@ -1,0 +1,14 @@
+{
+    "name": "Growl",
+    "id": "45",
+    "desc": "The user growls in an endearing way, makingopposing Pok\u00e9mon less wary. This lowers theirAttack stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "19"
+}

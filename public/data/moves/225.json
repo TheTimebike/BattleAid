@@ -1,0 +1,14 @@
+{
+    "name": "Dragon Breath",
+    "id": "225",
+    "desc": "The user exhales a mighty gust that inflicts damage.This may also leave the target with paralysis.",
+    "generation-introduced": "2",
+    "type": "Dragon",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "7"
+}

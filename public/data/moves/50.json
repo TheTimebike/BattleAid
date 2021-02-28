@@ -1,0 +1,14 @@
+{
+    "name": "Disable",
+    "id": "50",
+    "desc": "For four turns, this move prevents the target fromusing the move it last used.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "87"
+}

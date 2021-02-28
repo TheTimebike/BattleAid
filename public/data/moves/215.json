@@ -1,0 +1,14 @@
+{
+    "name": "Heal Bell",
+    "id": "215",
+    "desc": "The user makes a soothing bell chime to heal thestatus conditions of all the party Pok\u00e9mon.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "13",
+    "effect_id": "1",
+    "effect_chance": "103"
+}

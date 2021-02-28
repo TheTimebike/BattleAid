@@ -1,0 +1,14 @@
+{
+    "name": "Shock Wave",
+    "id": "351",
+    "desc": "The user strikes the target with a quick jolt ofelectricity. This attack never misses.",
+    "generation-introduced": "3",
+    "type": "Electric",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "18"
+}

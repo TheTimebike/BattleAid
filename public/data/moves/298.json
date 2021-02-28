@@ -1,0 +1,14 @@
+{
+    "name": "Teeter Dance",
+    "id": "298",
+    "desc": "The user performs a wobbly dance that confusesthe Pok\u00e9mon around it.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "1",
+    "effect_chance": "200"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ice Fang",
+    "id": "423",
+    "desc": "The user bites with cold-infused fangs. This mayalso make the target flinch or leave it frozen.",
+    "generation-introduced": "4",
+    "type": "Ice",
+    "power": "65",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "275"
+}

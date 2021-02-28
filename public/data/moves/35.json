@@ -1,0 +1,14 @@
+{
+    "name": "Wrap",
+    "id": "35",
+    "desc": "A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "15",
+    "pp": "20",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "43"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Tail Whip",
+    "id": "39",
+    "desc": "The user wags its tail cutely, making opposingPok\u00e9mon less wary and lowering their Defense stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "20"
+}

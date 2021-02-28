@@ -1,0 +1,14 @@
+{
+    "name": "Sacred Fire",
+    "id": "221",
+    "desc": "The target is razed with a mystical fire of greatintensity. This may also leave the target with a burn.",
+    "generation-introduced": "2",
+    "type": "Fire",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "126"
+}

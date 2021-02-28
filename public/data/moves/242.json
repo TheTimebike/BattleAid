@@ -1,0 +1,14 @@
+{
+    "name": "Crunch",
+    "id": "242",
+    "desc": "The user crunches up the target with sharp fangs.This may also lower the target\u2019s Defense stat.",
+    "generation-introduced": "2",
+    "type": "Dark",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

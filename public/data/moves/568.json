@@ -1,0 +1,14 @@
+{
+    "name": "Noble Roar",
+    "id": "568",
+    "desc": "Letting out a noble roar, the user intimidates thetarget and lowers its Attack and Sp. Atk stats.",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "344"
+}

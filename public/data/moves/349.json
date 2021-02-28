@@ -1,0 +1,14 @@
+{
+    "name": "Dragon Dance",
+    "id": "349",
+    "desc": "The user vigorously performs a mystic, powerfuldance that raises its Attack and Speed stats.",
+    "generation-introduced": "3",
+    "type": "Dragon",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "213"
+}

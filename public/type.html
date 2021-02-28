@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./style.css">
+<meta property="og:type" content="website">
+<meta property="og:title" content="BattleAid"/>
+<meta property="og:description" content="View Competitive Battling Information"/>
+<meta property="og:url" content="https://timeswebsite.web.app/"/>
+<meta property="og:image" content="https://timeswebsite.web.app/icon.png"/>
+</head>
+
+<body>
+
+<div class="header">
+    <p class="p1">BATTLE
+    <span class="p1" style="color:#145DA0">AID</span>
+    </p>
+</div>
+
+<div class="navbar">
+    <a href="index.html"> Home </a>
+    <a id="gen1" href="generation.html?generation=1"> Generation One </a>
+    <a id="gen2" href="generation.html?generation=2"> Generation Two </a>
+    <a id="gen3" href="generation.html?generation=3"> Generation Three </a>
+    <a id="gen4" href="generation.html?generation=4"> Generation Four </a>
+    <a id="gen5" href="generation.html?generation=5"> Generation Five </a>
+    <a id="gen6" href="generation.html?generation=6"> Generation Six </a>
+    <a id="gen7" href="generation.html?generation=7"> Generation Seven </a>
+    <a id="gen8" href="generation.html?generation=8"> Generation Eight </a>
+    <a href="search.html" style="float:right"> Search For A Pokemon </a>
+    <a class="active" href="types.html" style="float:right"> Types </a>
+</div>
+
+<div style="padding-top:5px">
+    <div class="navigate">
+        <a style="float:left" id="prevbutton">
+            Previous
+        </a>
+        <a style="float:right" id="nextbutton">
+            Next
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="column wide">
+        <div class="headerCard">
+            <h1 id="typeName" style="text-align: center">Name</h1>
+        </div>
+    </div>
+</div>
+
+<div id="insertCards" class="row">
+
+</div>
+
+
+
+<script src= "./jquery-3.5.1.js"> </script>
+
+<script src="./scripts/pad.js"></script>
+<script src="./scripts/unpad.js"></script>
+
+<script src= "./scripts/setTypes.js"></script>
+
+<script src= "./scripts/createTypingOut.js"></script>
+<script src= "./scripts/createTypingIn.js"></script>
+
+<script src= "./scripts/niceName.js"> </script>
+
+<script>
+    function readData(name, type_in, type_out) {
+        createTypingOut(type_out, name);
+        createTypingIn(type_in, name);
+        
+    }
+
+const urlParams = new URLSearchParams(window.location.search);
+const typeID = urlParams.get('type');
+
+$.getJSON(`./data/types/${typeID}.json`, function(data) {
+    readData(data.name, data["typing-in"], data["typing-out"]);
+    document.title = niceName(data.name)
+
+    var namediv = document.querySelector("#typeName");
+    namediv.innerText = niceName(data.name);
+
+});
+</script>
+
+<script src="/__/firebase/8.2.4/firebase-app.js"></script>
+<script src="/__/firebase/8.2.4/firebase-analytics.js"></script>
+<script src="/__/firebase/init.js"></script>
+
+</body>
+<footer>
+    <p style="float:center">Pokémon and All Respective Names are Trademark & © of Nintendo 1996-2021</p>
+</footer>
+</html>

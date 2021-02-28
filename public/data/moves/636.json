@@ -1,0 +1,14 @@
+{
+    "name": "Never-Ending Nightmare",
+    "id": "636",
+    "desc": "Deep-seated grudges summoned by the user\u2019sZ-Power trap the target. The power varies,depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Ghost",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

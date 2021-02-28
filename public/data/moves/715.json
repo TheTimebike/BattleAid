@@ -1,0 +1,14 @@
+{
+    "name": "Tearful Look",
+    "id": "715",
+    "desc": "The user gets teary eyed to make the target loseits combative spirit. This lowers the target\u2019sAttack and Sp. Atk stats.",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "412"
+}

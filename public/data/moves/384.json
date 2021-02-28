@@ -1,0 +1,14 @@
+{
+    "name": "Power Swap",
+    "id": "384",
+    "desc": "The user employs its psychic power to switchchanges to its Attack and Sp. Atk stats withthe target.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "244"
+}

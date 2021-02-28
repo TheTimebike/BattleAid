@@ -1,0 +1,14 @@
+{
+    "name": "Dark Pulse",
+    "id": "399",
+    "desc": "The user releases a horrible aura imbued with darkthoughts. This may also make the target flinch.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "32"
+}

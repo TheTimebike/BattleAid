@@ -1,0 +1,14 @@
+{
+    "name": "Dive",
+    "id": "291",
+    "desc": "Diving on the first turn, the user floats up andattacks on the next turn.",
+    "generation-introduced": "3",
+    "type": "Water",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "256"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Lock-On",
+    "id": "199",
+    "desc": "The user takes sure aim at the target. This ensuresthe next attack does not miss the target.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "95"
+}

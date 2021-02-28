@@ -1,0 +1,14 @@
+{
+    "name": "Freezing Glare",
+    "id": "821",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Psychic",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": ""
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Smack Down",
+    "id": "479",
+    "desc": "The user throws a stone or similar projectile toattack an opponent. A flying Pok\u00e9mon will fall to theground when it\u2019s hit.",
+    "generation-introduced": "5",
+    "type": "Rock",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "288"
+}

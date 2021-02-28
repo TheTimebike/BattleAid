@@ -1,0 +1,14 @@
+{
+    "name": "Shore Up",
+    "id": "659",
+    "desc": "The user regains up to half of its max HP. It restoresmore HP in a sandstorm.",
+    "generation-introduced": "7",
+    "type": "Ground",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "382"
+}

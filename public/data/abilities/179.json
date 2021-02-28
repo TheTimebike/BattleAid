@@ -1,0 +1,1 @@
+{"name": "Grass Pelt", "id": "179", "generation-introduced": "6", "short-desc": "Boosts Defense while  is in effect. ", "long-desc": "Boosts Defense while  is in effect. ", "pokemonWithAbility": [{"name": "Skiddo", "id": "672", "types": {"12": {"id": "12", "name": "Grass"}}, "ha": true}, {"name": "Gogoat", "id": "673", "types": {"12": {"id": "12", "name": "Grass"}}, "ha": true}]}

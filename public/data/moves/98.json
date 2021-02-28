@@ -1,0 +1,14 @@
+{
+    "name": "Quick Attack",
+    "id": "98",
+    "desc": "The user lunges at the target at a speed that makesit almost invisible. This move always goes first.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Leafage",
+    "id": "670",
+    "desc": "The user attacks by pelting the target with leaves.",
+    "generation-introduced": "7",
+    "type": "Grass",
+    "power": "40",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

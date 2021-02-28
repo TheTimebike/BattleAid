@@ -1,0 +1,14 @@
+{
+    "name": "Seed Flare",
+    "id": "465",
+    "desc": "The user emits a shock wave from its body to attackits target. This may also harshly lower the target\u2019sSp. Def stat.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "120",
+    "pp": "5",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "272"
+}

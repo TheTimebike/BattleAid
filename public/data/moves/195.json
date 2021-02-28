@@ -1,0 +1,14 @@
+{
+    "name": "Perish Song",
+    "id": "195",
+    "desc": "Any Pok\u00e9mon that hears this song faints in threeturns, unless it switches out of battle.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "14",
+    "effect_id": "1",
+    "effect_chance": "115"
+}

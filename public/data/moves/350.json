@@ -1,0 +1,14 @@
+{
+    "name": "Rock Blast",
+    "id": "350",
+    "desc": "The user hurls hard rocks at the target. Two to fiverocks are launched in a row.",
+    "generation-introduced": "3",
+    "type": "Rock",
+    "power": "25",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

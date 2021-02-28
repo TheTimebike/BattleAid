@@ -1,0 +1,14 @@
+{
+    "name": "Growth",
+    "id": "74",
+    "desc": "The user\u2019s body grows all at once, raising theAttack and Sp. Atk stats.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "317"
+}

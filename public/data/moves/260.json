@@ -1,0 +1,14 @@
+{
+    "name": "Flatter",
+    "id": "260",
+    "desc": "Flattery is used to confuse the target. However,this also raises the target\u2019s Sp. Atk stat.",
+    "generation-introduced": "3",
+    "type": "Dark",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "167"
+}

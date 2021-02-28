@@ -1,0 +1,14 @@
+{
+    "name": "Poison Gas",
+    "id": "139",
+    "desc": "A cloud of poison gas is sprayed in the face ofopposing Pok\u00e9mon, poisoning those hit.",
+    "generation-introduced": "1",
+    "type": "Poison",
+    "power": "",
+    "pp": "40",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "67"
+}

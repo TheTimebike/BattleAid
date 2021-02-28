@@ -1,0 +1,14 @@
+{
+    "name": "Frost Breath",
+    "id": "524",
+    "desc": "The user blows its cold breath on the target. Thisattack always results in a critical hit.",
+    "generation-introduced": "5",
+    "type": "Ice",
+    "power": "60",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "289"
+}

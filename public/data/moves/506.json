@@ -1,0 +1,14 @@
+{
+    "name": "Hex",
+    "id": "506",
+    "desc": "This relentless attack does massive damage to atarget affected by status conditions.",
+    "generation-introduced": "5",
+    "type": "Ghost",
+    "power": "65",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "311"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Spark",
+    "id": "209",
+    "desc": "The user throws an electrically charged tackle at thetarget. This may also leave the target with paralysis.",
+    "generation-introduced": "2",
+    "type": "Electric",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "7"
+}

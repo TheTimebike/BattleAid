@@ -1,0 +1,14 @@
+{
+    "name": "Ice Shard",
+    "id": "420",
+    "desc": "The user flash-freezes chunks of ice and hurls themat the target. This move always goes first.",
+    "generation-introduced": "4",
+    "type": "Ice",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

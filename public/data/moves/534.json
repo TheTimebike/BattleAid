@@ -1,0 +1,14 @@
+{
+    "name": "Razor Shell",
+    "id": "534",
+    "desc": "The user cuts its target with sharp shells. This mayalso lower the target\u2019s Defense stat.",
+    "generation-introduced": "5",
+    "type": "Water",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

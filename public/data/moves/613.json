@@ -1,0 +1,14 @@
+{
+    "name": "Oblivion Wing",
+    "id": "613",
+    "desc": "The user absorbs its target\u2019s HP. The user\u2019s HP isrestored by over half of the damage taken bythe target.",
+    "generation-introduced": "6",
+    "type": "Flying",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "349"
+}

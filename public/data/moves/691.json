@@ -1,0 +1,14 @@
+{
+    "name": "Clanging Scales",
+    "id": "691",
+    "desc": "The user rubs the scales on its entire body andmakes a huge noise to attack the opposing Pok\u00e9mon.The user\u2019s Defense stat goes down after the attack.",
+    "generation-introduced": "7",
+    "type": "Dragon",
+    "power": "110",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "405"
+}

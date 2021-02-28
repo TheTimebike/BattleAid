@@ -1,0 +1,14 @@
+{
+    "name": "Retaliate",
+    "id": "514",
+    "desc": "The user gets revenge for a fainted ally. If an allyfainted in the previous turn, this move\u2019s poweris increased.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "70",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "320"
+}

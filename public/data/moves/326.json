@@ -1,0 +1,14 @@
+{
+    "name": "Extrasensory",
+    "id": "326",
+    "desc": "The user attacks with an odd, unseeable power.This may also make the target flinch.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "32"
+}

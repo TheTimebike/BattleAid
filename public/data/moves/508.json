@@ -1,0 +1,14 @@
+{
+    "name": "Shift Gear",
+    "id": "508",
+    "desc": "The user rotates its gears, raising its Attack stat andsharply raising its Speed stat.",
+    "generation-introduced": "5",
+    "type": "Steel",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "313"
+}

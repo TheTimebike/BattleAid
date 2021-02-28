@@ -1,0 +1,14 @@
+{
+    "name": "Sweet Kiss",
+    "id": "186",
+    "desc": "The user kisses the target with a sweet, angeliccuteness that causes confusion.",
+    "generation-introduced": "2",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "50"
+}

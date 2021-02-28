@@ -1,0 +1,14 @@
+{
+    "name": "Yawn",
+    "id": "281",
+    "desc": "The user lets loose a huge yawn that lulls the targetinto falling asleep on the next turn.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "188"
+}

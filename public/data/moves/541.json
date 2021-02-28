@@ -1,0 +1,14 @@
+{
+    "name": "Tail Slap",
+    "id": "541",
+    "desc": "The user attacks by striking the target with its hardtail. It hits the target two to five times in a row.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "25",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

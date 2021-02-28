@@ -1,0 +1,14 @@
+{
+    "name": "Petal Blizzard",
+    "id": "572",
+    "desc": "The user stirs up a violent petal blizzard and attackseverything around it.",
+    "generation-introduced": "6",
+    "type": "Grass",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "2",
+    "effect_chance": "379"
+}

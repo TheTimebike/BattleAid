@@ -1,0 +1,14 @@
+{
+    "name": "Bulldoze",
+    "id": "523",
+    "desc": "The user strikes everything around it by stompingdown on the ground. This lowers the Speed stat ofthose hit.",
+    "generation-introduced": "5",
+    "type": "Ground",
+    "power": "60",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "2",
+    "effect_chance": "71"
+}

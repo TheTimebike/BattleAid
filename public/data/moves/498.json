@@ -1,0 +1,14 @@
+{
+    "name": "Chip Away",
+    "id": "498",
+    "desc": "Looking for an opening, the user strikes consistently.The target\u2019s stat changes don\u2019t affect thisattack\u2019s damage.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "304"
+}

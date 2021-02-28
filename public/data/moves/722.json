@@ -1,0 +1,14 @@
+{
+    "name": "Photon Geyser",
+    "id": "722",
+    "desc": "The user attacks a target with a pillar of light. Thismove inflicts Attack or Sp. Atk damage\u2014whicheverstat is higher for the user.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "416"
+}

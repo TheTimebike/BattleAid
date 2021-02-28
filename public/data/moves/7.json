@@ -1,0 +1,14 @@
+{
+    "name": "Fire Punch",
+    "id": "7",
+    "desc": "The target is punched with a fiery fist. This may alsoleave the target with a burn.",
+    "generation-introduced": "1",
+    "type": "Fire",
+    "power": "75",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "5"
+}

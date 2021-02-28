@@ -1,0 +1,14 @@
+{
+    "name": "Healing Wish",
+    "id": "361",
+    "desc": "The user faints. In return, the Pok\u00e9mon taking itsplace will have its HP restored and statusconditions cured.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "221"
+}

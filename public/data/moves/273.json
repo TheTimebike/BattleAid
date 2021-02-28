@@ -1,0 +1,14 @@
+{
+    "name": "Wish",
+    "id": "273",
+    "desc": "One turn after this move is used, the user\u2019s or itsreplacement\u2019s HP is restored by half the user\u2019smax HP.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "180"
+}

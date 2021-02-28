@@ -1,0 +1,14 @@
+{
+    "name": "Pulverizing Pancake",
+    "id": "701",
+    "desc": "Z-Power brings out the true capabilities of the user,Snorlax. The Pok\u00e9mon moves its enormous bodyenergetically and attacks the target with full force.",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "210",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

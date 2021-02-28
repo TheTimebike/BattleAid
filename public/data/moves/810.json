@@ -1,0 +1,14 @@
+{
+    "name": "Corrosive Gas",
+    "id": "810",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Poison",
+    "power": "",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "1",
+    "effect_chance": ""
+}

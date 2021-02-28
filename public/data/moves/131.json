@@ -1,0 +1,14 @@
+{
+    "name": "Spike Cannon",
+    "id": "131",
+    "desc": "Sharp spikes are shot at the target in rapidsuccession. They hit two to five times in a row.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "20",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

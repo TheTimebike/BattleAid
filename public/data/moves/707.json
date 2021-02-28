@@ -1,0 +1,14 @@
+{
+    "name": "Stomping Tantrum",
+    "id": "707",
+    "desc": "Driven by frustration, the user attacks the target. Ifthe user\u2019s previous move has failed, the power ofthis move doubles.",
+    "generation-introduced": "7",
+    "type": "Ground",
+    "power": "75",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "409"
+}

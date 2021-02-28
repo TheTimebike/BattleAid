@@ -1,0 +1,14 @@
+{
+    "name": "Future Sight",
+    "id": "248",
+    "desc": "Two turns after this move is used, a hunk of psychicenergy attacks the target.",
+    "generation-introduced": "2",
+    "type": "Psychic",
+    "power": "120",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "149"
+}

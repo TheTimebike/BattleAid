@@ -1,0 +1,14 @@
+{
+    "name": "Fire Fang",
+    "id": "424",
+    "desc": "The user bites with flame-cloaked fangs. This mayalso make the target flinch or leave it with a burn.",
+    "generation-introduced": "4",
+    "type": "Fire",
+    "power": "65",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "274"
+}

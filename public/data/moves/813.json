@@ -1,0 +1,14 @@
+{
+    "name": "Triple Axel",
+    "id": "813",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Ice",
+    "power": "20",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

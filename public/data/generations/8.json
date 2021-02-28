@@ -1,0 +1,4928 @@
+{
+    "list": [
+        {
+            "name": "GMax Venusaur",
+            "id": "3-3",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "80",
+                "82",
+                "83",
+                "100",
+                "100",
+                "80"
+            ],
+            "abilities": [
+                {
+                    "id": "65",
+                    "name": "Overgrow"
+                }
+            ],
+            "hidden_ability": {
+                "id": "34",
+                "name": "Chlorophyll"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Charizard",
+            "id": "6-4",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                },
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "78",
+                "84",
+                "78",
+                "109",
+                "85",
+                "100"
+            ],
+            "abilities": [
+                {
+                    "id": "66",
+                    "name": "Blaze"
+                }
+            ],
+            "hidden_ability": {
+                "id": "94",
+                "name": "Solar Power"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Blastoise",
+            "id": "9-3",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "79",
+                "83",
+                "100",
+                "85",
+                "105",
+                "78"
+            ],
+            "abilities": [
+                {
+                    "id": "67",
+                    "name": "Torrent"
+                }
+            ],
+            "hidden_ability": {
+                "id": "44",
+                "name": "Rain Dish"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Butterfree",
+            "id": "12-2",
+            "types": {
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                },
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "60",
+                "45",
+                "50",
+                "90",
+                "80",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "14",
+                    "name": "Compound Eyes"
+                }
+            ],
+            "hidden_ability": {
+                "id": "110",
+                "name": "Tinted Lens"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Pikachu",
+            "id": "25-15",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                }
+            },
+            "base_stats": [
+                "35",
+                "55",
+                "40",
+                "50",
+                "50",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "9",
+                    "name": "Static"
+                }
+            ],
+            "hidden_ability": {
+                "id": "31",
+                "name": "Lightning Rod"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Galarian Meowth",
+            "id": "52-3",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "50",
+                "65",
+                "55",
+                "40",
+                "40",
+                "40"
+            ],
+            "abilities": [
+                {
+                    "id": "53",
+                    "name": "Pickup"
+                },
+                {
+                    "id": "181",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "127",
+                "name": "Unnerve"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "GMax Meowth",
+            "id": "52-4",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "40",
+                "45",
+                "35",
+                "40",
+                "40",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "53",
+                    "name": "Pickup"
+                },
+                {
+                    "id": "101",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "127",
+                "name": "Unnerve"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Machamp",
+            "id": "68-2",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "90",
+                "130",
+                "80",
+                "65",
+                "85",
+                "55"
+            ],
+            "abilities": [
+                {
+                    "id": "62",
+                    "name": "Guts"
+                },
+                {
+                    "id": "99",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "80",
+                "name": "Steadfast"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Galarian Ponyta",
+            "id": "77-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "50",
+                "85",
+                "55",
+                "65",
+                "65",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "50",
+                    "name": "Run Away"
+                },
+                {
+                    "id": "257",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "107",
+                "name": "Anticipation"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Rapidash",
+            "id": "78-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "65",
+                "100",
+                "70",
+                "80",
+                "80",
+                "105"
+            ],
+            "abilities": [
+                {
+                    "id": "50",
+                    "name": "Run Away"
+                },
+                {
+                    "id": "257",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "107",
+                "name": "Anticipation"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Slowpoke",
+            "id": "79-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "90",
+                "65",
+                "65",
+                "40",
+                "40",
+                "15"
+            ],
+            "abilities": [
+                {
+                    "id": "82",
+                    "name": "Gluttony"
+                },
+                {
+                    "id": "20",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "144",
+                "name": "Regenerator"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Slowbro",
+            "id": "80-3",
+            "types": {
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "95",
+                "100",
+                "95",
+                "100",
+                "70",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "259",
+                    "name": "Quick Draw"
+                },
+                {
+                    "id": "20",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "144",
+                "name": "Regenerator"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Farfetch\u2019d",
+            "id": "83-2",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "52",
+                "95",
+                "55",
+                "58",
+                "62",
+                "55"
+            ],
+            "abilities": [
+                {
+                    "id": "80",
+                    "name": "Steadfast"
+                }
+            ],
+            "hidden_ability": {
+                "id": "113",
+                "name": "Scrappy"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "GMax Gengar",
+            "id": "94-3",
+            "types": {
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "60",
+                "65",
+                "60",
+                "130",
+                "75",
+                "110"
+            ],
+            "abilities": [
+                {
+                    "id": "130",
+                    "name": "Cursed Body"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Kingler",
+            "id": "99-2",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "55",
+                "130",
+                "115",
+                "50",
+                "50",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "52",
+                    "name": "Hyper Cutter"
+                },
+                {
+                    "id": "75",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "125",
+                "name": "Sheer Force"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Galarian Weezing",
+            "id": "110-2",
+            "types": {
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "65",
+                "90",
+                "120",
+                "85",
+                "70",
+                "60"
+            ],
+            "abilities": [
+                {
+                    "id": "26",
+                    "name": "Levitate"
+                },
+                {
+                    "id": "256",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "228",
+                "name": "Misty Surge"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Mr. Mime",
+            "id": "122-2",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "50",
+                "65",
+                "65",
+                "90",
+                "90",
+                "100"
+            ],
+            "abilities": [
+                {
+                    "id": "72",
+                    "name": "Vital Spirit"
+                },
+                {
+                    "id": "251",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "115",
+                "name": "Ice Body"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "GMax Lapras",
+            "id": "131-2",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                },
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "130",
+                "85",
+                "80",
+                "85",
+                "95",
+                "60"
+            ],
+            "abilities": [
+                {
+                    "id": "11",
+                    "name": "Water Absorb"
+                },
+                {
+                    "id": "75",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "93",
+                "name": "Hydration"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Eevee",
+            "id": "133-2",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "55",
+                "55",
+                "50",
+                "45",
+                "65",
+                "55"
+            ],
+            "abilities": [
+                {
+                    "id": "50",
+                    "name": "Run Away"
+                },
+                {
+                    "id": "91",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "107",
+                "name": "Anticipation"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Snorlax",
+            "id": "143-2",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "160",
+                "110",
+                "65",
+                "65",
+                "110",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "17",
+                    "name": "Immunity"
+                },
+                {
+                    "id": "47",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "82",
+                "name": "Gluttony"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Galarian Articuno",
+            "id": "144-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "90",
+                "85",
+                "85",
+                "125",
+                "100",
+                "95"
+            ],
+            "abilities": [
+                {
+                    "id": "172",
+                    "name": "Competitive"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Zapdos",
+            "id": "145-2",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                },
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "90",
+                "125",
+                "90",
+                "85",
+                "90",
+                "100"
+            ],
+            "abilities": [
+                {
+                    "id": "128",
+                    "name": "Defiant"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Moltres",
+            "id": "146-2",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "90",
+                "85",
+                "90",
+                "100",
+                "125",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "201",
+                    "name": "Berserk"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Slowking",
+            "id": "199-2",
+            "types": {
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "95",
+                "65",
+                "80",
+                "110",
+                "110",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "261",
+                    "name": "Curious Medicine"
+                },
+                {
+                    "id": "20",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "144",
+                "name": "Regenerator"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Corsola",
+            "id": "222-2",
+            "types": {
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "60",
+                "55",
+                "100",
+                "65",
+                "100",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "133",
+                    "name": "Weak Armor"
+                }
+            ],
+            "hidden_ability": {
+                "id": "130",
+                "name": "Cursed Body"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Zigzagoon",
+            "id": "263-2",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "38",
+                "30",
+                "41",
+                "30",
+                "41",
+                "60"
+            ],
+            "abilities": [
+                {
+                    "id": "53",
+                    "name": "Pickup"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "95",
+                "name": "Quick Feet"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Linoone",
+            "id": "264-2",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "78",
+                "70",
+                "61",
+                "50",
+                "61",
+                "100"
+            ],
+            "abilities": [
+                {
+                    "id": "53",
+                    "name": "Pickup"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "95",
+                "name": "Quick Feet"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Darumaka",
+            "id": "554-2",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "70",
+                "90",
+                "45",
+                "15",
+                "45",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "55",
+                    "name": "Hustle"
+                }
+            ],
+            "hidden_ability": {
+                "id": "39",
+                "name": "Inner Focus"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Darmanitan",
+            "id": "555-3",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "105",
+                "140",
+                "55",
+                "30",
+                "55",
+                "95"
+            ],
+            "abilities": [
+                {
+                    "id": "255",
+                    "name": "Gorilla Tactics"
+                }
+            ],
+            "hidden_ability": {
+                "id": "161",
+                "name": "Zen Mode"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Darmanitan",
+            "id": "555-4",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                },
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "105",
+                "160",
+                "55",
+                "30",
+                "55",
+                "135"
+            ],
+            "abilities": [
+                {
+                    "id": "255",
+                    "name": "Gorilla Tactics"
+                }
+            ],
+            "hidden_ability": {
+                "id": "161",
+                "name": "Zen Mode"
+            },
+            "form_name": "galar"
+        },
+        {
+            "name": "Galarian Yamask",
+            "id": "562-2",
+            "types": {
+                "5": {
+                    "id": "5",
+                    "name": "Ground"
+                },
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "38",
+                "55",
+                "85",
+                "30",
+                "65",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "254",
+                    "name": "Wandering Spirit"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "galar"
+        },
+        {
+            "name": "GMax Garbodor",
+            "id": "569-2",
+            "types": {
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "80",
+                "95",
+                "82",
+                "60",
+                "82",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "1",
+                    "name": "Stench"
+                },
+                {
+                    "id": "133",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "106",
+                "name": "Aftermath"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Galarian Stunfisk",
+            "id": "618-2",
+            "types": {
+                "5": {
+                    "id": "5",
+                    "name": "Ground"
+                },
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "109",
+                "81",
+                "99",
+                "66",
+                "84",
+                "32"
+            ],
+            "abilities": [
+                {
+                    "id": "250",
+                    "name": "Mimicry"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "galar"
+        },
+        {
+            "name": "GMax Melmetal",
+            "id": "809-2",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "135",
+                "143",
+                "143",
+                "80",
+                "65",
+                "34"
+            ],
+            "abilities": [
+                {
+                    "id": "89",
+                    "name": "Iron Fist"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "gmax"
+        },
+        {
+            "name": "Grookey",
+            "id": "810",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "50",
+                "65",
+                "50",
+                "40",
+                "40",
+                "65"
+            ],
+            "abilities": [
+                {
+                    "id": "65",
+                    "name": "Overgrow"
+                }
+            ],
+            "hidden_ability": {
+                "id": "229",
+                "name": "Grassy Surge"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Thwackey",
+            "id": "811",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "70",
+                "85",
+                "70",
+                "55",
+                "60",
+                "80"
+            ],
+            "abilities": [
+                {
+                    "id": "65",
+                    "name": "Overgrow"
+                }
+            ],
+            "hidden_ability": {
+                "id": "229",
+                "name": "Grassy Surge"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Rillaboom",
+            "id": "812-1",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "100",
+                "125",
+                "90",
+                "60",
+                "70",
+                "85"
+            ],
+            "abilities": [
+                {
+                    "id": "65",
+                    "name": "Overgrow"
+                }
+            ],
+            "hidden_ability": {
+                "id": "229",
+                "name": "Grassy Surge"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Rillaboom",
+            "id": "812-2",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "100",
+                "125",
+                "90",
+                "60",
+                "70",
+                "85"
+            ],
+            "abilities": [
+                {
+                    "id": "65",
+                    "name": "Overgrow"
+                }
+            ],
+            "hidden_ability": {
+                "id": "229",
+                "name": "Grassy Surge"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Scorbunny",
+            "id": "813",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "50",
+                "71",
+                "40",
+                "40",
+                "40",
+                "69"
+            ],
+            "abilities": [
+                {
+                    "id": "66",
+                    "name": "Blaze"
+                }
+            ],
+            "hidden_ability": {
+                "id": "236",
+                "name": "Libero"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Raboot",
+            "id": "814",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "65",
+                "86",
+                "60",
+                "55",
+                "60",
+                "94"
+            ],
+            "abilities": [
+                {
+                    "id": "66",
+                    "name": "Blaze"
+                }
+            ],
+            "hidden_ability": {
+                "id": "236",
+                "name": "Libero"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Cinderace",
+            "id": "815-1",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "80",
+                "116",
+                "75",
+                "65",
+                "75",
+                "119"
+            ],
+            "abilities": [
+                {
+                    "id": "66",
+                    "name": "Blaze"
+                }
+            ],
+            "hidden_ability": {
+                "id": "236",
+                "name": "Libero"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Cinderace",
+            "id": "815-2",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "80",
+                "116",
+                "75",
+                "65",
+                "75",
+                "119"
+            ],
+            "abilities": [
+                {
+                    "id": "66",
+                    "name": "Blaze"
+                }
+            ],
+            "hidden_ability": {
+                "id": "236",
+                "name": "Libero"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Sobble",
+            "id": "816",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "50",
+                "40",
+                "40",
+                "70",
+                "40",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "67",
+                    "name": "Torrent"
+                }
+            ],
+            "hidden_ability": {
+                "id": "97",
+                "name": "Sniper"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Drizzile",
+            "id": "817",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "65",
+                "60",
+                "55",
+                "95",
+                "55",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "67",
+                    "name": "Torrent"
+                }
+            ],
+            "hidden_ability": {
+                "id": "97",
+                "name": "Sniper"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Inteleon",
+            "id": "818-1",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "70",
+                "85",
+                "65",
+                "125",
+                "65",
+                "120"
+            ],
+            "abilities": [
+                {
+                    "id": "67",
+                    "name": "Torrent"
+                }
+            ],
+            "hidden_ability": {
+                "id": "97",
+                "name": "Sniper"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Inteleon",
+            "id": "818-2",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "70",
+                "85",
+                "65",
+                "125",
+                "65",
+                "120"
+            ],
+            "abilities": [
+                {
+                    "id": "67",
+                    "name": "Torrent"
+                }
+            ],
+            "hidden_ability": {
+                "id": "97",
+                "name": "Sniper"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Skwovet",
+            "id": "819",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "70",
+                "55",
+                "55",
+                "35",
+                "35",
+                "25"
+            ],
+            "abilities": [
+                {
+                    "id": "167",
+                    "name": "Cheek Pouch"
+                }
+            ],
+            "hidden_ability": {
+                "id": "82",
+                "name": "Gluttony"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Greedent",
+            "id": "820",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "120",
+                "95",
+                "95",
+                "55",
+                "75",
+                "20"
+            ],
+            "abilities": [
+                {
+                    "id": "167",
+                    "name": "Cheek Pouch"
+                }
+            ],
+            "hidden_ability": {
+                "id": "82",
+                "name": "Gluttony"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Rookidee",
+            "id": "821",
+            "types": {
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "38",
+                "47",
+                "35",
+                "33",
+                "35",
+                "57"
+            ],
+            "abilities": [
+                {
+                    "id": "51",
+                    "name": "Keen Eye"
+                },
+                {
+                    "id": "127",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "145",
+                "name": "Big Pecks"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Corvisquire",
+            "id": "822",
+            "types": {
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                }
+            },
+            "base_stats": [
+                "68",
+                "67",
+                "55",
+                "43",
+                "55",
+                "77"
+            ],
+            "abilities": [
+                {
+                    "id": "51",
+                    "name": "Keen Eye"
+                },
+                {
+                    "id": "127",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "145",
+                "name": "Big Pecks"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Corviknight",
+            "id": "823-1",
+            "types": {
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                },
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "98",
+                "87",
+                "105",
+                "53",
+                "85",
+                "67"
+            ],
+            "abilities": [
+                {
+                    "id": "46",
+                    "name": "Pressure"
+                },
+                {
+                    "id": "127",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "240",
+                "name": "Mirror Armor"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Corviknight",
+            "id": "823-2",
+            "types": {
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                },
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "98",
+                "87",
+                "105",
+                "53",
+                "85",
+                "67"
+            ],
+            "abilities": [
+                {
+                    "id": "46",
+                    "name": "Pressure"
+                },
+                {
+                    "id": "127",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "240",
+                "name": "Mirror Armor"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Blipbug",
+            "id": "824",
+            "types": {
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                }
+            },
+            "base_stats": [
+                "25",
+                "20",
+                "20",
+                "25",
+                "45",
+                "45"
+            ],
+            "abilities": [
+                {
+                    "id": "68",
+                    "name": "Swarm"
+                },
+                {
+                    "id": "14",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "140",
+                "name": "Telepathy"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Dottler",
+            "id": "825",
+            "types": {
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "50",
+                "35",
+                "80",
+                "50",
+                "90",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "68",
+                    "name": "Swarm"
+                },
+                {
+                    "id": "14",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "140",
+                "name": "Telepathy"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Orbeetle",
+            "id": "826-1",
+            "types": {
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "60",
+                "45",
+                "110",
+                "80",
+                "120",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "68",
+                    "name": "Swarm"
+                },
+                {
+                    "id": "119",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "140",
+                "name": "Telepathy"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Orbeetle",
+            "id": "826-2",
+            "types": {
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "60",
+                "45",
+                "110",
+                "80",
+                "120",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "68",
+                    "name": "Swarm"
+                },
+                {
+                    "id": "119",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "140",
+                "name": "Telepathy"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Nickit",
+            "id": "827",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                }
+            },
+            "base_stats": [
+                "40",
+                "28",
+                "28",
+                "47",
+                "52",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "50",
+                    "name": "Run Away"
+                },
+                {
+                    "id": "84",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "198",
+                "name": "Stakeout"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Thievul",
+            "id": "828",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                }
+            },
+            "base_stats": [
+                "70",
+                "58",
+                "58",
+                "87",
+                "92",
+                "90"
+            ],
+            "abilities": [
+                {
+                    "id": "50",
+                    "name": "Run Away"
+                },
+                {
+                    "id": "84",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "198",
+                "name": "Stakeout"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Gossifleur",
+            "id": "829",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "40",
+                "40",
+                "60",
+                "40",
+                "60",
+                "10"
+            ],
+            "abilities": [
+                {
+                    "id": "238",
+                    "name": "Cotton Down"
+                },
+                {
+                    "id": "144",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "27",
+                "name": "Effect Spore"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Eldegoss",
+            "id": "830",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "60",
+                "50",
+                "90",
+                "80",
+                "120",
+                "60"
+            ],
+            "abilities": [
+                {
+                    "id": "238",
+                    "name": "Cotton Down"
+                },
+                {
+                    "id": "144",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "27",
+                "name": "Effect Spore"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Wooloo",
+            "id": "831",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "42",
+                "40",
+                "55",
+                "40",
+                "45",
+                "48"
+            ],
+            "abilities": [
+                {
+                    "id": "218",
+                    "name": "Fluffy"
+                },
+                {
+                    "id": "50",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "171",
+                "name": "Bulletproof"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Dubwool",
+            "id": "832",
+            "types": {
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "72",
+                "80",
+                "100",
+                "60",
+                "90",
+                "88"
+            ],
+            "abilities": [
+                {
+                    "id": "218",
+                    "name": "Fluffy"
+                },
+                {
+                    "id": "50",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "171",
+                "name": "Bulletproof"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Chewtle",
+            "id": "833",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "50",
+                "64",
+                "50",
+                "38",
+                "38",
+                "44"
+            ],
+            "abilities": [
+                {
+                    "id": "173",
+                    "name": "Strong Jaw"
+                },
+                {
+                    "id": "75",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "33",
+                "name": "Swift Swim"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Drednaw",
+            "id": "834-1",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                },
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                }
+            },
+            "base_stats": [
+                "90",
+                "115",
+                "90",
+                "48",
+                "68",
+                "74"
+            ],
+            "abilities": [
+                {
+                    "id": "173",
+                    "name": "Strong Jaw"
+                },
+                {
+                    "id": "75",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "33",
+                "name": "Swift Swim"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Drednaw",
+            "id": "834-2",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                },
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                }
+            },
+            "base_stats": [
+                "90",
+                "115",
+                "90",
+                "48",
+                "68",
+                "74"
+            ],
+            "abilities": [
+                {
+                    "id": "173",
+                    "name": "Strong Jaw"
+                },
+                {
+                    "id": "75",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "33",
+                "name": "Swift Swim"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Yamper",
+            "id": "835",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                }
+            },
+            "base_stats": [
+                "59",
+                "45",
+                "50",
+                "40",
+                "50",
+                "26"
+            ],
+            "abilities": [
+                {
+                    "id": "237",
+                    "name": "Ball Fetch"
+                }
+            ],
+            "hidden_ability": {
+                "id": "155",
+                "name": "Rattled"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Boltund",
+            "id": "836",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                }
+            },
+            "base_stats": [
+                "69",
+                "90",
+                "60",
+                "90",
+                "60",
+                "121"
+            ],
+            "abilities": [
+                {
+                    "id": "173",
+                    "name": "Strong Jaw"
+                }
+            ],
+            "hidden_ability": {
+                "id": "172",
+                "name": "Competitive"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Rolycoly",
+            "id": "837",
+            "types": {
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                }
+            },
+            "base_stats": [
+                "30",
+                "40",
+                "50",
+                "40",
+                "50",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "243",
+                    "name": "Steam Engine"
+                },
+                {
+                    "id": "85",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "18",
+                "name": "Flash Fire"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Carkol",
+            "id": "838",
+            "types": {
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                },
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "80",
+                "60",
+                "90",
+                "60",
+                "70",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "243",
+                    "name": "Steam Engine"
+                },
+                {
+                    "id": "49",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "18",
+                "name": "Flash Fire"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Coalossal",
+            "id": "839-1",
+            "types": {
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                },
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "110",
+                "80",
+                "120",
+                "80",
+                "90",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "243",
+                    "name": "Steam Engine"
+                },
+                {
+                    "id": "49",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "18",
+                "name": "Flash Fire"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Coalossal",
+            "id": "839-2",
+            "types": {
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                },
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                }
+            },
+            "base_stats": [
+                "110",
+                "80",
+                "120",
+                "80",
+                "90",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "243",
+                    "name": "Steam Engine"
+                },
+                {
+                    "id": "49",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "18",
+                "name": "Flash Fire"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Applin",
+            "id": "840",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "40",
+                "40",
+                "80",
+                "40",
+                "40",
+                "20"
+            ],
+            "abilities": [
+                {
+                    "id": "247",
+                    "name": "Ripen"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "171",
+                "name": "Bulletproof"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Flapple",
+            "id": "841-1",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "70",
+                "110",
+                "80",
+                "95",
+                "60",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "247",
+                    "name": "Ripen"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "55",
+                "name": "Hustle"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Flapple",
+            "id": "841-2",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "70",
+                "110",
+                "80",
+                "95",
+                "60",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "247",
+                    "name": "Ripen"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "55",
+                "name": "Hustle"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Appletun",
+            "id": "842-1",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "110",
+                "85",
+                "80",
+                "100",
+                "80",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "247",
+                    "name": "Ripen"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "47",
+                "name": "Thick Fat"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Appletun",
+            "id": "842-2",
+            "types": {
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "110",
+                "85",
+                "80",
+                "100",
+                "80",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "247",
+                    "name": "Ripen"
+                },
+                {
+                    "id": "82",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "47",
+                "name": "Thick Fat"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Silicobra",
+            "id": "843",
+            "types": {
+                "5": {
+                    "id": "5",
+                    "name": "Ground"
+                }
+            },
+            "base_stats": [
+                "52",
+                "57",
+                "75",
+                "35",
+                "50",
+                "46"
+            ],
+            "abilities": [
+                {
+                    "id": "245",
+                    "name": "Sand Spit"
+                },
+                {
+                    "id": "61",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "8",
+                "name": "Sand Veil"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Sandaconda",
+            "id": "844-1",
+            "types": {
+                "5": {
+                    "id": "5",
+                    "name": "Ground"
+                }
+            },
+            "base_stats": [
+                "72",
+                "107",
+                "125",
+                "65",
+                "70",
+                "71"
+            ],
+            "abilities": [
+                {
+                    "id": "245",
+                    "name": "Sand Spit"
+                },
+                {
+                    "id": "61",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "8",
+                "name": "Sand Veil"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Sandaconda",
+            "id": "844-2",
+            "types": {
+                "5": {
+                    "id": "5",
+                    "name": "Ground"
+                }
+            },
+            "base_stats": [
+                "72",
+                "107",
+                "125",
+                "65",
+                "70",
+                "71"
+            ],
+            "abilities": [
+                {
+                    "id": "245",
+                    "name": "Sand Spit"
+                },
+                {
+                    "id": "61",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "8",
+                "name": "Sand Veil"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Cramorant",
+            "id": "845-1",
+            "types": {
+                "3": {
+                    "id": "3",
+                    "name": "Flying"
+                },
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "70",
+                "85",
+                "55",
+                "85",
+                "95",
+                "85"
+            ],
+            "abilities": [
+                {
+                    "id": "241",
+                    "name": "Gulp Missile"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "gorging"
+        },
+        {
+            "name": "Arrokuda",
+            "id": "846",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "41",
+                "63",
+                "40",
+                "40",
+                "30",
+                "66"
+            ],
+            "abilities": [
+                {
+                    "id": "33",
+                    "name": "Swift Swim"
+                }
+            ],
+            "hidden_ability": {
+                "id": "239",
+                "name": "Propeller Tail"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Barraskewda",
+            "id": "847",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "61",
+                "123",
+                "60",
+                "60",
+                "50",
+                "136"
+            ],
+            "abilities": [
+                {
+                    "id": "33",
+                    "name": "Swift Swim"
+                }
+            ],
+            "hidden_ability": {
+                "id": "239",
+                "name": "Propeller Tail"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Toxel",
+            "id": "848",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "40",
+                "38",
+                "35",
+                "54",
+                "35",
+                "40"
+            ],
+            "abilities": [
+                {
+                    "id": "155",
+                    "name": "Rattled"
+                },
+                {
+                    "id": "9",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "103",
+                "name": "Klutz"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Toxtricity low-key",
+            "id": "849-1",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "75",
+                "98",
+                "70",
+                "114",
+                "70",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "244",
+                    "name": "Punk Rock"
+                },
+                {
+                    "id": "58",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "101",
+                "name": "Technician"
+            },
+            "form_name": "low-key"
+        },
+        {
+            "name": "Toxtricity",
+            "id": "849-2",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "75",
+                "98",
+                "70",
+                "114",
+                "70",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "244",
+                    "name": "Punk Rock"
+                },
+                {
+                    "id": "57",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "101",
+                "name": "Technician"
+            },
+            "form_name": "amped"
+        },
+        {
+            "name": "GMax Toxtricity",
+            "id": "849-3",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "75",
+                "98",
+                "70",
+                "114",
+                "70",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "244",
+                    "name": "Punk Rock"
+                },
+                {
+                    "id": "57",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "101",
+                "name": "Technician"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Toxtricity",
+            "id": "849-4",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                }
+            },
+            "base_stats": [
+                "75",
+                "98",
+                "70",
+                "114",
+                "70",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "244",
+                    "name": "Punk Rock"
+                },
+                {
+                    "id": "58",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "101",
+                "name": "Technician"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Sizzlipede",
+            "id": "850",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                },
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                }
+            },
+            "base_stats": [
+                "50",
+                "65",
+                "45",
+                "50",
+                "50",
+                "45"
+            ],
+            "abilities": [
+                {
+                    "id": "18",
+                    "name": "Flash Fire"
+                },
+                {
+                    "id": "73",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "49",
+                "name": "Flame Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Centiskorch",
+            "id": "851-1",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                },
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                }
+            },
+            "base_stats": [
+                "100",
+                "115",
+                "65",
+                "90",
+                "90",
+                "65"
+            ],
+            "abilities": [
+                {
+                    "id": "18",
+                    "name": "Flash Fire"
+                },
+                {
+                    "id": "73",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "49",
+                "name": "Flame Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Centiskorch",
+            "id": "851-2",
+            "types": {
+                "10": {
+                    "id": "10",
+                    "name": "Fire"
+                },
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                }
+            },
+            "base_stats": [
+                "100",
+                "115",
+                "65",
+                "90",
+                "90",
+                "65"
+            ],
+            "abilities": [
+                {
+                    "id": "18",
+                    "name": "Flash Fire"
+                },
+                {
+                    "id": "73",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "49",
+                "name": "Flame Body"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Clobbopus",
+            "id": "852",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "50",
+                "68",
+                "60",
+                "50",
+                "50",
+                "32"
+            ],
+            "abilities": [
+                {
+                    "id": "7",
+                    "name": "Limber"
+                }
+            ],
+            "hidden_ability": {
+                "id": "101",
+                "name": "Technician"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Grapploct",
+            "id": "853",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "80",
+                "118",
+                "90",
+                "70",
+                "80",
+                "42"
+            ],
+            "abilities": [
+                {
+                    "id": "7",
+                    "name": "Limber"
+                }
+            ],
+            "hidden_ability": {
+                "id": "101",
+                "name": "Technician"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Sinistea",
+            "id": "854-1",
+            "types": {
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "40",
+                "45",
+                "45",
+                "74",
+                "54",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "133",
+                    "name": "Weak Armor"
+                }
+            ],
+            "hidden_ability": {
+                "id": "130",
+                "name": "Cursed Body"
+            },
+            "form_name": "antique"
+        },
+        {
+            "name": "Polteageist",
+            "id": "855-1",
+            "types": {
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "60",
+                "65",
+                "65",
+                "134",
+                "114",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "133",
+                    "name": "Weak Armor"
+                }
+            ],
+            "hidden_ability": {
+                "id": "130",
+                "name": "Cursed Body"
+            },
+            "form_name": "antique"
+        },
+        {
+            "name": "Hatenna",
+            "id": "856",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "42",
+                "30",
+                "45",
+                "56",
+                "53",
+                "39"
+            ],
+            "abilities": [
+                {
+                    "id": "131",
+                    "name": "Healer"
+                },
+                {
+                    "id": "107",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "156",
+                "name": "Magic Bounce"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Hattrem",
+            "id": "857",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "57",
+                "40",
+                "65",
+                "86",
+                "73",
+                "49"
+            ],
+            "abilities": [
+                {
+                    "id": "131",
+                    "name": "Healer"
+                },
+                {
+                    "id": "107",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "156",
+                "name": "Magic Bounce"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Hatterene",
+            "id": "858-1",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "57",
+                "90",
+                "95",
+                "136",
+                "103",
+                "29"
+            ],
+            "abilities": [
+                {
+                    "id": "131",
+                    "name": "Healer"
+                },
+                {
+                    "id": "107",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "156",
+                "name": "Magic Bounce"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Hatterene",
+            "id": "858-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "57",
+                "90",
+                "95",
+                "136",
+                "103",
+                "29"
+            ],
+            "abilities": [
+                {
+                    "id": "131",
+                    "name": "Healer"
+                },
+                {
+                    "id": "107",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "156",
+                "name": "Magic Bounce"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Impidimp",
+            "id": "859",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "45",
+                "45",
+                "30",
+                "55",
+                "40",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "158",
+                    "name": "Prankster"
+                },
+                {
+                    "id": "119",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "124",
+                "name": "Pickpocket"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Morgrem",
+            "id": "860",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "65",
+                "60",
+                "45",
+                "75",
+                "55",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "158",
+                    "name": "Prankster"
+                },
+                {
+                    "id": "119",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "124",
+                "name": "Pickpocket"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Grimmsnarl",
+            "id": "861-1",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "95",
+                "120",
+                "65",
+                "95",
+                "75",
+                "60"
+            ],
+            "abilities": [
+                {
+                    "id": "158",
+                    "name": "Prankster"
+                },
+                {
+                    "id": "119",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "124",
+                "name": "Pickpocket"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Grimmsnarl",
+            "id": "861-2",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "95",
+                "120",
+                "65",
+                "95",
+                "75",
+                "60"
+            ],
+            "abilities": [
+                {
+                    "id": "158",
+                    "name": "Prankster"
+                },
+                {
+                    "id": "119",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "124",
+                "name": "Pickpocket"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Obstagoon",
+            "id": "862",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "93",
+                "90",
+                "101",
+                "60",
+                "81",
+                "95"
+            ],
+            "abilities": [
+                {
+                    "id": "120",
+                    "name": "Reckless"
+                },
+                {
+                    "id": "62",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "128",
+                "name": "Defiant"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Perrserker",
+            "id": "863",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "70",
+                "110",
+                "100",
+                "50",
+                "60",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "4",
+                    "name": "Battle Armor"
+                },
+                {
+                    "id": "181",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "252",
+                "name": "Steely Spirit"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Cursola",
+            "id": "864",
+            "types": {
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "60",
+                "95",
+                "50",
+                "145",
+                "130",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "133",
+                    "name": "Weak Armor"
+                }
+            ],
+            "hidden_ability": {
+                "id": "253",
+                "name": "Perish Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Sirfetch'd",
+            "id": "865",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "62",
+                "135",
+                "95",
+                "68",
+                "82",
+                "65"
+            ],
+            "abilities": [
+                {
+                    "id": "80",
+                    "name": "Steadfast"
+                }
+            ],
+            "hidden_ability": {
+                "id": "113",
+                "name": "Scrappy"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Mr. Rime",
+            "id": "866",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                },
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                }
+            },
+            "base_stats": [
+                "80",
+                "85",
+                "75",
+                "110",
+                "100",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "77",
+                    "name": "Tangled Feet"
+                },
+                {
+                    "id": "251",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "115",
+                "name": "Ice Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Runerigus",
+            "id": "867",
+            "types": {
+                "5": {
+                    "id": "5",
+                    "name": "Ground"
+                },
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "58",
+                "95",
+                "145",
+                "50",
+                "105",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "254",
+                    "name": "Wandering Spirit"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Milcery",
+            "id": "868",
+            "types": {
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "45",
+                "40",
+                "40",
+                "50",
+                "61",
+                "34"
+            ],
+            "abilities": [
+                {
+                    "id": "175",
+                    "name": "Sweet Veil"
+                }
+            ],
+            "hidden_ability": {
+                "id": "165",
+                "name": "Aroma Veil"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Alcremie",
+            "id": "869-1",
+            "types": {
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "65",
+                "60",
+                "75",
+                "110",
+                "121",
+                "64"
+            ],
+            "abilities": [
+                {
+                    "id": "175",
+                    "name": "Sweet Veil"
+                }
+            ],
+            "hidden_ability": {
+                "id": "165",
+                "name": "Aroma Veil"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Alcremie",
+            "id": "869-2",
+            "types": {
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "65",
+                "60",
+                "75",
+                "110",
+                "121",
+                "64"
+            ],
+            "abilities": [
+                {
+                    "id": "175",
+                    "name": "Sweet Veil"
+                }
+            ],
+            "hidden_ability": {
+                "id": "165",
+                "name": "Aroma Veil"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Falinks",
+            "id": "870",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "65",
+                "100",
+                "100",
+                "70",
+                "60",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "4",
+                    "name": "Battle Armor"
+                }
+            ],
+            "hidden_ability": {
+                "id": "128",
+                "name": "Defiant"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Pincurchin",
+            "id": "871",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                }
+            },
+            "base_stats": [
+                "48",
+                "101",
+                "95",
+                "91",
+                "85",
+                "15"
+            ],
+            "abilities": [
+                {
+                    "id": "31",
+                    "name": "Lightning Rod"
+                }
+            ],
+            "hidden_ability": {
+                "id": "226",
+                "name": "Electric Surge"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Snom",
+            "id": "872",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                },
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                }
+            },
+            "base_stats": [
+                "30",
+                "25",
+                "35",
+                "45",
+                "30",
+                "20"
+            ],
+            "abilities": [
+                {
+                    "id": "19",
+                    "name": "Shield Dust"
+                }
+            ],
+            "hidden_ability": {
+                "id": "246",
+                "name": "Ice Scales"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Frosmoth",
+            "id": "873",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                },
+                "7": {
+                    "id": "7",
+                    "name": "Bug"
+                }
+            },
+            "base_stats": [
+                "70",
+                "65",
+                "60",
+                "125",
+                "90",
+                "65"
+            ],
+            "abilities": [
+                {
+                    "id": "19",
+                    "name": "Shield Dust"
+                }
+            ],
+            "hidden_ability": {
+                "id": "246",
+                "name": "Ice Scales"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Stonjourner",
+            "id": "874",
+            "types": {
+                "6": {
+                    "id": "6",
+                    "name": "Rock"
+                }
+            },
+            "base_stats": [
+                "100",
+                "125",
+                "135",
+                "20",
+                "20",
+                "70"
+            ],
+            "abilities": [
+                {
+                    "id": "249",
+                    "name": "Power Spot"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Eiscue noice",
+            "id": "875-1",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "75",
+                "80",
+                "70",
+                "65",
+                "50",
+                "130"
+            ],
+            "abilities": [
+                {
+                    "id": "248",
+                    "name": "Ice Face"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "noice"
+        },
+        {
+            "name": "Eiscue",
+            "id": "875-2",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "75",
+                "80",
+                "110",
+                "65",
+                "90",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "248",
+                    "name": "Ice Face"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "ice"
+        },
+        {
+            "name": "Indeedee female",
+            "id": "876-1",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "70",
+                "55",
+                "65",
+                "95",
+                "105",
+                "85"
+            ],
+            "abilities": [
+                {
+                    "id": "20",
+                    "name": "Own Tempo"
+                },
+                {
+                    "id": "28",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "227",
+                "name": "Psychic Surge"
+            },
+            "form_name": "female"
+        },
+        {
+            "name": "Indeedee",
+            "id": "876-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "1": {
+                    "id": "1",
+                    "name": "Normal"
+                }
+            },
+            "base_stats": [
+                "60",
+                "65",
+                "55",
+                "105",
+                "95",
+                "95"
+            ],
+            "abilities": [
+                {
+                    "id": "39",
+                    "name": "Inner Focus"
+                },
+                {
+                    "id": "28",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "227",
+                "name": "Psychic Surge"
+            },
+            "form_name": "male"
+        },
+        {
+            "name": "Morpeko",
+            "id": "877-1",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                }
+            },
+            "base_stats": [
+                "58",
+                "95",
+                "58",
+                "70",
+                "58",
+                "97"
+            ],
+            "abilities": [
+                {
+                    "id": "258",
+                    "name": "Hunger Switch"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "hangry"
+        },
+        {
+            "name": "Cufant",
+            "id": "878",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "72",
+                "80",
+                "49",
+                "40",
+                "49",
+                "40"
+            ],
+            "abilities": [
+                {
+                    "id": "125",
+                    "name": "Sheer Force"
+                }
+            ],
+            "hidden_ability": {
+                "id": "134",
+                "name": "Heavy Metal"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Copperajah",
+            "id": "879-1",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "122",
+                "130",
+                "69",
+                "80",
+                "69",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "125",
+                    "name": "Sheer Force"
+                }
+            ],
+            "hidden_ability": {
+                "id": "134",
+                "name": "Heavy Metal"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Copperajah",
+            "id": "879-2",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "122",
+                "130",
+                "69",
+                "80",
+                "69",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "125",
+                    "name": "Sheer Force"
+                }
+            ],
+            "hidden_ability": {
+                "id": "134",
+                "name": "Heavy Metal"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Dracozolt",
+            "id": "880",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "90",
+                "100",
+                "90",
+                "80",
+                "70",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "10",
+                    "name": "Volt Absorb"
+                },
+                {
+                    "id": "55",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "146",
+                "name": "Sand Rush"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Arctozolt",
+            "id": "881",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                },
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "90",
+                "100",
+                "90",
+                "90",
+                "80",
+                "55"
+            ],
+            "abilities": [
+                {
+                    "id": "10",
+                    "name": "Volt Absorb"
+                },
+                {
+                    "id": "9",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "202",
+                "name": "Slush Rush"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Dracovish",
+            "id": "882",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "90",
+                "90",
+                "100",
+                "70",
+                "80",
+                "75"
+            ],
+            "abilities": [
+                {
+                    "id": "11",
+                    "name": "Water Absorb"
+                },
+                {
+                    "id": "173",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "146",
+                "name": "Sand Rush"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Arctovish",
+            "id": "883",
+            "types": {
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                },
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "90",
+                "90",
+                "100",
+                "80",
+                "90",
+                "55"
+            ],
+            "abilities": [
+                {
+                    "id": "11",
+                    "name": "Water Absorb"
+                },
+                {
+                    "id": "115",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "202",
+                "name": "Slush Rush"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Duraludon",
+            "id": "884-1",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "70",
+                "95",
+                "115",
+                "120",
+                "50",
+                "85"
+            ],
+            "abilities": [
+                {
+                    "id": "135",
+                    "name": "Light Metal"
+                },
+                {
+                    "id": "134",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "242",
+                "name": "Stalwart"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "GMax Duraludon",
+            "id": "884-2",
+            "types": {
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "70",
+                "95",
+                "115",
+                "120",
+                "50",
+                "85"
+            ],
+            "abilities": [
+                {
+                    "id": "135",
+                    "name": "Light Metal"
+                },
+                {
+                    "id": "134",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "242",
+                "name": "Stalwart"
+            },
+            "form_name": "gmax"
+        },
+        {
+            "name": "Dreepy",
+            "id": "885",
+            "types": {
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                },
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "28",
+                "60",
+                "30",
+                "40",
+                "30",
+                "82"
+            ],
+            "abilities": [
+                {
+                    "id": "29",
+                    "name": "Clear Body"
+                },
+                {
+                    "id": "151",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "130",
+                "name": "Cursed Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Drakloak",
+            "id": "886",
+            "types": {
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                },
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "68",
+                "80",
+                "50",
+                "60",
+                "50",
+                "102"
+            ],
+            "abilities": [
+                {
+                    "id": "29",
+                    "name": "Clear Body"
+                },
+                {
+                    "id": "151",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "130",
+                "name": "Cursed Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Dragapult",
+            "id": "887",
+            "types": {
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                },
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "88",
+                "120",
+                "75",
+                "100",
+                "75",
+                "142"
+            ],
+            "abilities": [
+                {
+                    "id": "29",
+                    "name": "Clear Body"
+                },
+                {
+                    "id": "151",
+                    "name": ""
+                }
+            ],
+            "hidden_ability": {
+                "id": "130",
+                "name": "Cursed Body"
+            },
+            "form_name": ""
+        },
+        {
+            "name": "Zacian crowned",
+            "id": "888-1",
+            "types": {
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                },
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "92",
+                "170",
+                "115",
+                "80",
+                "115",
+                "148"
+            ],
+            "abilities": [
+                {
+                    "id": "234",
+                    "name": "Intrepid Sword"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "crowned"
+        },
+        {
+            "name": "Zacian",
+            "id": "888-2",
+            "types": {
+                "18": {
+                    "id": "18",
+                    "name": "Fairy"
+                }
+            },
+            "base_stats": [
+                "92",
+                "130",
+                "115",
+                "80",
+                "115",
+                "138"
+            ],
+            "abilities": [
+                {
+                    "id": "234",
+                    "name": "Intrepid Sword"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "hero"
+        },
+        {
+            "name": "Zamazenta crowned",
+            "id": "889-1",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                },
+                "9": {
+                    "id": "9",
+                    "name": "Steel"
+                }
+            },
+            "base_stats": [
+                "92",
+                "130",
+                "145",
+                "80",
+                "145",
+                "128"
+            ],
+            "abilities": [
+                {
+                    "id": "235",
+                    "name": "Dauntless Shield"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "crowned"
+        },
+        {
+            "name": "Zamazenta",
+            "id": "889-2",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "92",
+                "130",
+                "115",
+                "80",
+                "115",
+                "138"
+            ],
+            "abilities": [
+                {
+                    "id": "235",
+                    "name": "Dauntless Shield"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "hero"
+        },
+        {
+            "name": "Eternatus",
+            "id": "890-1",
+            "types": {
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "140",
+                "85",
+                "95",
+                "145",
+                "95",
+                "130"
+            ],
+            "abilities": [
+                {
+                    "id": "46",
+                    "name": "Pressure"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Eternatus eternamax",
+            "id": "890-2",
+            "types": {
+                "4": {
+                    "id": "4",
+                    "name": "Poison"
+                },
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "255",
+                "115",
+                "250",
+                "125",
+                "250",
+                "130"
+            ],
+            "abilities": [
+                {
+                    "id": "46",
+                    "name": "Pressure"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "eternamax"
+        },
+        {
+            "name": "Kubfu",
+            "id": "891",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                }
+            },
+            "base_stats": [
+                "60",
+                "90",
+                "60",
+                "53",
+                "50",
+                "72"
+            ],
+            "abilities": [
+                {
+                    "id": "39",
+                    "name": "Inner Focus"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Urshifu rapid-strike",
+            "id": "892-1",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                },
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "100",
+                "130",
+                "100",
+                "63",
+                "60",
+                "97"
+            ],
+            "abilities": [
+                {
+                    "id": "260",
+                    "name": "Unseen Fist"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "rapid-strike"
+        },
+        {
+            "name": "Urshifu",
+            "id": "892-2",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                },
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                }
+            },
+            "base_stats": [
+                "100",
+                "130",
+                "100",
+                "63",
+                "60",
+                "97"
+            ],
+            "abilities": [
+                {
+                    "id": "260",
+                    "name": "Unseen Fist"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "single-strike"
+        },
+        {
+            "name": "GMax Urshifu",
+            "id": "892-3",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                },
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                }
+            },
+            "base_stats": [
+                "100",
+                "130",
+                "100",
+                "63",
+                "60",
+                "97"
+            ],
+            "abilities": [
+                {
+                    "id": "260",
+                    "name": "Unseen Fist"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "gmax"
+        },
+        {
+            "name": "GMax Urshifu",
+            "id": "892-4",
+            "types": {
+                "2": {
+                    "id": "2",
+                    "name": "Fighting"
+                },
+                "11": {
+                    "id": "11",
+                    "name": "Water"
+                }
+            },
+            "base_stats": [
+                "100",
+                "130",
+                "100",
+                "63",
+                "60",
+                "97"
+            ],
+            "abilities": [
+                {
+                    "id": "260",
+                    "name": "Unseen Fist"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "gmax"
+        },
+        {
+            "name": "Zarude",
+            "id": "893-2",
+            "types": {
+                "17": {
+                    "id": "17",
+                    "name": "Dark"
+                },
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "105",
+                "120",
+                "105",
+                "70",
+                "95",
+                "105"
+            ],
+            "abilities": [
+                {
+                    "id": "102",
+                    "name": "Leaf Guard"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "dada"
+        },
+        {
+            "name": "Regieleki",
+            "id": "894",
+            "types": {
+                "13": {
+                    "id": "13",
+                    "name": "Electric"
+                }
+            },
+            "base_stats": [
+                "80",
+                "100",
+                "50",
+                "100",
+                "50",
+                "200"
+            ],
+            "abilities": [
+                {
+                    "id": "262",
+                    "name": "Transistor"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Regidrago",
+            "id": "895",
+            "types": {
+                "16": {
+                    "id": "16",
+                    "name": "Dragon"
+                }
+            },
+            "base_stats": [
+                "200",
+                "100",
+                "50",
+                "100",
+                "50",
+                "80"
+            ],
+            "abilities": [
+                {
+                    "id": "263",
+                    "name": "Dragon's Maw"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Glastrier",
+            "id": "896",
+            "types": {
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "100",
+                "145",
+                "130",
+                "65",
+                "110",
+                "30"
+            ],
+            "abilities": [
+                {
+                    "id": "264",
+                    "name": "Chilling Neigh"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Spectrier",
+            "id": "897",
+            "types": {
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "100",
+                "65",
+                "60",
+                "145",
+                "80",
+                "130"
+            ],
+            "abilities": [
+                {
+                    "id": "265",
+                    "name": "Grim Neigh"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Calyrex",
+            "id": "898-1",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "12": {
+                    "id": "12",
+                    "name": "Grass"
+                }
+            },
+            "base_stats": [
+                "100",
+                "80",
+                "80",
+                "80",
+                "80",
+                "80"
+            ],
+            "abilities": [
+                {
+                    "id": "127",
+                    "name": "Unnerve"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": ""
+        },
+        {
+            "name": "Calyrex ice-rider",
+            "id": "898-2",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "15": {
+                    "id": "15",
+                    "name": "Ice"
+                }
+            },
+            "base_stats": [
+                "100",
+                "165",
+                "150",
+                "85",
+                "130",
+                "50"
+            ],
+            "abilities": [
+                {
+                    "id": "266",
+                    "name": "As One"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "ice-rider"
+        },
+        {
+            "name": "Calyrex shadow-rider",
+            "id": "898-3",
+            "types": {
+                "14": {
+                    "id": "14",
+                    "name": "Psychic"
+                },
+                "8": {
+                    "id": "8",
+                    "name": "Ghost"
+                }
+            },
+            "base_stats": [
+                "100",
+                "85",
+                "80",
+                "165",
+                "100",
+                "150"
+            ],
+            "abilities": [
+                {
+                    "id": "267",
+                    "name": "As One"
+                }
+            ],
+            "hidden_ability": {},
+            "form_name": "shadow-rider"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Savage Spin-Out",
+    "id": "634",
+    "desc": "The user binds the target with full force withthreads of silk that the user spits using its Z-Power.The power varies, depending on the original move.",
+    "generation-introduced": "7",
+    "type": "Bug",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

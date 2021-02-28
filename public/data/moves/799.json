@@ -1,0 +1,14 @@
+{
+    "name": "Scale Shot",
+    "id": "799",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Dragon",
+    "power": "25",
+    "pp": "20",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

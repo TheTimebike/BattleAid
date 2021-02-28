@@ -1,0 +1,1 @@
+{"name": "Toxic Boost", "id": "137", "generation-introduced": "5", "short-desc": "Increases Attack to 1.5% when poisoned. ", "long-desc": "This Pokemon has 1.5% its Attack when poisoned. ", "pokemonWithAbility": [{"name": "Zangoose", "id": "335", "types": {"1": {"id": "1", "name": "Normal"}}, "ha": true}]}

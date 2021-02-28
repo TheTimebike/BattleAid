@@ -1,0 +1,14 @@
+{
+    "name": "Instruct",
+    "id": "689",
+    "desc": "The user instructs the target to use the target\u2019s lastmove again.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "403"
+}

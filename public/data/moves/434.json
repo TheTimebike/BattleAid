@@ -1,0 +1,14 @@
+{
+    "name": "Draco Meteor",
+    "id": "434",
+    "desc": "Comets are summoned down from the sky onto thetarget. The attack\u2019s recoil harshly lowers the user\u2019sSp. Atk stat.",
+    "generation-introduced": "4",
+    "type": "Dragon",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "205"
+}

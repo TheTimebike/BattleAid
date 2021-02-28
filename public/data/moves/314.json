@@ -1,0 +1,14 @@
+{
+    "name": "Air Cutter",
+    "id": "314",
+    "desc": "The user launches razor-like wind to slash theopposing Pok\u00e9mon. Critical hits land more easily.",
+    "generation-introduced": "3",
+    "type": "Flying",
+    "power": "60",
+    "pp": "25",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "44"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Magic Room",
+    "id": "478",
+    "desc": "The user creates a bizarre area in which Pok\u00e9mon\u2019sheld items lose their effects for five turns.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "287"
+}

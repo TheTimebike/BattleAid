@@ -1,0 +1,14 @@
+{
+    "name": "Defend Order",
+    "id": "455",
+    "desc": "The user calls out its underlings to shield its body,raising its Defense and Sp. Def stats.",
+    "generation-introduced": "4",
+    "type": "Bug",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "207"
+}

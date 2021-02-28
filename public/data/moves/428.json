@@ -1,0 +1,14 @@
+{
+    "name": "Zen Headbutt",
+    "id": "428",
+    "desc": "The user focuses its willpower to its head andattacks the target. This may also make thetarget flinch.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

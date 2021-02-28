@@ -1,0 +1,14 @@
+{
+    "name": "Guillotine",
+    "id": "12",
+    "desc": "A vicious, tearing attack with big pincers. The targetfaints instantly if this attack hits.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "30%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "39"
+}

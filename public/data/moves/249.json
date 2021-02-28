@@ -1,0 +1,14 @@
+{
+    "name": "Rock Smash",
+    "id": "249",
+    "desc": "The user attacks with a punch. This may also lowerthe target\u2019s Defense stat.",
+    "generation-introduced": "2",
+    "type": "Fighting",
+    "power": "40",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "70"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Forest\u2019s Curse",
+    "id": "571",
+    "desc": "The user puts a forest curse on the target.The target is now Grass type as well.",
+    "generation-introduced": "6",
+    "type": "Grass",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "376"
+}

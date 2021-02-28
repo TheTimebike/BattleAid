@@ -1,0 +1,14 @@
+{
+    "name": "Destiny Bond",
+    "id": "194",
+    "desc": "After using this move, if the user faints, thePok\u00e9mon that landed the knockout hit also faints.Its chance of failing rises if it is used in succession.",
+    "generation-introduced": "2",
+    "type": "Ghost",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "99"
+}

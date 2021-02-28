@@ -1,0 +1,14 @@
+{
+    "name": "Rapid Spin",
+    "id": "229",
+    "desc": "A spin attack that can also eliminate such moves asBind, Wrap, Leech Seed, and Spikes.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "50",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "130"
+}

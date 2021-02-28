@@ -1,0 +1,14 @@
+{
+    "name": "Hyper Fang",
+    "id": "158",
+    "desc": "The user bites hard on the target with its sharpfront fangs. This may also make the target flinch.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

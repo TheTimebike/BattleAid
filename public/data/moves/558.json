@@ -1,0 +1,14 @@
+{
+    "name": "Fusion Flare",
+    "id": "558",
+    "desc": "The user brings down a giant flame. This move\u2019spower is increased when influenced by an enormouslightning bolt.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "336"
+}

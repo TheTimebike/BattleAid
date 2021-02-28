@@ -1,0 +1,14 @@
+{
+    "name": "Smog",
+    "id": "123",
+    "desc": "The target is attacked with a discharge of filthygases. This may also poison the target.",
+    "generation-introduced": "1",
+    "type": "Poison",
+    "power": "30",
+    "pp": "20",
+    "accuracy": "70%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "3"
+}

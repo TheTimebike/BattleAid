@@ -1,0 +1,14 @@
+{
+    "name": "Low Kick",
+    "id": "67",
+    "desc": "A powerful low kick that makes the target fall over.The heavier the target, the greater themove\u2019s power.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "197"
+}

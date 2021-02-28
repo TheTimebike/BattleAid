@@ -1,0 +1,14 @@
+{
+    "name": "Thief",
+    "id": "168",
+    "desc": "The user attacks and steals the target\u2019s held itemsimultaneously. The user can\u2019t steal anything if italready holds an item.",
+    "generation-introduced": "2",
+    "type": "Dark",
+    "power": "60",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "106"
+}

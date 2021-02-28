@@ -1,0 +1,14 @@
+{
+    "name": "Acid",
+    "id": "51",
+    "desc": "The opposing Pok\u00e9mon are attacked with a spray ofharsh acid. This may also lower their Sp. Def stat.",
+    "generation-introduced": "1",
+    "type": "Poison",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "73"
+}

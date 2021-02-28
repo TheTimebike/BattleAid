@@ -1,0 +1,14 @@
+{
+    "name": "Electro Ball",
+    "id": "486",
+    "desc": "The user hurls an electric orb at the target. Thefaster the user is than the target, the greater themove\u2019s power.",
+    "generation-introduced": "5",
+    "type": "Electric",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "294"
+}

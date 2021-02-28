@@ -1,0 +1,14 @@
+{
+    "name": "Flower Shield",
+    "id": "579",
+    "desc": "The user raises the Defense stat of all Grass-typePok\u00e9mon in battle with a mysterious power.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "14",
+    "effect_id": "1",
+    "effect_chance": "351"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Nightmare",
+    "id": "171",
+    "desc": "A sleeping target sees a nightmare that inflicts somedamage every turn.",
+    "generation-introduced": "2",
+    "type": "Ghost",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "108"
+}

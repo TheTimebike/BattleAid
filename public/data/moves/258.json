@@ -1,0 +1,14 @@
+{
+    "name": "Hail",
+    "id": "258",
+    "desc": "The user summons a hailstorm lasting five turns.It damages all Pok\u00e9mon except the Ice type.",
+    "generation-introduced": "3",
+    "type": "Ice",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "165"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Pin Missile",
+    "id": "42",
+    "desc": "Sharp spikes are shot at the target in rapidsuccession. They hit two to five times in a row.",
+    "generation-introduced": "1",
+    "type": "Bug",
+    "power": "25",
+    "pp": "20",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

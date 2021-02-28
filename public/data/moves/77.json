@@ -1,0 +1,14 @@
+{
+    "name": "Poison Powder",
+    "id": "77",
+    "desc": "The user scatters a cloud of poisonous dust thatpoisons the target.",
+    "generation-introduced": "1",
+    "type": "Poison",
+    "power": "",
+    "pp": "35",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "67"
+}

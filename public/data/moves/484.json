@@ -1,0 +1,14 @@
+{
+    "name": "Heavy Slam",
+    "id": "484",
+    "desc": "The user slams into the target with its heavy body.The more the user outweighs the target, the greaterthe move\u2019s power.",
+    "generation-introduced": "5",
+    "type": "Steel",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "292"
+}

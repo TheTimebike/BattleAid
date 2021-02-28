@@ -1,0 +1,14 @@
+{
+    "name": "Blue Flare",
+    "id": "551",
+    "desc": "The user attacks by engulfing the target in anintense, yet beautiful, blue flame. This may also leavethe target with a burn.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "130",
+    "pp": "5",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "5"
+}

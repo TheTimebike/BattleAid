@@ -1,0 +1,14 @@
+{
+    "name": "Thunder Cage",
+    "id": "819",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Electric",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": ""
+}

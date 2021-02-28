@@ -1,0 +1,14 @@
+{
+    "name": "Power Trip",
+    "id": "681",
+    "desc": "The user boasts its strength and attacks the target.The more the user\u2019s stats are raised, the greater themove\u2019s power.",
+    "generation-introduced": "7",
+    "type": "Dark",
+    "power": "20",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "306"
+}

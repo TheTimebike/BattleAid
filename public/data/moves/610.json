@@ -1,0 +1,14 @@
+{
+    "name": "Hold Back",
+    "id": "610",
+    "desc": "The user holds back when it attacks, and the targetis left with at least 1 HP.",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "40",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "102"
+}

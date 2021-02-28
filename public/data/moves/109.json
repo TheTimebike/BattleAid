@@ -1,0 +1,14 @@
+{
+    "name": "Confuse Ray",
+    "id": "109",
+    "desc": "The target is exposed to a sinister ray thattriggers confusion.",
+    "generation-introduced": "1",
+    "type": "Ghost",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "50"
+}

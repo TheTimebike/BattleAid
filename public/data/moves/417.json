@@ -1,0 +1,14 @@
+{
+    "name": "Nasty Plot",
+    "id": "417",
+    "desc": "The user stimulates its brain by thinking badthoughts. This sharply raises the user\u2019s Sp. Atk stat.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "54"
+}

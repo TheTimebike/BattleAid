@@ -1,0 +1,14 @@
+{
+    "name": "Menacing Moonraze Maelstrom",
+    "id": "725",
+    "desc": "After obtaining Z-Power, the user, Lunala,attacks the target with full force. This move canignore the effect of the target\u2019s Ability.",
+    "generation-introduced": "7",
+    "type": "Ghost",
+    "power": "200",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "411"
+}

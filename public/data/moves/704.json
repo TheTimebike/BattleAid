@@ -1,0 +1,14 @@
+{
+    "name": "Shell Trap",
+    "id": "704",
+    "desc": "The user sets a shell trap. If the user is hit by aphysical move, the trap will explode and inflictdamage on the opposing Pok\u00e9mon.",
+    "generation-introduced": "7",
+    "type": "Fire",
+    "power": "150",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "-3",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "408"
+}

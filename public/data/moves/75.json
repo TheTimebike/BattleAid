@@ -1,0 +1,14 @@
+{
+    "name": "Razor Leaf",
+    "id": "75",
+    "desc": "Sharp-edged leaves are launched to slash at theopposing Pok\u00e9mon. Critical hits land more easily.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "55",
+    "pp": "25",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Burning Jealousy",
+    "id": "807",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Fire",
+    "power": "70",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": ""
+}

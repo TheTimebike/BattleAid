@@ -1,0 +1,14 @@
+{
+    "name": "Pursuit",
+    "id": "228",
+    "desc": "The power of this attack move is doubled if it\u2019s usedon a target that\u2019s switching out of battle.",
+    "generation-introduced": "2",
+    "type": "Dark",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "129"
+}

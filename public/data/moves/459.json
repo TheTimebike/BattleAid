@@ -1,0 +1,14 @@
+{
+    "name": "Roar of Time",
+    "id": "459",
+    "desc": "The user blasts the target with power that distortseven time. The user can\u2019t move on the next turn.",
+    "generation-introduced": "4",
+    "type": "Dragon",
+    "power": "150",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "81"
+}

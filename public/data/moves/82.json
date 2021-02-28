@@ -1,0 +1,14 @@
+{
+    "name": "Dragon Rage",
+    "id": "82",
+    "desc": "This attack hits the target with a shock wave ofpure rage. This attack always inflicts 40 HP damage.",
+    "generation-introduced": "1",
+    "type": "Dragon",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "42"
+}

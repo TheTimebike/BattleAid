@@ -1,0 +1,14 @@
+{
+    "name": "Kinesis",
+    "id": "134",
+    "desc": "The user distracts the target by bending a spoon.This lowers the target\u2019s accuracy.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "15",
+    "accuracy": "80%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "24"
+}

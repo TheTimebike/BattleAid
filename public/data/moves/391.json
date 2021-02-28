@@ -1,0 +1,14 @@
+{
+    "name": "Heart Swap",
+    "id": "391",
+    "desc": "The user employs its psychic power to switch statchanges with the target.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "251"
+}

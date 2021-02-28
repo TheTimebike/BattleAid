@@ -1,0 +1,14 @@
+{
+    "name": "Dragon Hammer",
+    "id": "692",
+    "desc": "The user uses its body like a hammer to attack thetarget and inflict damage.",
+    "generation-introduced": "7",
+    "type": "Dragon",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

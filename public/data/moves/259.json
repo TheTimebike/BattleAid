@@ -1,0 +1,14 @@
+{
+    "name": "Torment",
+    "id": "259",
+    "desc": "The user torments and enrages the target, making itincapable of using the same move twice in a row.",
+    "generation-introduced": "3",
+    "type": "Dark",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "166"
+}

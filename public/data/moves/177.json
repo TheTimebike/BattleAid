@@ -1,0 +1,14 @@
+{
+    "name": "Aeroblast",
+    "id": "177",
+    "desc": "A vortex of air is shot at the target to inflict damage.Critical hits land more easily.",
+    "generation-introduced": "2",
+    "type": "Flying",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "44"
+}

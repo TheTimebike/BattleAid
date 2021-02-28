@@ -1,0 +1,14 @@
+{
+    "name": "Sandstorm",
+    "id": "201",
+    "desc": "A five-turn sandstorm is summoned to hurt allcombatants except the Rock, Ground, andSteel types. It raises the Sp. Def stat of Rock types.",
+    "generation-introduced": "2",
+    "type": "Rock",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "1",
+    "effect_chance": "116"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Parabolic Charge",
+    "id": "570",
+    "desc": "The user attacks everything around it. The user\u2019s HPis restored by half the damage taken by those hit.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "346"
+}

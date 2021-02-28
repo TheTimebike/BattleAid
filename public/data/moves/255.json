@@ -1,0 +1,14 @@
+{
+    "name": "Spit Up",
+    "id": "255",
+    "desc": "The power stored using the move Stockpile isreleased at once in an attack. The more poweris stored, the greater the move\u2019s power.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "162"
+}

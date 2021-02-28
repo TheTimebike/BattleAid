@@ -1,0 +1,14 @@
+{
+    "name": "Breaking Swipe",
+    "id": "784",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Dragon",
+    "power": "60",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": ""
+}

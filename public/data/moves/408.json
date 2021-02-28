@@ -1,0 +1,14 @@
+{
+    "name": "Power Gem",
+    "id": "408",
+    "desc": "The user attacks with a ray of light that sparkles asif it were made of gemstones.",
+    "generation-introduced": "4",
+    "type": "Rock",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

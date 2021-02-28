@@ -1,0 +1,14 @@
+{
+    "name": "Celebrate",
+    "id": "606",
+    "desc": "The Pok\u00e9mon congratulates you on your special day!",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "370"
+}

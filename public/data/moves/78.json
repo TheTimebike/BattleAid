@@ -1,0 +1,14 @@
+{
+    "name": "Stun Spore",
+    "id": "78",
+    "desc": "The user scatters a cloud of numbing powder thatparalyzes the target.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "",
+    "pp": "30",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "68"
+}

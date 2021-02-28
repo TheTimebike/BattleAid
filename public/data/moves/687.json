@@ -1,0 +1,14 @@
+{
+    "name": "Core Enforcer",
+    "id": "687",
+    "desc": "If the Pok\u00e9mon the user has inflicted damage onhave already used their moves, this move eliminatesthe effect of the target\u2019s Ability.",
+    "generation-introduced": "7",
+    "type": "Dragon",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "402"
+}

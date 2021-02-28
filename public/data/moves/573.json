@@ -1,0 +1,14 @@
+{
+    "name": "Freeze-Dry",
+    "id": "573",
+    "desc": "The user rapidly cools the target. This may alsoleave the target frozen. This move is super effectiveon Water types.",
+    "generation-introduced": "6",
+    "type": "Ice",
+    "power": "70",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "380"
+}

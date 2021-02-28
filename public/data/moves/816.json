@@ -1,0 +1,14 @@
+{
+    "name": "Jungle Healing",
+    "id": "816",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Grass",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "13",
+    "effect_id": "1",
+    "effect_chance": ""
+}

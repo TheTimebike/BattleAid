@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Down",
+    "id": "10012",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "",
+    "pp": "",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "6",
+    "effect_id": "1",
+    "effect_chance": "60"
+}

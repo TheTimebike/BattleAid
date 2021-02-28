@@ -1,0 +1,14 @@
+{
+    "name": "Mud Shot",
+    "id": "341",
+    "desc": "The user attacks by hurling a blob of mud at thetarget. This also lowers the target\u2019s Speed stat.",
+    "generation-introduced": "3",
+    "type": "Ground",
+    "power": "55",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "71"
+}

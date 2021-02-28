@@ -1,0 +1,14 @@
+{
+    "name": "V-create",
+    "id": "557",
+    "desc": "With a hot flame on its forehead, the user hurls itselfat its target. This lowers the user\u2019s Defense, Sp. Def,and Speed stats.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "180",
+    "pp": "5",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "335"
+}

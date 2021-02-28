@@ -1,0 +1,14 @@
+{
+    "name": "Nuzzle",
+    "id": "609",
+    "desc": "The user attacks by nuzzling its electrified cheeksagainst the target. This also leaves the targetwith paralysis.",
+    "generation-introduced": "6",
+    "type": "Electric",
+    "power": "20",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "372"
+}

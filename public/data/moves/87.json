@@ -1,0 +1,14 @@
+{
+    "name": "Thunder",
+    "id": "87",
+    "desc": "A wicked thunderbolt is dropped on the target toinflict damage. This may also leave the targetwith paralysis.",
+    "generation-introduced": "1",
+    "type": "Electric",
+    "power": "110",
+    "pp": "10",
+    "accuracy": "70%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "153"
+}

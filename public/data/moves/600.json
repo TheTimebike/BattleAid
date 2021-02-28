@@ -1,0 +1,14 @@
+{
+    "name": "Powder",
+    "id": "600",
+    "desc": "The user covers the target in a combustible powder.If the target uses a Fire-type move, the powderexplodes and damages the target.",
+    "generation-introduced": "6",
+    "type": "Bug",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "378"
+}

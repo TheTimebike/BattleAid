@@ -1,0 +1,14 @@
+{
+    "name": "Charm",
+    "id": "204",
+    "desc": "The user gazes at the target rather charmingly,making it less wary. This harshly lowers itsAttack stat.",
+    "generation-introduced": "2",
+    "type": "Fairy",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "59"
+}

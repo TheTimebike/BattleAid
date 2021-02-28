@@ -1,0 +1,14 @@
+{
+    "name": "Worry Seed",
+    "id": "388",
+    "desc": "A seed that causes worry is planted on the target.It prevents sleep by making the target\u2019sAbility Insomnia.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "248"
+}

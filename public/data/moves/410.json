@@ -1,0 +1,14 @@
+{
+    "name": "Vacuum Wave",
+    "id": "410",
+    "desc": "The user whirls its fists to send a wave of purevacuum at the target. This move always goes first.",
+    "generation-introduced": "4",
+    "type": "Fighting",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "104"
+}

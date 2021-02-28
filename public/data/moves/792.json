@@ -1,0 +1,14 @@
+{
+    "name": "Obstruct",
+    "id": "792",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Dark",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "+4",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": ""
+}

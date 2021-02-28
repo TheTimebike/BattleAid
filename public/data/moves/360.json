@@ -1,0 +1,14 @@
+{
+    "name": "Gyro Ball",
+    "id": "360",
+    "desc": "The user tackles the target with a high-speed spin.The slower the user compared to the target, thegreater the move\u2019s power.",
+    "generation-introduced": "4",
+    "type": "Steel",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "220"
+}

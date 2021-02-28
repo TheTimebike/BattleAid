@@ -1,0 +1,14 @@
+{
+    "name": "Oceanic Operetta",
+    "id": "697",
+    "desc": "The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force.",
+    "generation-introduced": "7",
+    "type": "Water",
+    "power": "195",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

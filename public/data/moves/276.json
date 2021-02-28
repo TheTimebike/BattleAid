@@ -1,0 +1,14 @@
+{
+    "name": "Superpower",
+    "id": "276",
+    "desc": "The user attacks the target with great power.However, this also lowers the user\u2019s Attack andDefense stats.",
+    "generation-introduced": "3",
+    "type": "Fighting",
+    "power": "120",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "183"
+}

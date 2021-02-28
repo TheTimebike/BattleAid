@@ -1,0 +1,14 @@
+{
+    "name": "Aura Sphere",
+    "id": "396",
+    "desc": "The user lets loose a blast of aura power from deepwithin its body at the target. This attacknever misses.",
+    "generation-introduced": "4",
+    "type": "Fighting",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "18"
+}

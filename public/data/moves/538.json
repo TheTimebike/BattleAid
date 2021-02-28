@@ -1,0 +1,14 @@
+{
+    "name": "Cotton Guard",
+    "id": "538",
+    "desc": "The user protects itself by wrapping its body in softcotton, which drastically raises the user\u2019sDefense stat.",
+    "generation-introduced": "5",
+    "type": "Grass",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "329"
+}

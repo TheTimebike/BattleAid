@@ -1,0 +1,14 @@
+{
+    "name": "Dream Eater",
+    "id": "138",
+    "desc": "The user eats the dreams of a sleeping target. Itabsorbs half the damage caused to heal its own HP.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "100",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "9"
+}

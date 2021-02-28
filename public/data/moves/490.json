@@ -1,0 +1,14 @@
+{
+    "name": "Low Sweep",
+    "id": "490",
+    "desc": "The user makes a swift attack on the target\u2019s legs,which lowers the target\u2019s Speed stat.",
+    "generation-introduced": "5",
+    "type": "Fighting",
+    "power": "65",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "21"
+}

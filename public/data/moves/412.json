@@ -1,0 +1,14 @@
+{
+    "name": "Energy Ball",
+    "id": "412",
+    "desc": "The user draws power from nature and fires it at thetarget. This may also lower the target\u2019s Sp. Def stat.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "73"
+}

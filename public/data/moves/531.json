@@ -1,0 +1,14 @@
+{
+    "name": "Heart Stamp",
+    "id": "531",
+    "desc": "The user unleashes a vicious blow after its cute actmakes the target less wary. This may also make thetarget flinch.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "60",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "32"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Genesis Supernova",
+    "id": "703",
+    "desc": "After obtaining Z-Power, the user, Mew, attacksthe target with full force. The terrain will be chargedwith psychic energy.",
+    "generation-introduced": "7",
+    "type": "Psychic",
+    "power": "185",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "415"
+}

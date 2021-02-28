@@ -1,0 +1,14 @@
+{
+    "name": "Sky Attack",
+    "id": "143",
+    "desc": "A second-turn attack move where critical hits landmore easily. This may also make the target flinch.",
+    "generation-introduced": "1",
+    "type": "Flying",
+    "power": "140",
+    "pp": "5",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "76"
+}

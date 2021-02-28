@@ -1,0 +1,14 @@
+{
+    "name": "Embargo",
+    "id": "373",
+    "desc": "This move prevents the target from using its helditem for five turns. Its Trainer is also prevented fromusing items on it.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "233"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Barrier",
+    "id": "112",
+    "desc": "The user throws up a sturdy wall that sharply raisesits Defense stat.",
+    "generation-introduced": "1",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "52"
+}

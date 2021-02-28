@@ -1,0 +1,14 @@
+{
+    "name": "Leer",
+    "id": "43",
+    "desc": "The user gives opposing Pok\u00e9mon an intimidatingleer that lowers the Defense stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "1",
+    "effect_chance": "20"
+}

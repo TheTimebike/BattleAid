@@ -1,0 +1,14 @@
+{
+    "name": "Strength Sap",
+    "id": "668",
+    "desc": "The user restores its HP by the same amount as thetarget\u2019s Attack stat. It also lowers the target\u2019sAttack stat.",
+    "generation-introduced": "7",
+    "type": "Grass",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "388"
+}

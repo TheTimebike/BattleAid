@@ -1,0 +1,14 @@
+{
+    "name": "Sonic Boom",
+    "id": "49",
+    "desc": "The target is hit with a destructive shock wave thatalways inflicts 20 HP damage.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "131"
+}

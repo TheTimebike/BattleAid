@@ -1,0 +1,14 @@
+{
+    "name": "Swagger",
+    "id": "207",
+    "desc": "The user enrages and confuses the target. However,this also sharply raises the target\u2019s Attack stat.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "119"
+}

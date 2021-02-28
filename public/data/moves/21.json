@@ -1,0 +1,14 @@
+{
+    "name": "Slam",
+    "id": "21",
+    "desc": "The target is slammed with a long tail, vines, or thelike to inflict damage.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "80",
+    "pp": "20",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ice Ball",
+    "id": "301",
+    "desc": "The user attacks the target for five turns.The move\u2019s power increases each time it hits.",
+    "generation-introduced": "3",
+    "type": "Ice",
+    "power": "30",
+    "pp": "20",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "118"
+}

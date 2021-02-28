@@ -1,0 +1,14 @@
+{
+    "name": "Max Quake",
+    "id": "771",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Ground",
+    "power": "",
+    "pp": "",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "2",
+    "effect_id": "",
+    "effect_chance": ""
+}

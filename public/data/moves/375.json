@@ -1,0 +1,14 @@
+{
+    "name": "Psycho Shift",
+    "id": "375",
+    "desc": "Using its psychic power of suggestion, the usertransfers its status conditions to the target.",
+    "generation-introduced": "4",
+    "type": "Psychic",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "235"
+}

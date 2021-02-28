@@ -1,0 +1,14 @@
+{
+    "name": "Dazzling Gleam",
+    "id": "605",
+    "desc": "The user damages opposing Pok\u00e9mon by emitting apowerful flash.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

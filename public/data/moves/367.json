@@ -1,0 +1,14 @@
+{
+    "name": "Acupressure",
+    "id": "367",
+    "desc": "The user applies pressure to stress points, sharplyboosting one of its or its allies\u2019 stats.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "30",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "5",
+    "effect_id": "1",
+    "effect_chance": "227"
+}

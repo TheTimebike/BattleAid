@@ -1,0 +1,14 @@
+{
+    "name": "Switcheroo",
+    "id": "415",
+    "desc": "The user trades held items with the target fasterthan the eye can follow.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "178"
+}

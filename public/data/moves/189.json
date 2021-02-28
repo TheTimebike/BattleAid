@@ -1,0 +1,14 @@
+{
+    "name": "Mud-Slap",
+    "id": "189",
+    "desc": "The user hurls mud in the target\u2019s face to inflictdamage and lower its accuracy.",
+    "generation-introduced": "2",
+    "type": "Ground",
+    "power": "20",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "74"
+}

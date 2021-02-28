@@ -1,0 +1,14 @@
+{
+    "name": "Sludge Bomb",
+    "id": "188",
+    "desc": "Unsanitary sludge is hurled at the target. This mayalso poison the target.",
+    "generation-introduced": "2",
+    "type": "Poison",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "3"
+}

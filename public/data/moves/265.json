@@ -1,0 +1,14 @@
+{
+    "name": "Smelling Salts",
+    "id": "265",
+    "desc": "This attack\u2019s power is doubled when used on atarget with paralysis. This also cures the target\u2019sparalysis, however.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "70",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "172"
+}

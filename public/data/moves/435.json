@@ -1,0 +1,14 @@
+{
+    "name": "Discharge",
+    "id": "435",
+    "desc": "The user strikes everything around it by letting loosea flare of electricity. This may also cause paralysis.",
+    "generation-introduced": "4",
+    "type": "Electric",
+    "power": "80",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "7"
+}

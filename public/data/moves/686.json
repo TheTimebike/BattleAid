@@ -1,0 +1,14 @@
+{
+    "name": "Revelation Dance",
+    "id": "686",
+    "desc": "The user attacks the target by dancing very hard.The user\u2019s type determines the type of this move.",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "401"
+}

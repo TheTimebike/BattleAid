@@ -1,0 +1,14 @@
+{
+    "name": "Soak",
+    "id": "487",
+    "desc": "The user shoots a torrent of water at the target andchanges the target\u2019s type to Water.",
+    "generation-introduced": "5",
+    "type": "Water",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "295"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Taunt",
+    "id": "269",
+    "desc": "The target is taunted into a rage that allows it to useonly attack moves for three turns.",
+    "generation-introduced": "3",
+    "type": "Dark",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "176"
+}

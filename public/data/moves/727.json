@@ -1,0 +1,14 @@
+{
+    "name": "Splintered Stormshards",
+    "id": "727",
+    "desc": "After obtaining Z-Power, the user, Lycanroc,attacks the target with full force. This move negatesthe effect on the battlefield.",
+    "generation-introduced": "7",
+    "type": "Rock",
+    "power": "190",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "418"
+}

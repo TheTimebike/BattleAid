@@ -1,0 +1,14 @@
+{
+    "name": "Air Slash",
+    "id": "403",
+    "desc": "The user attacks with a blade of air that slices eventhe sky. This may also make the target flinch.",
+    "generation-introduced": "4",
+    "type": "Flying",
+    "power": "75",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "32"
+}

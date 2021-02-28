@@ -1,0 +1,14 @@
+{
+    "name": "Lick",
+    "id": "122",
+    "desc": "The target is licked with a long tongue, causingdamage. This may also leave the targetwith paralysis.",
+    "generation-introduced": "1",
+    "type": "Ghost",
+    "power": "30",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "7"
+}

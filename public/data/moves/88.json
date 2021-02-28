@@ -1,0 +1,14 @@
+{
+    "name": "Rock Throw",
+    "id": "88",
+    "desc": "The user picks up and throws a small rock at thetarget to attack.",
+    "generation-introduced": "1",
+    "type": "Rock",
+    "power": "50",
+    "pp": "15",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

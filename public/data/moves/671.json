@@ -1,0 +1,14 @@
+{
+    "name": "Spotlight",
+    "id": "671",
+    "desc": "The user shines a spotlight on the target so thatonly the target will be attacked during the turn.",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "--%",
+    "priority": "3",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "389"
+}

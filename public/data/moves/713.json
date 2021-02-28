@@ -1,0 +1,14 @@
+{
+    "name": "Sunsteel Strike",
+    "id": "713",
+    "desc": "The user slams into the target with the force of ameteor. This move can be used on the target regardless of its Abilities.",
+    "generation-introduced": "7",
+    "type": "Steel",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "411"
+}

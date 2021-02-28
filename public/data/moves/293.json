@@ -1,0 +1,14 @@
+{
+    "name": "Camouflage",
+    "id": "293",
+    "desc": "The user\u2019s type is changed depending on itsenvironment, such as at water\u2019s edge, in grass, or ina cave.",
+    "generation-introduced": "3",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "214"
+}

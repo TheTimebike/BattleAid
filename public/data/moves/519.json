@@ -1,0 +1,14 @@
+{
+    "name": "Fire Pledge",
+    "id": "519",
+    "desc": "A column of fire hits the target. When used with itsgrass equivalent, its power increases and a vast seaof fire appears.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "80",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "326"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Twister",
+    "id": "239",
+    "desc": "The user whips up a vicious tornado to tear at theopposing Pok\u00e9mon. This may also make them flinch.",
+    "generation-introduced": "2",
+    "type": "Dragon",
+    "power": "40",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "147"
+}

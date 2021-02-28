@@ -1,0 +1,14 @@
+{
+    "name": "Signal Beam",
+    "id": "324",
+    "desc": "The user attacks with a sinister beam of light.This may also confuse the target.",
+    "generation-introduced": "3",
+    "type": "Bug",
+    "power": "75",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "77"
+}

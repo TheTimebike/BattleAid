@@ -1,0 +1,14 @@
+{
+    "name": "Let\u2019s Snuggle Forever",
+    "id": "726",
+    "desc": "After obtaining Z-Power, the user, Mimikyu,punches the target with full force.",
+    "generation-introduced": "7",
+    "type": "Fairy",
+    "power": "190",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

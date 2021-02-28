@@ -1,0 +1,14 @@
+{
+    "name": "Dual Wingbeat",
+    "id": "814",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Flying",
+    "power": "40",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": ""
+}

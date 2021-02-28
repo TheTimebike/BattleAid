@@ -1,0 +1,14 @@
+{
+    "name": "Crabhammer",
+    "id": "152",
+    "desc": "The target is hammered with a large pincer. Criticalhits land more easily.",
+    "generation-introduced": "1",
+    "type": "Water",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "90%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "44"
+}

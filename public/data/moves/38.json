@@ -1,0 +1,14 @@
+{
+    "name": "Double-Edge",
+    "id": "38",
+    "desc": "A reckless, life-risking tackle. This also damages theuser quite a lot.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "120",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "199"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Gust",
+    "id": "16",
+    "desc": "A gust of wind is whipped up by wings and launchedat the target to inflict damage.",
+    "generation-introduced": "1",
+    "type": "Flying",
+    "power": "40",
+    "pp": "35",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "150"
+}

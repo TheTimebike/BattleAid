@@ -1,0 +1,14 @@
+{
+    "name": "Muddy Water",
+    "id": "330",
+    "desc": "The user attacks by shooting muddy water at theopposing Pok\u00e9mon. This may also lowertheir accuracy.",
+    "generation-introduced": "3",
+    "type": "Water",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "85%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "74"
+}

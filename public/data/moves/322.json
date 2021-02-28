@@ -1,0 +1,14 @@
+{
+    "name": "Cosmic Power",
+    "id": "322",
+    "desc": "The user absorbs a mystical power from space toraise its Defense and Sp. Def stats.",
+    "generation-introduced": "3",
+    "type": "Psychic",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "207"
+}

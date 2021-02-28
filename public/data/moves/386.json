@@ -1,0 +1,14 @@
+{
+    "name": "Punishment",
+    "id": "386",
+    "desc": "The more the target has powered up with statchanges, the greater the move\u2019s power.",
+    "generation-introduced": "4",
+    "type": "Dark",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "246"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Egg Bomb",
+    "id": "121",
+    "desc": "A large egg is hurled at the target with maximumforce to inflict damage.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "75%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

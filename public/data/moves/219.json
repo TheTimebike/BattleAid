@@ -1,0 +1,14 @@
+{
+    "name": "Safeguard",
+    "id": "219",
+    "desc": "The user creates a protective field that preventsstatus conditions for five turns.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "",
+    "pp": "25",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "125"
+}

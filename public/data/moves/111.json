@@ -1,0 +1,14 @@
+{
+    "name": "Defense Curl",
+    "id": "111",
+    "desc": "The user curls up to conceal weak spots and raiseits Defense stat.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "40",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "157"
+}

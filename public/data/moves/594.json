@@ -1,0 +1,14 @@
+{
+    "name": "Water Shuriken",
+    "id": "594",
+    "desc": "The user hits the target with throwing stars two tofive times in a row. This move always goes first.",
+    "generation-introduced": "6",
+    "type": "Water",
+    "power": "15",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "361"
+}

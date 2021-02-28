@@ -1,0 +1,14 @@
+{
+    "name": "Toxic Thread",
+    "id": "672",
+    "desc": "The user shoots poisonous threads to poison thetarget and lower the target\u2019s Speed stat.",
+    "generation-introduced": "7",
+    "type": "Poison",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "390"
+}

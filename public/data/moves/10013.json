@@ -1,0 +1,14 @@
+{
+    "name": "Shadow Half",
+    "id": "10013",
+    "desc": "",
+    "generation-introduced": "3",
+    "type": "Shadow",
+    "power": "",
+    "pp": "",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "12",
+    "effect_id": "3",
+    "effect_chance": "10003"
+}

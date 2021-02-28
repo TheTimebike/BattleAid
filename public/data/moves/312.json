@@ -1,0 +1,14 @@
+{
+    "name": "Aromatherapy",
+    "id": "312",
+    "desc": "The user releases a soothing scent that heals allstatus conditions affecting the user\u2019s party.",
+    "generation-introduced": "3",
+    "type": "Grass",
+    "power": "",
+    "pp": "5",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "13",
+    "effect_id": "1",
+    "effect_chance": "103"
+}

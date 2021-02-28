@@ -1,0 +1,14 @@
+{
+    "name": "Wring Out",
+    "id": "378",
+    "desc": "The user powerfully wrings the target. The more HPthe target has, the greater the move\u2019s power.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "238"
+}

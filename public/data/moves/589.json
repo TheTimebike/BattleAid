@@ -1,0 +1,14 @@
+{
+    "name": "Play Nice",
+    "id": "589",
+    "desc": "The user and the target become friends, and thetarget loses its will to fight. This lowers the target\u2019sAttack stat.",
+    "generation-introduced": "6",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "357"
+}

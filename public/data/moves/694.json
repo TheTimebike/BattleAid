@@ -1,0 +1,14 @@
+{
+    "name": "Aurora Veil",
+    "id": "694",
+    "desc": "This move reduces damage from physical andspecial moves for five turns. This can be used onlyin a hailstorm.",
+    "generation-introduced": "7",
+    "type": "Ice",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "4",
+    "effect_id": "1",
+    "effect_chance": "407"
+}

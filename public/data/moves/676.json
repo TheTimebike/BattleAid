@@ -1,0 +1,14 @@
+{
+    "name": "Pollen Puff",
+    "id": "676",
+    "desc": "The user attacks the enemy with a pollen puff thatexplodes. If the target is an ally, it gives the ally apollen puff that restores its HP instead.",
+    "generation-introduced": "7",
+    "type": "Bug",
+    "power": "90",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "394"
+}

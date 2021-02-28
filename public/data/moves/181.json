@@ -1,0 +1,14 @@
+{
+    "name": "Powder Snow",
+    "id": "181",
+    "desc": "The user attacks with a chilling gust of powderysnow. This may also freeze the opposing Pok\u00e9mon.",
+    "generation-introduced": "2",
+    "type": "Ice",
+    "power": "40",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "3",
+    "effect_chance": "6"
+}

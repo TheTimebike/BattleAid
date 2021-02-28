@@ -1,0 +1,14 @@
+{
+    "name": "Poison Tail",
+    "id": "342",
+    "desc": "The user hits the target with its tail. This may alsopoison the target. Critical hits land more easily.",
+    "generation-introduced": "3",
+    "type": "Poison",
+    "power": "50",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "210"
+}

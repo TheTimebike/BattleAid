@@ -1,0 +1,14 @@
+{
+    "name": "Geomancy",
+    "id": "601",
+    "desc": "The user absorbs energy and sharply raises itsSp. Atk, Sp. Def, and Speed stats on the next turn.",
+    "generation-introduced": "6",
+    "type": "Fairy",
+    "power": "",
+    "pp": "10",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "366"
+}

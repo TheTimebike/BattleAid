@@ -1,0 +1,14 @@
+{
+    "name": "False Swipe",
+    "id": "206",
+    "desc": "A restrained attack that prevents the target fromfainting. The target is left with at least 1 HP.",
+    "generation-introduced": "2",
+    "type": "Normal",
+    "power": "40",
+    "pp": "40",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "102"
+}

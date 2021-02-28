@@ -1,0 +1,14 @@
+{
+    "name": "Thunder Fang",
+    "id": "422",
+    "desc": "The user bites with electrified fangs. This may alsomake the target flinch or leave it with paralysis.",
+    "generation-introduced": "4",
+    "type": "Electric",
+    "power": "65",
+    "pp": "15",
+    "accuracy": "95%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "276"
+}

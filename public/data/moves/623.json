@@ -1,0 +1,14 @@
+{
+    "name": "Breakneck Blitz",
+    "id": "623",
+    "desc": "Dummy Data",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "1"
+}

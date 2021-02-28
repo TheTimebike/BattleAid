@@ -1,0 +1,608 @@
+* {
+    box-sizing: border-box;
+  }
+  
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #ede6e6;
+}
+
+tr:nth-child(odd) {
+    background-color: #dad7d7;
+}
+
+
+.ui-autocomplete { position: absolute; cursor: default; background:#CCC }   
+
+/* workarounds */
+html .ui-autocomplete { width:1px; } /* without this, the menu expands to 100% in IE6 */
+.ui-menu {
+    list-style:none;
+    padding: 2px;
+    margin: 0;
+    display:block;
+    float: left;
+}
+.ui-menu .ui-menu {
+    margin-top: -3px;
+}
+.ui-menu .ui-menu-item {
+    margin:0;
+    padding: 0;
+    zoom: 1;
+    float: left;
+    clear: left;
+    width: 100%;
+}
+.ui-menu .ui-menu-item a {
+    text-decoration:none;
+    display:block;
+    padding:.2em .4em;
+    line-height:1.5;
+    zoom:1;
+}
+.ui-menu .ui-menu-item a.ui-state-hover,
+.ui-menu .ui-menu-item a.ui-state-active {
+    font-weight: normal;
+    margin: -1px;
+}
+
+.ui-helper-hidden-accessible {
+    display: none;
+}
+
+th {
+    background-color: #145DA0;
+    color: white;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+.navbar {
+    overflow:hidden;
+    background-color: #2E8BC0;
+    position: sticky;
+    top: 0;
+    border-radius: 6px;
+    z-index: 10;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+  
+.navbar a:hover:not(.active) {
+    background-color: #145DA0;
+    transition: background-color 0.5s;
+}
+  
+.navbar a:not(:hover) {
+    background-color: #2E8BC0;
+    transition: background-color 0.5s;
+}
+
+.navbar a.active {
+    color:white;
+    background-color: #0C2D48;
+}
+
+@media screen and (max-width: 850px) {
+    .navbar a {
+        float: none;
+        width: 100%;
+    }
+    .navbar {
+        position: static;
+    }
+}
+
+@media screen and (max-width:470px) {
+    .p1 {
+        word-wrap: break-word;
+    }
+    .sixsplit {
+        width: calc(96%/6)
+    }
+  }
+
+.header {
+    padding-bottom: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+}
+
+.progressbar {
+    overflow: hidden;
+    background-color: hotpink;
+    border-radius: 6px;
+}
+
+.progress {
+    width:50%;
+    overflow: hidden;
+    background-color:#145DA0;
+    height: 24px;
+}
+
+.progressbarundertext {
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+}
+
+.progressbartext {
+    color: black;
+    padding: 0px 5px 0px 5px;
+}
+
+.male {
+    float: left;
+    color:#145DA0;
+}
+
+.female {
+    float: right;
+    color: hotpink;
+}
+
+.progresscontainer {
+    float: left;
+    width: 100%;
+    padding: 10px 0px 0px 0px;
+}
+
+.navigate {
+    overflow:hidden;
+    background-color: #2E8BC0;
+    position: sticky;
+    top: 0;
+    border-radius: 6px;
+}
+
+.navigate a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+.navigate a:hover:not(.active) {
+    background-color: #145DA0;
+    transition: background-color 0.5s;
+}
+  
+.navigate a:not(:hover) {
+    background-color: #2E8BC0;
+    transition: background-color 0.5s;
+}
+
+a {
+    color: black;
+    text-decoration: none!important;
+}
+
+.pimg {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #dad7d7;
+}
+
+
+.header {
+    padding-bottom: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+}
+
+.p1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 0px 5px 0px 5px;
+}
+
+.lefttypecolumn {
+    float: left;
+    width: 50%;
+}
+
+.righttypecolumn {
+    float: left;
+    width: 50%;
+    padding-left: 20px;
+}
+
+.leftpokemoncolumn {
+    float: left;
+    width: 25%;
+}
+
+.rightpokemoncolumn {
+    float: left;
+    width: 75%;
+    padding-left: 20px;
+}
+
+.column .card {
+    min-height: 500px;
+}
+
+.third {
+    width: 100%;
+}
+
+.pokedexnumber {
+    background-color: #e4e3e3;
+    padding: 5px;
+    border-radius: 8px;
+    float: right;
+    text-align: center;
+}
+
+.genbox {
+    color: black;
+}
+
+.generationnumber {
+    background-color: #e4e3e3;
+    padding: 5px;
+    border-radius: 8px;
+    float: right;
+    text-align: center;
+    margin: 0px 5px 0px 5px;
+}
+
+.statHolder {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.abilitycontainer {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+
+.sixsplit {
+    flex: 1 1 0px;
+    border-radius: 6px;
+    margin-right: 4px;
+}
+
+.sixsplit:last-child {
+    margin-right: 0;
+}
+
+.border {
+    border-style: solid;
+    border-color: #145DA0;
+    border-radius: 6px;
+}
+
+.ability {
+    border-radius: 6px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.abilityHA {
+    width: 100%;
+    border-radius: 6px;
+    margin: 5px 0px 0px 0px;
+    display: inline-block;
+    background-color: orangered;
+}
+
+.typeCard {
+    margin: auto;
+    margin-top: 3px;    
+    margin-bottom: 6px;
+    width: 100%;
+    text-align: center;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 0px 20px 0px 20px;
+    white-space: nowrap;
+}
+
+.small {
+    min-width: 100px;
+    width: 10%;
+    margin-right: 5px;
+}
+
+.move {
+    white-space: nowrap;
+}
+
+.normal {
+    background: #A8A77A;
+}
+
+.fire {
+    background: #EE8130;
+}
+
+.water {
+    background: #6390F0;
+}
+
+.electric {
+    background: #F7D02C;
+}
+
+.grass {
+    background: #7AC74C;
+}
+
+.ice {
+    background: #96D9D6;
+}
+
+.fighting {
+    background: #C22E28;
+}
+
+.poison {
+    background: #A33EA1;
+}
+
+.ground {
+    background: #E2BF65;
+}
+
+.flying {
+    background: #A98FF3;
+}
+
+.psychic {
+    background: #F95587;
+}
+
+.bug {
+    background: #A6B91A;
+}
+
+.rock {
+    background: #B6A136;
+}
+
+.ghost {
+    background: #735797;
+}
+
+.dragon {
+    background: #6F35FC;
+}
+
+.dark {
+    background: #705746;
+}
+
+.steel {
+    background: #B7B7CE;
+}
+
+.fairy {
+    background: #D685AD;
+}
+
+.abilityCard {
+    background-color: #ff5959;
+}
+
+.healthCard {
+    background-color: #ff5959;
+}
+
+.attackCard {
+    background-color: #f5ac78;
+}
+
+.defenseCard {
+    background-color: #fae078;
+}
+
+.spAttackCard {
+    background-color: #9db7f5;
+}
+
+.spDefenseCard {
+    background-color: #a7db8d;
+}
+
+.speedCard {
+    background-color: #fa92b2;
+}
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+}
+
+.rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+}
+
+.card, .headerCard {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    overflow: auto; 
+}
+
+.expand {
+    transition: transform .2s;
+}
+
+.expand:hover {
+    transform: scale(1.01);
+}
+
+h5, p {
+    transition: transform .2s;
+}
+
+.expand:hover > h5, .expand:hover > p {
+    transform: scale(calc(1/1.01));
+}
+  
+.movecard {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    overflow: auto; 
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+  
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+}
+  
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+  
+select {
+    width: 100%;
+    padding: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+  
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+  
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.col-40 {
+    float: left;
+    width: 40%;
+}
+
+.col-60 {
+    float: left;
+    width: 60%;
+    padding-left: 20px;
+}
+
+  @media screen and (max-width: 600px) {
+    .col-25, .col-75{
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+  
+  @media screen and (max-width:850px) {
+    .leftcolumn, .rightcolumn, .column {
+      width: 100%;
+    }
+    .leftcolumn, .rightcolumn {
+      padding: 0;
+    }
+  }
+
+  @media screen and (max-width:1500px) and (min-width: 850px){
+    .column {
+        width: 50%;
+    }
+    .sixsplit {
+        width: calc(96%/6)
+    }
+  }
+
+  @media screen and (max-width:850px) {
+    .leftpokemoncolumn, .rightpokemoncolumn {
+      width: 100%;
+      padding: 0;
+    }
+  }
+
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+
+.wide {
+    width:100%;
+}
+
+.smallimg {
+    height: 100px;
+    width: 100px;
+}
+
+.highlight:hover {
+    box-shadow: inset -2px 0 0 black, inset 0 -2px 0 black, inset 2px 0 0 black, inset 0 2px 0 black;
+    cursor: pointer;
+}

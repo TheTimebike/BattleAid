@@ -1,0 +1,14 @@
+{
+    "name": "Wood Hammer",
+    "id": "452",
+    "desc": "The user slams its rugged body into the target toattack. This also damages the user quite a lot.",
+    "generation-introduced": "4",
+    "type": "Grass",
+    "power": "120",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "199"
+}

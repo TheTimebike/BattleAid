@@ -1,0 +1,14 @@
+{
+    "name": "Smokescreen",
+    "id": "108",
+    "desc": "The user releases an obscuring cloud of smoke orink. This lowers the target\u2019s accuracy.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "24"
+}

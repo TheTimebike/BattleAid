@@ -1,0 +1,14 @@
+{
+    "name": "Double Kick",
+    "id": "24",
+    "desc": "The target is quickly kicked twice in successionusing both feet.",
+    "generation-introduced": "1",
+    "type": "Fighting",
+    "power": "30",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "45"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Extreme Evoboost",
+    "id": "702",
+    "desc": "After obtaining Z-Power, the user, Eevee, getsenergy from its evolved friends and boosts itsstats sharply.",
+    "generation-introduced": "7",
+    "type": "Normal",
+    "power": "",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "414"
+}

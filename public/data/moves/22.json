@@ -1,0 +1,14 @@
+{
+    "name": "Vine Whip",
+    "id": "22",
+    "desc": "The target is struck with slender, whiplike vines toinflict damage.",
+    "generation-introduced": "1",
+    "type": "Grass",
+    "power": "45",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "1"
+}

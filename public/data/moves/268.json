@@ -1,0 +1,14 @@
+{
+    "name": "Charge",
+    "id": "268",
+    "desc": "The user boosts the power of the Electric move ituses on the next turn. This also raises the user\u2019sSp. Def stat.",
+    "generation-introduced": "3",
+    "type": "Electric",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "7",
+    "effect_id": "1",
+    "effect_chance": "175"
+}

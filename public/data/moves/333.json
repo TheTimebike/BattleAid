@@ -1,0 +1,14 @@
+{
+    "name": "Icicle Spear",
+    "id": "333",
+    "desc": "The user launches sharp icicles at the target two tofive times in a row.",
+    "generation-introduced": "3",
+    "type": "Ice",
+    "power": "25",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "30"
+}

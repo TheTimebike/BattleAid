@@ -1,0 +1,14 @@
+{
+    "name": "Whirlwind",
+    "id": "18",
+    "desc": "The target is blown away, and a different Pok\u00e9mon isdragged out. In the wild, this ends a battle against asingle Pok\u00e9mon.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "",
+    "pp": "20",
+    "accuracy": "--%",
+    "priority": "-6",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "29"
+}

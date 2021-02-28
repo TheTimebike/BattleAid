@@ -1,0 +1,14 @@
+{
+    "name": "Flame Wheel",
+    "id": "172",
+    "desc": "The user cloaks itself in fire and charges at thetarget. This may also leave the target with a burn.",
+    "generation-introduced": "2",
+    "type": "Fire",
+    "power": "60",
+    "pp": "25",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "126"
+}

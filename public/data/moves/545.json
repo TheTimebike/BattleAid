@@ -1,0 +1,14 @@
+{
+    "name": "Searing Shot",
+    "id": "545",
+    "desc": "The user torches everything around it in an infernoof scarlet flames. This may also leave those it hitswith a burn.",
+    "generation-introduced": "5",
+    "type": "Fire",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "9",
+    "effect_id": "3",
+    "effect_chance": "5"
+}

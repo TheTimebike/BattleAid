@@ -1,0 +1,1 @@
+{"name": "Bad Dreams", "id": "123", "generation-introduced": "4", "short-desc": "Damages sleeping opponents for 1/8 their max HP after each turn. ", "long-desc": "Opposing Pokemon take 1/8 of their maximum HP in damage after each turn while they are asleep. ", "pokemonWithAbility": [{"name": "Darkrai", "id": "491", "types": {"17": {"id": "17", "name": "Dark"}}, "ha": false}]}

@@ -1,0 +1,14 @@
+{
+    "name": "Entrainment",
+    "id": "494",
+    "desc": "The user dances with an odd rhythm that compelsthe target to mimic it, making the target\u2019s Abilitythe same as the user\u2019s.",
+    "generation-introduced": "5",
+    "type": "Normal",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "1",
+    "effect_chance": "300"
+}

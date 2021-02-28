@@ -1,0 +1,14 @@
+{
+    "name": "Mach Punch",
+    "id": "183",
+    "desc": "The user throws a punch at blinding speed. Thismove always goes first.",
+    "generation-introduced": "2",
+    "type": "Fighting",
+    "power": "40",
+    "pp": "30",
+    "accuracy": "100%",
+    "priority": "1",
+    "damage_class": "10",
+    "effect_id": "2",
+    "effect_chance": "104"
+}

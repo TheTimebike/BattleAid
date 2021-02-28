@@ -1,0 +1,14 @@
+{
+    "name": "Stored Power",
+    "id": "500",
+    "desc": "The user attacks the target with stored power. Themore the user\u2019s stats are raised, the greater themove\u2019s power.",
+    "generation-introduced": "5",
+    "type": "Psychic",
+    "power": "20",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "306"
+}

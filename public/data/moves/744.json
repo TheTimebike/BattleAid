@@ -1,0 +1,14 @@
+{
+    "name": "Dynamax Cannon",
+    "id": "744",
+    "desc": "",
+    "generation-introduced": "8",
+    "type": "Dragon",
+    "power": "100",
+    "pp": "5",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": ""
+}

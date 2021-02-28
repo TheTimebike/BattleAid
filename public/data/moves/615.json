@@ -1,0 +1,14 @@
+{
+    "name": "Thousand Waves",
+    "id": "615",
+    "desc": "The user attacks with a wave that crawls along theground. Those hit can\u2019t flee from battle.",
+    "generation-introduced": "6",
+    "type": "Ground",
+    "power": "90",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "11",
+    "effect_id": "2",
+    "effect_chance": "374"
+}

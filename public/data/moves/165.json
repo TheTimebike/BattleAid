@@ -1,0 +1,14 @@
+{
+    "name": "Struggle",
+    "id": "165",
+    "desc": "This attack is used in desperation only if the userhas no PP. It also damages the user a little.",
+    "generation-introduced": "1",
+    "type": "Normal",
+    "power": "50",
+    "pp": "1",
+    "accuracy": "--%",
+    "priority": "0",
+    "damage_class": "8",
+    "effect_id": "2",
+    "effect_chance": "255"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Judgment",
+    "id": "449",
+    "desc": "The user releases countless shots of light at thetarget. This move\u2019s type varies depending on thekind of Plate the user is holding.",
+    "generation-introduced": "4",
+    "type": "Normal",
+    "power": "100",
+    "pp": "10",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "269"
+}

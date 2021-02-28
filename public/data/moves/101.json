@@ -1,0 +1,14 @@
+{
+    "name": "Night Shade",
+    "id": "101",
+    "desc": "The user makes the target see a frightening mirage.It inflicts damage equal to the user\u2019s level.",
+    "generation-introduced": "1",
+    "type": "Ghost",
+    "power": "",
+    "pp": "15",
+    "accuracy": "100%",
+    "priority": "0",
+    "damage_class": "10",
+    "effect_id": "3",
+    "effect_chance": "88"
+}

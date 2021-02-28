@@ -24,6 +24,24 @@ function createCard(name, id, types, url, stats, gender, ability, HA, form) {
         paddedID = pad(id, 3)
     }
 
+
+    // if data incomplete, ie if got an ability in gen 8
+
+    if (ability[0].name === "") {
+        ability[0].name = "N/A"
+    }
+
+    if (ability[1].name === "") {
+        ability[1].name = "N/A"
+    }
+
+    if (HA.name == null) {
+        HA = {
+            "name": "N/A",
+            "id": "N/A"
+        }
+    }
+
     var female_chance = (gender / 8) * 100
     var male_chance = 100 - female_chance
 

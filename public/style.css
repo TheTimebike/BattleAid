@@ -1,7 +1,16 @@
 * {
     box-sizing: border-box;
-  }
+}
   
+h5, span {
+    font-family: Helvetica!important;
+}
+
+.date-published {
+    float: right;
+    font-size: 12px;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
@@ -108,7 +117,7 @@ input[type=text] {
     background-color: #0C2D48;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 768px) {
     .navbar a {
         float: none;
         width: 100%;
@@ -556,42 +565,55 @@ select {
     padding-left: 20px;
 }
 
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
     .col-25, .col-75{
-      width: 100%;
-      margin-top: 0;
+        width: 100%;
+        margin-top: 0;
     }
-  }
+}
   
-  @media screen and (max-width:850px) {
+@media screen and (max-width:768px) {
     .leftcolumn, .rightcolumn, .column {
-      width: 100%;
+        width: 100%;
     }
     .leftcolumn, .rightcolumn {
-      padding: 0;
+        padding: 0;
     }
-  }
+}
 
-  @media screen and (max-width:1500px) and (min-width: 850px){
+@media screen and (max-width:1536px) and (min-width: 768px){
+    .detailed {
+        width: 100%!important;
+    }
     .column {
         width: 50%;
     }
     .sixsplit {
         width: calc(96%/6)
     }
-  }
+}
 
-  @media screen and (max-width:850px) {
+@media screen and (max-width:768px) {
     .leftpokemoncolumn, .rightpokemoncolumn {
-      width: 100%;
-      padding: 0;
+        width: 100%;
+        padding: 0;
     }
-  }
+    .detailed {
+        width: 100%;
+    }
+}
 
-  label {
+@media screen and (max-width:786px) {
+    .leftpokemoncolumn, .rightpokemoncolumn {
+        width: 100%;
+        padding: 0;
+    }
+}
+
+label {
     padding: 12px 12px 12px 0;
     display: inline-block;
-  }
+}
 
 .wide {
     width:100%;

@@ -28,7 +28,7 @@ function createTyping(types, effeciency, id) {
 function createPokemonInfo(types, uuid) {
     var columnDiv = document.createElement("div");
 
-    columnDiv.className = "rightpokemoncolumn"
+    columnDiv.className = "rightpokemoncolumn detailed"
     columnDiv.innerHTML = `
         <div class="card">
             <h2 id="pokename">Type Advantages</h2>

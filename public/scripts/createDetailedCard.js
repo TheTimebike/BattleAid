@@ -1,7 +1,7 @@
 function createCard(name, id, types, url, stats, gender, ability, HA, form) {
     var columnDiv = document.createElement("div");
     columnDiv.id = id
-    columnDiv.className = "column"
+    columnDiv.className = "column detailed"
 
     imgurl = id.replace("-1", "")
     console.log(form);

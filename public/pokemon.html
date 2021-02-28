@@ -113,7 +113,7 @@ $.getJSON(`./data/pokemon/${pokemonID}.json`, function(data) {
         "form": data.form_name
     }
     readData(packaged_data);
-    document.title = niceName(packaged_data.name)
+    document.title = niceName(packaged_data.english_name)
 });
 </script>
 <script src="/__/firebase/8.2.4/firebase-app.js"></script>

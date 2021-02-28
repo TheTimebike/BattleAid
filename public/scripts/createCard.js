@@ -4,7 +4,6 @@ function createCard(name, id, types, url, stats, ability, HA, form) {
     columnDiv.className = "column"
 
     imgurl = id.replace("-1", "")
-    console.log(form);
     if (form !== "") {
         imgurl = `${id.split("-")[0]}-${form}`
     }
@@ -60,12 +59,15 @@ function createCard(name, id, types, url, stats, ability, HA, form) {
         </div>`
     }
 
+    var bookmarked =  (isBookmarked(id) ? `<div id="bookmark-btn" onclick="removeFromBookmarks(event)" class="bookmarked">Bookmarked!</div>` : `<div id="bookmark-btn" onclick="addToBookmarks(event)" class="bookmark">Bookmark</div>`)
+
     columnDiv.innerHTML = `
-    <div id="${id}" class="highlight expand card" onclick="location.href='./pokemon.html?pokemon=${id}';">
+    <div id="${id}" class="card" onclick="location.href='./pokemon.html?pokemon=${id}';">
         <div class="pokedexnumber">${paddedID}</div>
+        ${bookmarked}
         <h2 id="pokename">${name}</h2>
         <hr>
-        <a href="pokemon.html?pokemon=${id}"><img loading="lazy" id="pokeimg" class="pimg" onerror="imgError(this);" src=./images/${imgurl}.png></a>
+        <a href="pokemon.html?pokemon=${id}"><img loading="lazy" id="pokeimg" class="pimg highlight expand" onerror="imgError(this);" src=./images/${imgurl}.png></a>
         ${firsttypecard}
         ${secondtypecard}
         <div class="statHolder">

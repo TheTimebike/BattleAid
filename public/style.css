@@ -291,6 +291,16 @@ body {
     text-align: center;
 }
 
+.bookmark, .bookmarked {
+    margin-right: 10px; 
+    cursor: pointer;
+    background-color: #e4e3e3;
+    padding: 5px;
+    border-radius: 8px;
+    float: right;
+    text-align: center;
+}
+
 .genbox {
     color: black;
 }
@@ -371,6 +381,11 @@ body {
 
 .move {
     white-space: nowrap;
+}
+
+.battle-blue {
+    background: #2E8BC0;
+    color: white;
 }
 
 .normal {

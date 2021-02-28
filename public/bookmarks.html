@@ -120,14 +120,9 @@
     }
 
     function addCards() {
-        var count = 0;
-        $.getJSON(`./data/generations/${gen}.json`, function(allData) {
-            $.each(allData.list, function(key, val) {
+        $.each(localStorage.getItem("pokemon_bookmarks").split(","), function(index, id) {
+            $.getJSON(`./data/pokemon/${id}.json`, function(val) {
                 readData(val.name, val.id, val.types, `./images/${val.id}.png`, val.base_stats, val.abilities, val.hidden_ability, val.form_name);
-                count++;
-                if (count===Object.keys(key).length) {
-                    
-                }
             })
         })
     }
@@ -138,23 +133,14 @@
         return true;
     }
 
-    const urlParams = new URLSearchParams(window.location.search);
-    const gen = urlParams.get('generation');
-    var nvb = document.getElementById(`gen${gen}`);
-    nvb.className = "active";
-    document.title = niceName(`Generation ${gen}`);
-    addCards(gen);
+    addCards();
 
 </script>
 
-<!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="/__/firebase/8.2.4/firebase-app.js"></script>
 
-<!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
 <script src="/__/firebase/8.2.4/firebase-analytics.js"></script>
 
-<!-- Initialize Firebase -->
 <script src="/__/firebase/init.js"></script>
 
 </body>

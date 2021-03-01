@@ -1,4 +1,4 @@
-function lookoutMoves(moves) {
+function lookoutMoves(moves, typeconv) {
     var count2 = 0
 
     var movesToLookFor = ["taunt", "encore", "trick room", "imprison", "defog", "rapid spin", "sleep powder", "hypnosis", "spore", "pursuit", "trick", "skill swap", "rage powder",
@@ -23,7 +23,7 @@ function lookoutMoves(moves) {
     });
 }
 
-function priorityMoves(moves) {
+function priorityMoves(moves, typeconv) {
     var count2 = 0
 
     var priorityMoveString = ""
@@ -43,7 +43,7 @@ function priorityMoves(moves) {
     });
 }
 
-function moveTypesKnown(moves) {
+function moveTypesKnown(moves, typeconv) {
     var moveTypesKnown = []
     var moveString = ""
     var count2 = 0
@@ -52,7 +52,8 @@ function moveTypesKnown(moves) {
             count2++
             if (!moveTypesKnown.includes(val.type) && val.damage_class != "status") {
                 moveTypesKnown.push(val.type);
-                moveString = moveString.concat(`<a href="type.html?type=${val["id"]}" id="typeCardOne" class="typeCard highlight expand small ${val["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(val["type"])}</h5></a>`);
+                console.log(val);
+                moveString = moveString.concat(`<a href="type.html?type=${typeconv[val["type"].toLowerCase()]}" class="typeCard highlight expand small ${val["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(val["type"])}</h5></a>`);
             }
             if (Object.keys(moves).length == count2) resolve2();
         })
@@ -64,7 +65,7 @@ function moveTypesKnown(moves) {
     }); 
 }
 
-function createMoveInfo(moves) {
+function createMoveInfo(moves, typeconv) {
     var columnDiv = document.createElement("div");
 
     columnDiv.className = "column wide"
@@ -85,7 +86,7 @@ function createMoveInfo(moves) {
     var doc_body = document.getElementById("insertMoves");
     doc_body.appendChild(columnDiv);
 
-    lookoutMoves(moves);
-    priorityMoves(moves);
-    moveTypesKnown(moves)
+    lookoutMoves(moves, typeconv);
+    priorityMoves(moves, typeconv);
+    moveTypesKnown(moves, typeconv)
 }

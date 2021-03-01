@@ -75,7 +75,7 @@
 
 
 <script>
-    function readData(data) { // eng_name, id, types, url, stats, moves, gender, typing_nice, ability, HA, form
+    function readData(data, typeconv) { // eng_name, id, types, url, stats, moves, gender, typing_nice, ability, HA, form
         var eng_name = data.english_name;
         var id = data.id;
         var types = data.types;
@@ -88,9 +88,11 @@
         var hidden_ability = data.hidden_ability;
         var form = data.form;
 
+        console.log(typeconv)
+
         createCard(eng_name, id, types, url, stats, gender, abilities, hidden_ability, form);
         createPokemonInfo(typing_formatted);
-        createMoveInfo(moves);
+        createMoveInfo(moves, typeconv);
         
         setPrev(id);
         setNext(id);
@@ -99,22 +101,24 @@
 const urlParams = new URLSearchParams(window.location.search);
 const pokemonID = urlParams.get('pokemon');
 
-$.getJSON(`./data/pokemon/${pokemonID}.json`, function(data) {
-    var packaged_data = {
-        "english_name": data.name,
-        "id": data.id,
-        "types": data.types,
-        "url": `./images/${data.id}.png`,
-        "stats": data.base_stats,
-        "moves": data.moves,
-        "gender": data.gender_rate,
-        "typing_formatted": data.types_nice,
-        "abilities": data.abilities,
-        "hidden_ability": data.hidden_ability,
-        "form": data.form_name
-    }
-    readData(packaged_data);
-    document.title = niceName(packaged_data.english_name)
+$.getJSON(`./data/typeconv.json`, function(type) {
+    $.getJSON(`./data/pokemon/${pokemonID}.json`, function(data) {
+        var packaged_data = {
+            "english_name": data.name,
+            "id": data.id,
+            "types": data.types,
+            "url": `./images/${data.id}.png`,
+            "stats": data.base_stats,
+            "moves": data.moves,
+            "gender": data.gender_rate,
+            "typing_formatted": data.types_nice,
+            "abilities": data.abilities,
+            "hidden_ability": data.hidden_ability,
+            "form": data.form_name
+        }
+        readData(packaged_data, type);
+        document.title = niceName(packaged_data.english_name)
+    });
 });
 </script>
 <script src="/__/firebase/8.2.4/firebase-app.js"></script>

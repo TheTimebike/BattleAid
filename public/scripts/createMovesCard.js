@@ -11,7 +11,7 @@ function lookoutMoves(moves) {
             var moveObject = null
             var moveObject = Object.values(moves).find(obj => obj.name.toLowerCase() === val)
             if (moveObject != null) {
-                notableMoveString = notableMoveString.concat(`<div id="typeCardOne" class="typeCard highlight expand small ${moveObject["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(moveObject["name"])}</h5></div>`);
+                notableMoveString = notableMoveString.concat(`<a href="move.html?type=${moveObject["id"]}" id="typeCardOne" class="typeCard highlight expand small ${moveObject["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(moveObject["name"])}</h5></a>`);
             }
             if (movesToLookFor.length == count2) resolve2();
         })
@@ -31,7 +31,7 @@ function priorityMoves(moves) {
         $.each(moves, function(key, val) {
             count2++
             if(val.priority > 0) {
-                priorityMoveString = priorityMoveString.concat(`<div id="typeCardOne" class="typeCard highlight expand small ${val["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(val["name"])}</h5></div>`);
+                priorityMoveString = priorityMoveString.concat(`<a href="move.html?type=${val["id"]}" id="typeCardOne" class="typeCard highlight expand small ${val["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(val["name"])}</h5></a>`);
             }
             if (Object.keys(moves).length == count2) resolve();
         })
@@ -52,7 +52,7 @@ function moveTypesKnown(moves) {
             count2++
             if (!moveTypesKnown.includes(val.type) && val.damage_class != "status") {
                 moveTypesKnown.push(val.type);
-                moveString = moveString.concat(`<div id="typeCardOne" class="typeCard highlight expand small ${val["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(val["type"])}</h5></div>`);
+                moveString = moveString.concat(`<a href="type.html?type=${val["id"]}" id="typeCardOne" class="typeCard highlight expand small ${val["type"].toLowerCase()}"><h5 id="poketypeOne">${niceName(val["type"])}</h5></a>`);
             }
             if (Object.keys(moves).length == count2) resolve2();
         })
